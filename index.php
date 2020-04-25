@@ -25,7 +25,7 @@
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
                     <center>
                         <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
-                        <h1 class="headertext shadow">MI ALMA RESTAURANT</H1>
+                        <h1 class="headertext shadow">EL NINJA RESTAURANT</H1>
                     </center>
                     <center>
                         <img src="img/logo.png" class="imglogohead">

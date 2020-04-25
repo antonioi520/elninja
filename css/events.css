@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Satisfy';
+    src: url('https://fonts.googleapis.com/css?family=Satisfy'); /* IE9 Compat Modes */
+    src: url('https://fonts.googleapis.com/css?family=Satisfy') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://fonts.googleapis.com/css?family=Satisfy') format('woff'), /* Modern Browsers */
+    url('https://fonts.googleapis.com/css?family=Satisfy')  format('truetype'), /* Safari, Android, iOS */
+    url('https://fonts.googleapis.com/css?family=Satisfy') format('svg'); /* Legacy iOS */
+}
+
+.eventHeaderImage{
+    height:450px;
+    width:450px;
+    object-fit: contain;
+    filter:brightness(90%);
+
+}
+.eventHeaderBox {
+    border: 0 solid deepskyblue;
+    background-color: rgba(0,191,255,0.4);
+    line-height: 1.1em;
+    max-height: 5em;
+//margin: 1em;
+    padding: .1em;
+
+    width: 20em;
+    border-radius: 5px;
+    z-index: 2323;
+}
+.eventHeaderText{
+    font-family: 'Satisfy', cursive;
+    color:white;
+    font-size: 70px;
+    padding-bottom: 5px;
+    line-height: 1.1em;
+}
+#hero{
+    //top: 436px;
+}
+#video{
+    width: 640px;
+    height: 352px;
+}
+@media (max-width: 896px) {
+    #hero{
+        //left:40px;
+        top:400px;
+    }
+    #hero h1 {
+        margin-top: 25px;
+        font-size: 50px;
+        line-height: 30px;
+    }
+
+    #hero .eventHeaderBox{
+        min-width:15em;
+        max-width:15em;
+        width:15em;
+
+    }
+
+}
+@media (max-width: 896px) {
+    .arrowRemove span{
+      display:none;
+    }
+}
+
+#ninjaCardA{
+    float:right;
+    margin-right:41%;
+}
+
+#ninjaCardB{
+    float:right;
+    margin-right:43%;
+}
+@media (max-width: 896px) {
+    #videoRow video{
+        width:300px;
+        height:200px;
+    }
+    #galleryVid{
+        width:100%;
+    }
+    #ninjaCardA{
+        float:right;
+        margin-right:15%;
+    }
+    #ninjaCardB{
+        float:right;
+        margin-right:18%;
+    }
+}
+
+#content-desktop {
+
+    display: block;
+}
+
+#content-mobile {
+
+    display: none;
+}
+
+
+@media (max-width:896px) {
+
+    img#hide {
+        display: none;
+    }
+
+    #content-desktop {
+        display: none;
+    }
+
+    #content-mobile {
+        display: block;
+    }
+}

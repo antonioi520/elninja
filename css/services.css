@@ -1,0 +1,112 @@
+
+@font-face {
+    font-family: 'Satisfy';
+    src: url('https://fonts.googleapis.com/css?family=Satisfy'); /* IE9 Compat Modes */
+    src: url('https://fonts.googleapis.com/css?family=Satisfy') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://fonts.googleapis.com/css?family=Satisfy') format('woff'), /* Modern Browsers */
+    url('https://fonts.googleapis.com/css?family=Satisfy')  format('truetype'), /* Safari, Android, iOS */
+    url('https://fonts.googleapis.com/css?family=Satisfy') format('svg'); /* Legacy iOS */
+}
+
+.serviceHeaderImage{
+    height:450px;
+    width:450px;
+    object-fit: contain;
+    filter:brightness(90%);
+
+}
+.serviceHeaderBox {
+    border: 0 solid deepskyblue;
+    background-color: rgba(0,191,255,0.4);
+    line-height: 1.1em;
+    max-height: 5em;
+//margin: 1em;
+    padding: .1em;
+
+    width: 20em;
+    border-radius: 5px;
+    z-index: 2323;
+}
+.serviceHeaderText{
+    font-family: 'Satisfy', cursive;
+    color:white;
+    font-size: 70px;
+    padding-bottom: 5px;
+    line-height: 1.1em;
+}
+#hero{
+//top: 436px;
+}
+/* Subscribe Section
+--------------------------------*/
+#subscribe {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/TheaterInterior/concert-41.jpg) fixed center center;
+    background-size: cover;
+    padding: 30px 0;
+}
+
+#subscribe .subscribe-title {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+#subscribe .subscribe-text {
+    color: #fff;
+}
+
+#subscribe .subscribe-btn-container {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#subscribe .subscribe-btn {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+#subscribe .subscribe-btn:hover {
+    background: #03C4EB;
+    border: 2px solid #03C4EB;
+}
+
+@media (max-width: 896px) {
+    #subscribe img{
+        width:300px;
+    }
+}
+
+@media (max-width: 896px) {
+    #hero{
+    //left:40px;
+        top:400px;
+    }
+    #hero h1 {
+        margin-top: 25px;
+        font-size: 50px;
+        line-height: 30px;
+    }
+
+    #hero .serviceHeaderBox{
+        min-width:15em;
+        max-width:15em;
+        width:15em;
+
+    }
+
+}
+@media (max-width: 896px) {
+    .arrowRemove span{
+        display:none;
+    }
+}
