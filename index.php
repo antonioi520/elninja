@@ -25,7 +25,7 @@
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
                     <center>
                         <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
-                        <h1 class="headertext shadow">MI ALMA RESTAURANT</H1>
+                        <h1 class="headertext shadow">EL NINJA RESTAURANT</H1>
                     </center>
                     <center>
                         <img src="img/logo.png" class="imglogohead">
@@ -38,7 +38,7 @@
                     <center>
                         <ul class="headericons">
                             <li style="display: inline;padding:0.5em;"> <div id="test"><a href="https://www.facebook.com/Mi-Alma-1150016415172344/" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
-                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/mialmarestaurant/?hl=en" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
+                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
                 </div>
@@ -75,12 +75,12 @@
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
                 <p class="about-text">
-                    Mi Alma Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
+                    El Ninja Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
                     boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
                 </p>
                 <p class="about-text">
-                    Services provided at Mi Alma Restaurant include an array of Dominican/Latin cuisine, events and
-                    live concerts. We go out of our way to ensure that your time spent at Mi Alma Restaurant is
+                    Services provided at El Ninja Restaurant include an array of Dominican/Latin cuisine, events and
+                    live concerts. We go out of our way to ensure that your time spent at El Ninja Restaurant is
                     memorable and of the highest quality!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
