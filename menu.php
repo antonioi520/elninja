@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Mi Alma Restaurant</title>
+    <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -32,8 +32,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
-    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
-    <link rel="icon" href="img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
+    <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
 
 </head>
@@ -108,7 +108,7 @@
 
     <div class="container" id="">
         <center>
-            <img src="img/logo.png" style="height:200px;width:300px;object-fit: contain;">
+            <img src="img/logo_ninja.png" style="height:200px;width:300px;object-fit: contain;">
         </center>
 
         <br> <hr>
