@@ -28,7 +28,7 @@
                         <h1 class="headertext shadow">EL NINJA RESTAURANT</H1>
                     </center>
                     <center>
-                        <img src="img/logo.png" class="imglogohead">
+                        <img src="img/logo_ninja.png" class="imglogohead">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
