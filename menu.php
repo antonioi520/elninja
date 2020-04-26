@@ -53,7 +53,7 @@
                     </center>-->
                     <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="top:-10px;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="top:-10px;">El Ninja Menu</h1>
                     </div>
                     </center>
                 </div>
@@ -64,7 +64,7 @@
 
                 <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="color:white;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
@@ -75,7 +75,7 @@
 
                 <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="color:white;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
@@ -86,7 +86,7 @@
 
                 <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="color:white;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
