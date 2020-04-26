@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>EL Ninja Restaurant</title>
+    <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
