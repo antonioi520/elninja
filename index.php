@@ -160,7 +160,9 @@
                             </a>-->
                         </div>
 
-                        <div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                        <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
+                        <div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
+
                     </form>
                 </div>
             </div>
