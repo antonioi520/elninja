@@ -108,49 +108,73 @@
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-1.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-1.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-4.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-2.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-5.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-3.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-8.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-4.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-13.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-5.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-15.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-6.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-17.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-7.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-21.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-8.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(8)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-26.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(9)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-9.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(9)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-31.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(10)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-10.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(10)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-35.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(11)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-11.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(11)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-37.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(12)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-12.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(12)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-39.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(13)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-13.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(13)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-41.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(14)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-14.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(14)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-43.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(15)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-15.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(15)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-16.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(16)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-17.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(17)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-18.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(18)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-19.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(19)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-20.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(20)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-21.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(21)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-22.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(22)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-23.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(23)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -331,73 +355,105 @@
         <div class="modal-content">
 
             <div class="foodSlides">
-                <div class="numbertext">1 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-1.jpg" style="width:100%" alt="Fried Calamari">
+                <div class="numbertext">1 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-1.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">2 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-4.jpg" style="width:100%" alt="Shrimp Cocktail">
+                <div class="numbertext">2 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-2.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">3 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-5.jpg" style="width:100%" alt="Shrimp Mofongo">
+                <div class="numbertext">3 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-3.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">4 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-8.jpg" style="width:100%" alt="Cheese Mofongo with Pork Chops">
+                <div class="numbertext">4 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-4.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">5 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-13.jpg" style="width:100%" alt="Oxtail with Rice and Beans + Potato Salad with Beets">
+                <div class="numbertext">5 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-5.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">6 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-15.jpg" style="width:100%" alt="Dominican Pumpkin Cream Soup">
+                <div class="numbertext">6 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-6.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">7 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-17.jpg" style="width:100%" alt="Fusion Shrimp">
+                <div class="numbertext">7 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-7.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">8 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-21.jpg" style="width:100%" alt="Picalonga (Fried Cheese, Pork chops, Longaniza, Fried beef and Tostones)">
+                <div class="numbertext">8 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-8.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">9 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-26.jpg" style="width:100%" alt="Seafood Platter (Calamari, Fried Shrimp, Fried Fish, and Fries)">
+                <div class="numbertext">9 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-9.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">10 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-31.jpg" style="width:100%" alt="Salmon Linguine with Vodka Sauce">
+                <div class="numbertext">10 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-10.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">11 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-35.jpg" style="width:100%" alt="Strawberry Juice">
+                <div class="numbertext">11 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-11.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">12 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-37.jpg" style="width:100%" alt="Spicy Pear Martini">
+                <div class="numbertext">12 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-12.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">13 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-39.jpg" style="width:100%" alt="Mimosa">
+                <div class="numbertext">13 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-13.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">14 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-41.jpg" style="width:100%" alt="Red Sangria">
+                <div class="numbertext">14 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-14.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">15 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-43.jpg" style="width:100%" alt="Moscow Mule">
+                <div class="numbertext">15 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-15.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">16 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-16.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">17 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-17.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">18 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-18.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">19 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-19.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">20 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-20.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">21 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-21.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">22 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-22.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">23 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-23.jpg" style="width:100%" alt="">
             </div>
 
             <a class="prev" onclick="plusFoodSlides(-1)">&#10094;</a>
