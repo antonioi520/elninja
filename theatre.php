@@ -45,7 +45,7 @@
 
 <?php include("views/nav_pages.html")?>
 <BR>
-<div id="content-desktop896">
+<!--div id="content-desktop896">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -83,10 +83,10 @@
         </div>
     </div>
 
-</div>
+</div-->
 <div class="container">
 <center>
-    <img src="img/logoT.png" style="height:200px;width:300px;object-fit: contain;">
+    <img src="img/logoT.png" style="height:250px;width:350px;object-fit: contain;">
 </center>
 
 <hr style="margin-bottom:0px;">
