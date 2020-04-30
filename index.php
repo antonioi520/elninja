@@ -179,9 +179,9 @@
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: red;"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4:00pm-12:00am</p><br>
+                        <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
                         <strong>Fri:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12:00pm-12:00am</p>
+                        <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12pm-12am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: red;"></i><h4 style="padding-left:1.6em;">Location</h4>
