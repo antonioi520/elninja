@@ -195,14 +195,14 @@ img.hover-shadow {
 }
 
 .gallery-border {
-    border: 2px dashed deepskyblue;
+    border: 2px dashed red;
     line-height: 1.5em;
     margin: 0;
     padding: 1em;
 }
 
 .galleryHeaderBox {
-    border: 0 solid deepskyblue;
+    border: 0 solid red;
     background-color: rgba(164,66,244,0.7);
     line-height: 1.1em;
     max-height: 5.5em;
@@ -215,7 +215,7 @@ img.hover-shadow {
 }
 #borderBox{
     transition: 0.5s;
-    border: 1px solid deepskyblue;
+    border: 1px solid red;
     background-color: rgba(164,66,244,0.7);
     height:90px;
     width:400px;
@@ -242,7 +242,7 @@ img.hover-shadow {
     filter:brightness(90%);
 }
 .galleryHeaderBox {
-    border: 0 solid deepskyblue;
+    border: 0 solid red;
     background-color: rgba(0,191,255,0.4);
     line-height: 1.1em;
     max-height: 6.5em;
