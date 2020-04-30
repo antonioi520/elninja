@@ -324,28 +324,40 @@
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-1.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-001.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-2.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-002.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-3.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-003.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-4.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-004.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-5.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-005.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-6.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-006.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/takeout_front.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-001.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/takeout_back.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-002.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(8)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-003.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(9)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-004.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(10)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-005.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(11)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-006.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(12)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -682,36 +694,52 @@
         <div class="modal-content">
 
             <div class="menuSlides">
-                <div class="numbertext">1 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-1.jpg" style="width:100%">
+                <div class="numbertext">1 / 12</div>
+                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-001.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">2 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-2.jpg" style="width:100%">
+                <div class="numbertext">2 / 12</div>
+                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-002.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">3 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-3.jpg" style="width:100%">
+                <div class="numbertext">3 / 12</div>
+                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-003.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">4 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-4.jpg" style="width:100%">
+                <div class="numbertext">4 / 12</div>
+                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-004.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">5 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-5.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-005.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">6 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-6.jpg" style="width:100%">
+                <div class="numbertext">6 / 12</div>
+                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-006.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">7 / 8</div>
-                <img id="galleryImg" src="img/Menu/takeout_front.jpg" style="width:100%">
+                <div class="numbertext">7 / 12</div>
+                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-001.jpg" style="width:100%">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">8 / 8</div>
-                <img id="galleryImg" src="img/Menu/takeout_back.jpg" style="width:100%">
+                <div class="numbertext">8 / 12</div>
+                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-002.jpg" style="width:100%">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">9 / 12</div>
+                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-003.jpg" style="width:100%">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">10 / 12</div>
+                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-004.jpg" style="width:100%">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">11 / 12</div>
+                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-005.jpg" style="width:100%">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">12 / 12</div>
+                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-006.jpg" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusMenuSlides(-1)">&#10094;</a>
