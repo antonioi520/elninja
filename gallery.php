@@ -695,56 +695,60 @@
 
             <div class="menuSlides">
                 <div class="numbertext">1 / 12</div>
-                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-001.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-001.jpg" style="width:100%" alt="English">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">2 / 12</div>
-                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-002.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-002.jpg" style="width:100%" alt="English">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">3 / 12</div>
-                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-003.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-003.jpg" style="width:100%" alt="English">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">4 / 12</div>
-                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-004.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-004.jpg" style="width:100%" alt="English">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">5 / 8</div>
-                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-005.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-005.jpg" style="width:100%" alt="English">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">6 / 12</div>
-                <img id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-006.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-006.jpg" style="width:100%" alt="English">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">7 / 12</div>
-                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-001.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-001.jpg" style="width:100%" alt="Español">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">8 / 12</div>
-                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-002.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-002.jpg" style="width:100%" alt="Español">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">9 / 12</div>
-                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-003.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-003.jpg" style="width:100%" alt="Español">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">10 / 12</div>
-                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-004.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-004.jpg" style="width:100%" alt="Español">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">11 / 12</div>
-                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-005.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-005.jpg" style="width:100%" alt="Español">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">12 / 12</div>
-                <img id="galleryImg" src="img/Menu/ElNinjaEspanol-page-006.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-006.jpg" style="width:100%" alt="Español">
             </div>
 
             <a class="prev" onclick="plusMenuSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusMenuSlides(1)">&#10095;</a>
 
+            <!-- Caption text -->
+            <div class="caption-container" style="height: 25px;">
+                <p id="caption2"></p>
+            </div>
         </div>
     </div>
 
@@ -919,8 +923,8 @@
         function showMenuSlides(n) {
             var i;
             var slides = document.getElementsByClassName("menuSlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
+            var dots = document.getElementsByClassName("demo2");
+            var captionText = document.getElementById("caption2");
             if (n > slides.length) {menuSlideIndex = 1}
             if (n < 1) {menuSlideIndex = slides.length}
             for (i = 0; i < slides.length; i++) {
