@@ -125,12 +125,12 @@
     </div>
 </section-->
 <!--contact-->
-<!--section id="contact">
+<section id="contact">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider"></div>
+                <div class="section-title-divider" style="background-color: red;"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>
         </div>
@@ -159,20 +159,12 @@
                         </div>
                         <div class="form-group">
                             <!-- captcha-->
-                            <!--div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
-                            <!--<img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" />
-                            <br>
-                            <br>
-                            <input class="form-control" style="width: 50%; float: left;" placeholder="Enter captcha" type="text" name="captcha_code" size="10" maxlength="6" required />
-                            <a href="#" onclick="document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random(); return false">
-                                <img id="content-desktop" src="img/refresh_sm.png" width="9%" height="9%" style="float: left; padding-left: 4px;">
-                                <img id="content-mobile" src="img/refresh_sm.png" width="13%" height="13%" style="float: left; padding-left: 4px;">
-                            </a>-->
-                        <!--/div>
+                            <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
+                        </div>
 
                         <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
-                        <!--div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
-<!--
+                        <div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
+
                     </form>
                 </div>
             </div>
@@ -181,17 +173,18 @@
                 <div class="info">
                     <br id="content-mobile">
                     <div>
-                        <i class="fas fa-phone"></i><h4 style="padding-left:1.6em;">Phone</h4>
-                        <p>(401) 555-5555</p>
+                        <i class="fas fa-phone" style="color: red;"></i><h4 style="padding-left:1.6em;">Phone</h4>
+                        <p>(401) 467-2581</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="far fa-calendar-alt"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon-Tue:</strong><p style="padding-left:0;"> TBA</p><br>
-                        <strong>Wed-Thur+Sun:</strong><p style="padding-left:0;"> TBA</p><br>
-                        <strong>Fri-Sat:</strong><p style="padding-left:0;"> TBA</p>
+                        <i class="far fa-calendar-alt" style="color: red;"></i><h4 style="padding-left:1.6em;">Hours</h4>
+                        <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4:00pm-12:00am</p><br>
+                        <strong>Fri:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12:00pm-12:00am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="fas fa-location-arrow"></i><h4 style="padding-left:1.6em;">Location</h4>
+                        <i class="fas fa-location-arrow" style="color: red;"></i><h4 style="padding-left:1.6em;">Location</h4>
                         <p>1007 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
@@ -201,7 +194,7 @@
 
         </div>
     </div>
-</section-->
+</section>
 <!-- #footer -->
 <?php include("views/footer.html")?>
 
