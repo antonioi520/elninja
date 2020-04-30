@@ -47,11 +47,19 @@
     </div>
 </div>
 
+<br><br>
+
+<div>
+    <center>
+        <img id="content-desktop896" style="max-width: 30%; max-height:30%;" src="img/comingsoon.jpg">
+        <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
+    </center>
+</div>
 
 <!--==========================
   About Section
   ============================-->
-<section id="about">
+<!--section id="about">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
@@ -87,9 +95,9 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
         </div>
     </div>
-</section>
+</section-->
 <!--images in middle -->
-<section id="middleImages">
+<!--section id="middleImages">
     <div class="wrapper" id="iphone">
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-6">
@@ -113,7 +121,7 @@
             </div>
         </div>
     </div>
-</section>
+</section-->
 <!--contact-->
 <section id="contact">
     <div class="container wow fadeInUp">
@@ -172,17 +180,17 @@
                     <br id="content-mobile">
                     <div>
                         <i class="fas fa-phone"></i><h4 style="padding-left:1.6em;">Phone</h4>
-                        <p>(401) 648-0715</p>
+                        <p>(401) 555-5555</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon-Tue:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Wed-Thur+Sun:</strong><p style="padding-left:0;"> 12pm-10:30pm</p><br>
-                        <strong>Fri-Sat:</strong><p style="padding-left:0;"> 12pm-11:30pm</p>
+                        <strong>Mon-Tue:</strong><p style="padding-left:0;"> TBA</p><br>
+                        <strong>Wed-Thur+Sun:</strong><p style="padding-left:0;"> TBA</p><br>
+                        <strong>Fri-Sat:</strong><p style="padding-left:0;"> TBA</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow"></i><h4 style="padding-left:1.6em;">Location</h4>
-                        <p>1017 Broad Street</p><br>
+                        <p>1007 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
 
