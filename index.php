@@ -56,6 +56,8 @@
     </center>
 </div>
 
+<br><br>
+
 <!--==========================
   About Section
   ============================-->
@@ -123,7 +125,7 @@
     </div>
 </section-->
 <!--contact-->
-<section id="contact">
+<!--section id="contact">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
@@ -157,7 +159,7 @@
                         </div>
                         <div class="form-group">
                             <!-- captcha-->
-                            <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
+                            <!--div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
                             <!--<img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" />
                             <br>
                             <br>
@@ -166,11 +168,11 @@
                                 <img id="content-desktop" src="img/refresh_sm.png" width="9%" height="9%" style="float: left; padding-left: 4px;">
                                 <img id="content-mobile" src="img/refresh_sm.png" width="13%" height="13%" style="float: left; padding-left: 4px;">
                             </a>-->
-                        </div>
+                        <!--/div>
 
                         <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
-                        <div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
-
+                        <!--div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
+<!--
                     </form>
                 </div>
             </div>
@@ -199,7 +201,7 @@
 
         </div>
     </div>
-</section>
+</section-->
 <!-- #footer -->
 <?php include("views/footer.html")?>
 
