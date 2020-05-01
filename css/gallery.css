@@ -199,6 +199,7 @@ img.hover-shadow {
     line-height: 1.5em;
     margin: 0;
     padding: 1em;
+    //border-image: url('/elninja/img/sushi_small.png') 27 / 36px round;
 }
 
 .galleryHeaderBox {
