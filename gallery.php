@@ -893,8 +893,8 @@
         function showEventSlides(n) {
             var i;
             var slides = document.getElementsByClassName("eventSlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
+            var dots = document.getElementsByClassName("demo3");
+            var captionText = document.getElementById("caption3");
             if (n > slides.length) {eventSlideIndex = 1}
             if (n < 1) {eventSlideIndex = slides.length}
             for (i = 0; i < slides.length; i++) {

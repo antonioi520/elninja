@@ -177,12 +177,12 @@
     color: white;
 }
 
-.demo {
+.demo, .demo2, .demo3 {
     opacity: 0.6;
 }
 
 .active,
-.demo:hover {
+.demo:hover, .demo2:hover, .demo3:hover {
     opacity: 1;
 }
 
@@ -415,4 +415,34 @@ img.hover-shadow {
         object-fit: scale-down;
         max-height: 265px;
     }
+}
+
+.collapsible {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.83em;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: 500;
+    cursor:pointer;
+}
+.content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+}
+.collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 15px;
+    color: white;
+    margin-bottom:20px;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+h2.section-title-lowercase.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
