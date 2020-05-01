@@ -368,6 +368,14 @@ p {
     margin: 0 auto;
     margin-bottom: 1.250em;
 }
+
+.red-title-divider {
+    width: 6.250em;
+    height: 0.188em;
+    background: red;
+    margin: 0 auto;
+    margin-bottom: 1.250em;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/

@@ -64,11 +64,11 @@ h2 {
     padding: .5em;
     max-width: 30em;
     width: 30em;
-    background-color: #a442f4;
+    background-color: red;
 }
 
 .menu-item2 {
-    border: 2.5px dashed #a442f4;
+    border: 2.5px dashed red;
     line-height: 1.5em;
     max-height: 15em;
     margin: 1em;
@@ -102,8 +102,8 @@ h2 {
 #fooddrinkButton{
     transition: 0.5s;
     width:90px;
-    border: 3px solid #a442f4;
-    background-color: #a442f4;
+    border: 3px solid red;
+    background-color: red;
     /*background-color: #5f2a5e; purple hex from menu image*/
     color:white;
     font-weight: bold;
@@ -112,14 +112,14 @@ h2 {
     transition: 0.5s;
     border: 3px solid white;
     background-color: white;
-    color: #5f2a5e;
+    color: #970000;
     font-weight: bold;
     text-decoration: none;
 }
 
 .menuHeaderBox {
-    border: 0 solid #a442f4;
-    background-color: rgba(164,66,244,0.7);
+    border: 0 solid red;
+    background-color: red;
     line-height: 1.1em;
     max-height: 5.5em;
     //margin: 1em;
@@ -131,8 +131,8 @@ h2 {
 }
 #purpbox{
     transition: 0.5s;
-    border: 1px solid #a442f4;
-    background-color: rgba(164,66,244,0.7);
+    border: 1px solid red;
+    background-color: red;
     height:90px;
     width:400px;
     border-radius: 5px;
