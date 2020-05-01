@@ -181,6 +181,10 @@
 
     <br>
 
+    <br>
+    <?php include("views/Gallery/el_ninja_valentines.html") ?>
+    <br>
+
     <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
@@ -752,7 +756,34 @@
         </div>
     </div>
 
+    <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
+
     <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight){
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
+
+    <script>
+        function openEventModal() {
+            document.getElementById("eventModal").style.display = "block";
+        }
+
+        function closeEventModal() {
+            document.getElementById("eventModal").style.display = "none";
+        }
+
         function openFoodModal() {
             document.getElementById("foodModal").style.display = "block";
         }
@@ -793,6 +824,9 @@
             document.getElementById("menuModal").style.display = "none";
         }
 
+        var eventSlideIndex = 1;
+        showEventSlides(eventSlideIndex);
+
         var foodSlideIndex = 1;
         showFoodSlides(foodSlideIndex);
 
@@ -807,6 +841,14 @@
 
         var menuSlideIndex = 1;
         showMenuSlides(menuSlideIndex);
+
+        function plusEventSlides(n) {
+            showEventSlides(eventSlideIndex += n);
+        }
+
+        function currentEventSlide(n) {
+            showEventSlides(eventSlideIndex = n);
+        }
 
         function plusFoodSlides(n) {
             showFoodSlides(foodSlideIndex += n);
@@ -846,6 +888,24 @@
 
         function currentMenuSlide(n) {
             showMenuSlides(menuSlideIndex = n);
+        }
+
+        function showEventSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("eventSlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {eventSlideIndex = 1}
+            if (n < 1) {eventSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[eventSlideIndex-1].style.display = "block";
+            dots[eventSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[eventSlideIndex-1].alt;
         }
 
         function showFoodSlides(n) {
