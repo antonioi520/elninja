@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo');
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Kaushan%20Script');
 
 @font-face {
-    font-family: 'Satisfy';
-    src: url('https://fonts.googleapis.com/css?family=Satisfy'); /* IE9 Compat Modes */
-    src: url('https://fonts.googleapis.com/css?family=Satisfy') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://fonts.googleapis.com/css?family=Satisfy') format('woff'), /* Modern Browsers */
-    url('https://fonts.googleapis.com/css?family=Satisfy')  format('truetype'), /* Safari, Android, iOS */
-    url('https://fonts.googleapis.com/css?family=Satisfy') format('svg'); /* Legacy iOS */
+    font-family: 'Kaushan Script';
+    src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script'); /* IE9 Compat Modes */
+    src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('woff'), /* Modern Browsers */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script')  format('truetype'), /* Safari, Android, iOS */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('svg'); /* Legacy iOS */
 }
 
 h2 {
@@ -49,7 +49,7 @@ h2 {
 }
 
 .menu-heading {
-    font-family:  'Satisfy', cursive;
+    font-family:  'Kaushan Script', cursive;
     font-size: calc(2em + 3vw);
     margin-bottom: 0;
     text-align: center;

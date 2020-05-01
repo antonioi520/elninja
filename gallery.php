@@ -102,7 +102,7 @@
     </center>
     <br>
     <hr>
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Food</h2>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Food</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
@@ -319,7 +319,7 @@
     </div-->
 
     <br>
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
