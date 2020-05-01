@@ -181,11 +181,8 @@
 
     <br>
 
-    <br>
-    <?php include("views/Gallery/el_ninja_valentines.html") ?>
-    <br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
@@ -319,7 +316,7 @@
                 <img id="galleryImg" src="img/StaffThumbs/MiAlmaCafeOpeningCeremony-8.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(3)" class="hover-shadow cursor">
             </div>
         </div>
-    </div>
+    </div-->
 
     <br>
     <h2 style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
@@ -365,6 +362,10 @@
             </div>
         </div>
     </div>
+
+    <br>
+    <?php include("views/Gallery/el_ninja_valentines.html") ?>
+    <br>
 
     <div id="foodModal" class="modal">
         <span class="close cursor" onclick="closeFoodModal()">&times;</span>
