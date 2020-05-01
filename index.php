@@ -59,24 +59,24 @@
 <!--==========================
   About Section
   ============================-->
-<!--section id="about">
+<section id="about">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
-                <div class="section-title-divider"></div>
+                <div class="red-title-divider"></div>
             </div>
         </div>
     </div>
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/elninja.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/elninja.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -92,10 +92,11 @@
                     memorable and of the highest quality!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1007+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.441479542669!2d-71.41606578456141!3d41.797249079228706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f8915b52b9f%3A0xabd739480c18098c!2s1007%20Broad%20St%2C%20Providence%2C%20RI%2002905!5e0!3m2!1sen!2sus!4v1588373414872!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%;" allowfullscreen=></iframe>
+            </div>
         </div>
     </div>
-</section-->
+</section>
 <!--images in middle -->
 <!--section id="middleImages">
     <div class="wrapper" id="iphone">
