@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Mi Alma Restaurant</title>
+    <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -32,8 +32,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
-    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
-    <link rel="icon" href="img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
+    <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
 
 </head>
@@ -53,7 +53,7 @@
                     </center>-->
                     <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="top:-10px;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="top:-10px;">El Ninja Menu</h1>
                     </div>
                     </center>
                 </div>
@@ -64,7 +64,7 @@
 
                 <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="color:white;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
@@ -75,7 +75,7 @@
 
                 <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="color:white;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
@@ -86,7 +86,7 @@
 
                 <center>
                     <div class="menuHeaderBox">
-                        <h1 class="menu-heading menuHeaderText" style="color:white;">Mi Alma Menu</h1>
+                        <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
@@ -108,7 +108,7 @@
 
     <div class="container" id="">
         <center>
-            <img src="img/logo.png" style="height:200px;width:300px;object-fit: contain;">
+            <img src="img/logo_ninja.png" style="height:200px;width:300px;object-fit: contain;">
         </center>
 
         <br> <hr>
@@ -147,7 +147,7 @@
 
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">APERITIVOS/APPETIZERS</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">CALAMARI FRITO
                     <span class="menu-item-price2"> $10</span>
@@ -181,7 +181,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">CARNES/MEAT</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">PECHUGA AL GRILL EN SALSA AL AJILLO
                         <span class="menu-item-price2"> $12</span>
@@ -212,7 +212,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">MARISCOS/SEAFOOD</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">CAMARONES FUSIÓN
                         <span class="menu-item-price2"> $12</span>
@@ -236,7 +236,7 @@
             </div>
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">ENSALADA/SALAD</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">ENSALADA MI ALMA
                         <span class="menu-item-price2"> $10</span>
@@ -260,7 +260,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">ARROCES/RICE</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">RISOTTO MAR CARIBE
                         <span class="menu-item-price2"> $22</span>
@@ -276,7 +276,7 @@
             </div>
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">CALDOS/SOUP</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">CREMA DE AUYAMA
                         <span class="menu-item-price2"> $6</span>
@@ -286,7 +286,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">PARA COMPARTIR/TO SHARE</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">PICADERA DE MARISCOS
                     <span class="menu-item-price2"> $20</span>
@@ -310,7 +310,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">PASTAS</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">LINGUINE AL SALMÓN
                     <span class="menu-item-price2"> $14</span>
@@ -332,7 +332,7 @@
             </div>
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS/SIDES</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Tostones/Fried Plantains</span>
                     <span class="menu-item-price2" style="font-weight: bold;"> $3</span> <br>
@@ -355,7 +355,7 @@
             </div>
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">PARA LOS PEQUEÑOS/KIDS</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Pechuga de pollo y papas frita/Chicken Tenders & Fries</span>
                     <span class="menu-item-price2"> $5</span> <br>
@@ -369,7 +369,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">MOFONGO</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Step 1: MAJADO/MASH </span>
                     <span class="menu-item-price2"> $2</span>
@@ -416,7 +416,7 @@
         <div class="menu menu-row menu-wrap menu-center" id="drinkDiv" style="display: none">
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">OTRAS BEBIDAS</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Refrescos - Soda</span>
                     <span class="menu-item-price2"> $3</span> <br>
@@ -432,7 +432,7 @@
             </div>
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">SMOOTHIES</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Melocotón - Peach</span>
                     <span class="menu-item-price2"> $4</span> <br>
@@ -449,7 +449,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">CERVEZAS/BEER</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Presidente</span>
                     <span class="menu-item-price2"> $5</span> <br>
@@ -472,7 +472,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">TINTOS/RED WINE</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Woodbridge by Robert Mondavi <br id="content-mobile"> Cabernet Sauvignon </span>
                     <span class="menu-item-price2"> $25</span> <br>
@@ -484,7 +484,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">ESPUMANTE/SPARKLING</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Prosecco Lunetta </span>
                     <span class="menu-item-price2"> $25</span> <br>
@@ -496,7 +496,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">BLANCO/WHITE WINE</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Woodbridge by Robert Chardonnay </span>
                     <span class="menu-item-price2"> $25</span> <br>
@@ -508,7 +508,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">JUGOS/JUICES</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Limón - Lemon</span>
                     <span class="menu-item-price2"> $3</span> <br>
@@ -528,7 +528,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">ROSADO/ROSE WINE</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Beringer White Zinfandel </span>
                     <span class="menu-item-price2"> $25</span> <br>
@@ -540,7 +540,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">COCKTAILS</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-title2">Classic Margarita </span>
                     <span class="menu-item-price2"> $10</span>
@@ -580,7 +580,7 @@
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">IMPORTANTE/IMPORTANT</h2>
-                <div class="purple-title-divider"></div>
+                <div class="red-title-divider"></div>
                 <div class="menu-item2">
                     <span class="menu-item-name">20% de gratificación será agregado a los grupos de o más personas.
             <br> <br>

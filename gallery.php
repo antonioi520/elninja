@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Mi Alma Restaurant</title>
+    <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -32,8 +32,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
-    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
-    <link rel="icon" href="img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
+    <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
 
 
@@ -98,67 +98,92 @@
 <div class="container">
 <!--    <h1 class="menu-heading">Gallery</h1>-->
     <center>
-        <img src="img/logo.png" style="height:200px;width:300px;object-fit: contain;">
+        <img src="img/logo_ninja.png" style="height:200px;width:300px;object-fit: contain;">
     </center>
     <br>
     <hr>
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Food & Drinks</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Food</h2>
+    <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-1.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-1.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-4.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-2.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-5.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-3.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-8.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-4.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-13.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-5.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-15.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-6.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-17.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-7.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-21.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-8.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(8)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-26.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(9)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-9.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(9)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-31.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(10)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-10.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(10)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-35.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(11)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-11.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(11)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-37.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(12)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-12.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(12)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-39.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(13)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-13.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(13)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-41.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(14)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-14.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(14)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-43.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(15)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-15.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(15)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-16.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(16)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-17.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(17)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-18.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(18)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-19.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(19)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-20.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(20)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-21.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(21)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-22.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(22)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-23.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(23)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
 
     <br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
+    <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
         <div class="row">
@@ -228,7 +253,7 @@
     <br>
 
     <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theater)</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+    <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
         <div class="row">
@@ -277,7 +302,7 @@
     <br>
 
     <h2 style="text-align:center; color:black;padding-bottom:0px;">Staff</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+    <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
         <div class="row">
@@ -291,113 +316,161 @@
                 <img id="galleryImg" src="img/StaffThumbs/MiAlmaCafeOpeningCeremony-8.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(3)" class="hover-shadow cursor">
             </div>
         </div>
-    </div>
+    </div-->
 
     <br>
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
+    <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-1.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-001.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-2.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-002.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-3.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-003.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-4.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-004.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-5.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-005.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/MI%20ALMA%20menu-6.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/El%20Ninja%20Ingles-page-006.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/takeout_front.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-001.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/takeout_back.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-002.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(8)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-003.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(9)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-004.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(10)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-005.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(11)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/MenuThumbs/ElNinjaEspanol-page-006.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(12)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
+
+    <br>
+    <?php include("views/Gallery/el_ninja_valentines.html") ?>
+    <br>
 
     <div id="foodModal" class="modal">
         <span class="close cursor" onclick="closeFoodModal()">&times;</span>
         <div class="modal-content">
 
             <div class="foodSlides">
-                <div class="numbertext">1 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-1.jpg" style="width:100%" alt="Fried Calamari">
+                <div class="numbertext">1 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-1.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">2 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-4.jpg" style="width:100%" alt="Shrimp Cocktail">
+                <div class="numbertext">2 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-2.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">3 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-5.jpg" style="width:100%" alt="Shrimp Mofongo">
+                <div class="numbertext">3 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-3.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">4 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-8.jpg" style="width:100%" alt="Cheese Mofongo with Pork Chops">
+                <div class="numbertext">4 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-4.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">5 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-13.jpg" style="width:100%" alt="Oxtail with Rice and Beans + Potato Salad with Beets">
+                <div class="numbertext">5 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-5.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">6 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-15.jpg" style="width:100%" alt="Dominican Pumpkin Cream Soup">
+                <div class="numbertext">6 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-6.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">7 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-17.jpg" style="width:100%" alt="Fusion Shrimp">
+                <div class="numbertext">7 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-7.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">8 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-21.jpg" style="width:100%" alt="Picalonga (Fried Cheese, Pork chops, Longaniza, Fried beef and Tostones)">
+                <div class="numbertext">8 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-8.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">9 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-26.jpg" style="width:100%" alt="Seafood Platter (Calamari, Fried Shrimp, Fried Fish, and Fries)">
+                <div class="numbertext">9 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-9.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">10 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-31.jpg" style="width:100%" alt="Salmon Linguine with Vodka Sauce">
+                <div class="numbertext">10 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-10.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">11 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-35.jpg" style="width:100%" alt="Strawberry Juice">
+                <div class="numbertext">11 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-11.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">12 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-37.jpg" style="width:100%" alt="Spicy Pear Martini">
+                <div class="numbertext">12 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-12.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">13 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-39.jpg" style="width:100%" alt="Mimosa">
+                <div class="numbertext">13 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-13.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">14 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-41.jpg" style="width:100%" alt="Red Sangria">
+                <div class="numbertext">14 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-14.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">15 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-43.jpg" style="width:100%" alt="Moscow Mule">
+                <div class="numbertext">15 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-15.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">16 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-16.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">17 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-17.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">18 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-18.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">19 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-19.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">20 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-20.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">21 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-21.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">22 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-22.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">23 / 23</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-23.jpg" style="width:100%" alt="">
             </div>
 
             <a class="prev" onclick="plusFoodSlides(-1)">&#10094;</a>
@@ -626,45 +699,92 @@
         <div class="modal-content">
 
             <div class="menuSlides">
-                <div class="numbertext">1 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-1.jpg" style="width:100%">
+                <div class="numbertext">1 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-001.jpg" style="width:100%" alt="English Menu">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">2 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-2.jpg" style="width:100%">
+                <div class="numbertext">2 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-002.jpg" style="width:100%" alt="English Menu">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">3 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-3.jpg" style="width:100%">
+                <div class="numbertext">3 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-003.jpg" style="width:100%" alt="English Menu">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">4 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-4.jpg" style="width:100%">
+                <div class="numbertext">4 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-004.jpg" style="width:100%" alt="English Menu">
             </div>
             <div class="menuSlides">
                 <div class="numbertext">5 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-5.jpg" style="width:100%">
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-005.jpg" style="width:100%" alt="English Menu">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">6 / 8</div>
-                <img id="galleryImg" src="img/Menu/MI%20ALMA%20menu-6.jpg" style="width:100%">
+                <div class="numbertext">6 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/El%20Ninja%20Ingles-page-006.jpg" style="width:100%" alt="English Menu">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">7 / 8</div>
-                <img id="galleryImg" src="img/Menu/takeout_front.jpg" style="width:100%">
+                <div class="numbertext">7 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-001.jpg" style="width:100%" alt="Menú Español">
             </div>
             <div class="menuSlides">
-                <div class="numbertext">8 / 8</div>
-                <img id="galleryImg" src="img/Menu/takeout_back.jpg" style="width:100%">
+                <div class="numbertext">8 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-002.jpg" style="width:100%" alt="Menú Español">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">9 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-003.jpg" style="width:100%" alt="Menú Español">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">10 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-004.jpg" style="width:100%" alt="Menú Español">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">11 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-005.jpg" style="width:100%" alt="Menú Español">
+            </div>
+            <div class="menuSlides">
+                <div class="numbertext">12 / 12</div>
+                <img class="demo2 cursor" id="galleryImg" src="img/Menu/ElNinjaEspanol-page-006.jpg" style="width:100%" alt="Menú Español">
             </div>
 
             <a class="prev" onclick="plusMenuSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusMenuSlides(1)">&#10095;</a>
 
+            <!-- Caption text -->
+            <div class="caption-container" style="height: 25px;">
+                <p id="caption2"></p>
+            </div>
         </div>
     </div>
 
+    <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
+
     <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight){
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
+
+    <script>
+        function openEventModal() {
+            document.getElementById("eventModal").style.display = "block";
+        }
+
+        function closeEventModal() {
+            document.getElementById("eventModal").style.display = "none";
+        }
+
         function openFoodModal() {
             document.getElementById("foodModal").style.display = "block";
         }
@@ -705,6 +825,9 @@
             document.getElementById("menuModal").style.display = "none";
         }
 
+        var eventSlideIndex = 1;
+        showEventSlides(eventSlideIndex);
+
         var foodSlideIndex = 1;
         showFoodSlides(foodSlideIndex);
 
@@ -719,6 +842,14 @@
 
         var menuSlideIndex = 1;
         showMenuSlides(menuSlideIndex);
+
+        function plusEventSlides(n) {
+            showEventSlides(eventSlideIndex += n);
+        }
+
+        function currentEventSlide(n) {
+            showEventSlides(eventSlideIndex = n);
+        }
 
         function plusFoodSlides(n) {
             showFoodSlides(foodSlideIndex += n);
@@ -758,6 +889,24 @@
 
         function currentMenuSlide(n) {
             showMenuSlides(menuSlideIndex = n);
+        }
+
+        function showEventSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("eventSlides");
+            var dots = document.getElementsByClassName("demo3");
+            var captionText = document.getElementById("caption3");
+            if (n > slides.length) {eventSlideIndex = 1}
+            if (n < 1) {eventSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[eventSlideIndex-1].style.display = "block";
+            dots[eventSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[eventSlideIndex-1].alt;
         }
 
         function showFoodSlides(n) {
@@ -835,8 +984,8 @@
         function showMenuSlides(n) {
             var i;
             var slides = document.getElementsByClassName("menuSlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
+            var dots = document.getElementsByClassName("demo2");
+            var captionText = document.getElementById("caption2");
             if (n > slides.length) {menuSlideIndex = 1}
             if (n < 1) {menuSlideIndex = slides.length}
             for (i = 0; i < slides.length; i++) {

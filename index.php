@@ -28,7 +28,7 @@
                         <h1 class="headertext shadow">EL NINJA RESTAURANT</H1>
                     </center>
                     <center>
-                        <img src="img/logo.png" class="imglogohead">
+                        <img src="img/logo_ninja.png" class="imglogohead">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
@@ -37,7 +37,7 @@
                     </center>
                     <center>
                         <ul class="headericons">
-                            <li style="display: inline;padding:0.5em;"> <div id="test"><a href="https://www.facebook.com/Mi-Alma-1150016415172344/" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
+                            <li style="display: inline;padding:0.5em;"> <div id="test"><a href="#" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
                             <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
@@ -47,6 +47,14 @@
     </div>
 </div>
 
+<br><br>
+
+<div>
+    <center>
+        <img id="content-desktop896" style="max-width: 30%; max-height:30%;" src="img/comingsoon.jpg">
+        <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
+    </center>
+</div>
 
 <!--==========================
   About Section
@@ -55,20 +63,20 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
-                <div class="section-title-divider"></div>
+                <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
+                <div class="red-title-divider"></div>
             </div>
         </div>
     </div>
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/elninja.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/elninja.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -84,12 +92,13 @@
                     memorable and of the highest quality!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.441479542669!2d-71.41606578456141!3d41.797249079228706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f8915b52b9f%3A0xabd739480c18098c!2s1007%20Broad%20St%2C%20Providence%2C%20RI%2002905!5e0!3m2!1sen!2sus!4v1588373414872!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%;" allowfullscreen=></iframe>
+            </div>
         </div>
     </div>
 </section>
 <!--images in middle -->
-<section id="middleImages">
+<!--section id="middleImages">
     <div class="wrapper" id="iphone">
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-6">
@@ -113,14 +122,14 @@
             </div>
         </div>
     </div>
-</section>
+</section-->
 <!--contact-->
 <section id="contact">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider"></div>
+                <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
+                <div class="section-title-divider" style="background-color: red;"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>
         </div>
@@ -150,17 +159,11 @@
                         <div class="form-group">
                             <!-- captcha-->
                             <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
-                            <!--<img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" />
-                            <br>
-                            <br>
-                            <input class="form-control" style="width: 50%; float: left;" placeholder="Enter captcha" type="text" name="captcha_code" size="10" maxlength="6" required />
-                            <a href="#" onclick="document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random(); return false">
-                                <img id="content-desktop" src="img/refresh_sm.png" width="9%" height="9%" style="float: left; padding-left: 4px;">
-                                <img id="content-mobile" src="img/refresh_sm.png" width="13%" height="13%" style="float: left; padding-left: 4px;">
-                            </a>-->
                         </div>
 
-                        <div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                        <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
+                        <div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
+
                     </form>
                 </div>
             </div>
@@ -169,18 +172,19 @@
                 <div class="info">
                     <br id="content-mobile">
                     <div>
-                        <i class="fas fa-phone"></i><h4 style="padding-left:1.6em;">Phone</h4>
-                        <p>(401) 648-0715</p>
+                        <i class="fas fa-phone" style="color: red;"></i><h4 style="padding-left:1.6em;">Phone</h4>
+                        <p>(401) 467-2581</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="far fa-calendar-alt"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon-Tue:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Wed-Thur+Sun:</strong><p style="padding-left:0;"> 12pm-10:30pm</p><br>
-                        <strong>Fri-Sat:</strong><p style="padding-left:0;"> 12pm-11:30pm</p>
+                        <i class="far fa-calendar-alt" style="color: red;"></i><h4 style="padding-left:1.6em;">Hours</h4>
+                        <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
+                        <strong>Fri:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12pm-12am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="fas fa-location-arrow"></i><h4 style="padding-left:1.6em;">Location</h4>
-                        <p>1017 Broad Street</p><br>
+                        <i class="fas fa-location-arrow" style="color: red;"></i><h4 style="padding-left:1.6em;">Location</h4>
+                        <p>1007 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
 

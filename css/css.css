@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Kaushan%20Script');
 
 @font-face {
-    font-family: 'Satisfy';
-    src: url('https://fonts.googleapis.com/css?family=Satisfy'); /* IE9 Compat Modes */
-    src: url('https://fonts.googleapis.com/css?family=Satisfy') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://fonts.googleapis.com/css?family=Satisfy') format('woff'), /* Modern Browsers */
-    url('https://fonts.googleapis.com/css?family=Satisfy')  format('truetype'), /* Safari, Android, iOS */
-    url('https://fonts.googleapis.com/css?family=Satisfy') format('svg'); /* Legacy iOS */
+    font-family: 'Kaushan Script';
+    src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script'); /* IE9 Compat Modes */
+    src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('woff'), /* Modern Browsers */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script')  format('truetype'), /* Safari, Android, iOS */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('svg'); /* Legacy iOS */
 }
 .shadow
 {
     text-shadow:
-            1px 1px 0 deepskyblue,
-            3px 2px 0 deepskyblue
+            1px 1px 0 red,
+            3px 2px 0 red
 
 
 }
@@ -47,7 +47,7 @@ p {
     letter-spacing: 0.1em;
 }
 .nav-item a:hover{
-    color:deepskyblue;
+    color:red;
     transition: 0.5s;
 }
 .nav-item li a{
@@ -150,13 +150,13 @@ p {
     transition: 0.5s;
 }
 .circleborder:hover{
-    color:deepskyblue;
+    color:red;
     border: solid white;
     background-color: white;
     transition: 0.5s;
 }
 .circleborder:hover i{
-    color:deepskyblue;
+    color:red;
     transition: 0.5s;
 }
 
@@ -189,8 +189,8 @@ p {
 }
 #box:hover{
     text-decoration: none;
-    border: 0.188em solid deepskyblue;
-    background-color: deepskyblue;
+    border: 0.188em solid red;
+    background-color: red;
     transition: 0.5s;
 }
 #box:hover #headerHours{
@@ -210,8 +210,8 @@ p {
 }
 #ingredientBox:hover{
     transition: 0.5s;
-    border: 0.188em solid deepskyblue;
-    background-color: deepskyblue;
+    border: 0.188em solid red;
+    background-color: red;
     text-decoration: none;
 }
 #ingredientBoxText{
@@ -230,19 +230,19 @@ p {
     z-index: 1;
     height:3.750em;
     width: 12.500em;
-    border: 0.188em solid deepskyblue;
+    border: 0.188em solid red;
     opacity: .9;
     border-radius: 0.313em;
 }
 #menuBox:hover{
     transition: 0.5s;
-    border: 0.188em solid deepskyblue;
-    background-color: deepskyblue;
+    border: 0.188em solid red;
+    background-color: red;
     text-decoration: none;
 }
 #menuBoxText{
     padding-top:5%;
-    color:deepskyblue;
+    color:red;
     padding-left:8%;
 }
 #menuBoxText:hover{
@@ -332,6 +332,7 @@ p {
     background: #25d8fc;
 }
 .section-title {
+    font-family: "Kaushan Script";
     font-size: 2em;
     color: #111;
     text-transform: uppercase;
@@ -365,6 +366,14 @@ p {
     width: 6.250em;
     height: 0.188em;
     background: #a442f4;
+    margin: 0 auto;
+    margin-bottom: 1.250em;
+}
+
+.red-title-divider {
+    width: 6.250em;
+    height: 0.188em;
+    background: red;
     margin: 0 auto;
     margin-bottom: 1.250em;
 }
@@ -761,7 +770,7 @@ and (-webkit-device-pixel-ratio : 3) {
 
 .footerLinks a:hover{
     text-decoration: none;
-    color:deepskyblue;
+    color:red;
 }
 
 

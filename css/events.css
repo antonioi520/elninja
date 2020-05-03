@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Satisfy';
-    src: url('https://fonts.googleapis.com/css?family=Satisfy'); /* IE9 Compat Modes */
-    src: url('https://fonts.googleapis.com/css?family=Satisfy') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://fonts.googleapis.com/css?family=Satisfy') format('woff'), /* Modern Browsers */
-    url('https://fonts.googleapis.com/css?family=Satisfy')  format('truetype'), /* Safari, Android, iOS */
-    url('https://fonts.googleapis.com/css?family=Satisfy') format('svg'); /* Legacy iOS */
+    font-family: 'Kaushan Script';
+    src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script'); /* IE9 Compat Modes */
+    src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('woff'), /* Modern Browsers */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script')  format('truetype'), /* Safari, Android, iOS */
+    url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('svg'); /* Legacy iOS */
 }
 
 .eventHeaderImage{
@@ -15,8 +15,8 @@
 
 }
 .eventHeaderBox {
-    border: 0 solid deepskyblue;
-    background-color: rgba(0,191,255,0.4);
+    border: 0 solid red;
+    background-color: rgba(255,0,0,0.4);
     line-height: 1.1em;
     max-height: 5em;
 //margin: 1em;
@@ -27,7 +27,7 @@
     z-index: 2323;
 }
 .eventHeaderText{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Kaushan Script', cursive;
     color:white;
     font-size: 70px;
     padding-bottom: 5px;
