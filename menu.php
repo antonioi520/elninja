@@ -463,10 +463,10 @@
             </div>
         </div>
         <div class="menu menu-row menu-wrap menu-center" id="entreeDiv" style="display: none">
+            <!--
             <div class="entrees">
                 <h2 style="font-weight: bolder;">PLATOS FUERTES/ENTREES</h2>
                 <div class="red-title-divider"></div>
-                <!--br id="content-desktop896"-->
                 <div class="menu-item2">
                     <span class="menu-item-title2">LA PELA
                     <span class="menu-item-price2"> $15</span>
@@ -647,7 +647,7 @@
                         </span>
                     <p class="menu-item-description" style="color:black">Atún picante, salmón ahumando y aguacate. Frito con pico de gallo por encima. <br> Spicy tuna, smoked salmon, avocado (deep fried, pico de gallo).</p>
                 </div>
-            </div>
+            </div> <-->
             <div class="entrees">
                 <h2 style="font-weight: bolder;">CHOFAN</h2>
                 <div class="red-title-divider"></div>
