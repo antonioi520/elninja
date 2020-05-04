@@ -371,7 +371,7 @@
                 <div class="red-title-divider"></div>
                 <!--br id="content-desktop896"-->
                 <div class="menu-item2">
-                    <span class="menu-item-title2">OKINAWA ROLL
+                    <span class="menu-item-title2">LA PELA
                     <span class="menu-item-price2"> $14</span>
                     </span>
                     <p class="menu-item-description2">Kani, pepino y queso crema. Afuera: Maduro, guacamole y cangrejo.<br> Kani, cucumber, cream cheese (maduro, guacamole, crab meat).</p>
