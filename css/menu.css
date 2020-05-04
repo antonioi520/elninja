@@ -77,45 +77,6 @@ h2 {
     width: 30em;
 }
 
-/*note: this fixes menu text getting cut off on iPhone XR*/
-@media only screen
-and (device-width : 414px)
-and (device-height : 896px)
-{
-    h2 {
-        font-size:1.75em;
-        margin-bottom:0;
-        text-align: center;
-        color: black;
-    }
-
-    .appetizers, .entrees {
-        max-width: 35em;
-        overflow: hidden;
-    }
-
-    .menu-item {
-        box-shadow: 5px 5px 5px #888888;
-        line-height: 1.5em;
-        max-height: 15em;
-        margin: 1em;
-        padding: .5em;
-        max-width: 20em;
-        width: 20em;
-        background-color: red;
-    }
-
-    .menu-item2 {
-        border: 2.5px dashed red;
-        line-height: 1.5em;
-        max-height: 15em;
-        margin: 1em;
-        padding: .5em;
-        max-width: 20em;
-        width: 20em;
-    }
-}
-
 .menu-item-description {
     margin: 0;
 }
@@ -222,57 +183,86 @@ and (device-height : 896px)
 
 @media (max-width: 896px) {
 
-    #foodDiv h2 {
+    #appsDiv h2 {
         font-size: 19px;
     //line-height: 40px;
     }
-    #foodDiv p {
+    #appsDiv p {
         font-size:15px;
     }
-    #foodDiv .menu-item2{
-        width:24em;
+    #appsDiv .menu-item2{
+        width:23em;
     }
 
 }
 @media (max-width: 896px) {
 
-    #drinkDiv h2 {
+    #rollsDiv h2 {
         font-size: 19px;
     //line-height: 40px;
     }
-    #drinkDiv p {
+    #rollsDiv p {
         font-size:15px;
     }
-    #drinkDiv .menu-item2{
-        width:24em;
+    #rollsDiv .menu-item2{
+        width:23em;
+    }
+
+}
+
+@media (max-width: 896px) {
+
+    #entreeDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #entreeDiv p {
+        font-size:15px;
+    }
+    #entreeDiv .menu-item2{
+        width:23em;
     }
 
 }
 
 @media (max-width: 375px) {
 
-    #foodDiv h2 {
+    #appsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #foodDiv p {
+    #appsDiv p {
         font-size:12px;
     }
-    #foodDiv .menu-item2{
+    #appsDiv .menu-item2{
         width:20em;
     }
 
 }
 @media (max-width: 375px) {
 
-    #drinkDiv h2 {
+    #rollsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #drinkDiv p {
+    #rollsDiv p {
         font-size:12px;
     }
-    #drinkDiv .menu-item2{
+    #rollsDiv .menu-item2{
+        width:20em;
+    }
+
+}
+@media (max-width: 375px) {
+
+    #entreeDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #entreeDiv p {
+        font-size:12px;
+    }
+    #entreeDiv .menu-item2{
         width:20em;
     }
 
@@ -280,28 +270,42 @@ and (device-height : 896px)
 
 @media (max-width: 320px) {
 
-    #foodDiv h2 {
+    #appsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #foodDiv p {
+    #appsDiv p {
         font-size:12px;
     }
-    #foodDiv .menu-item2{
+    #appsDiv .menu-item2{
         width:18em;
     }
 
 }
 @media (max-width: 320px) {
 
-    #drinkDiv h2 {
+    #rollsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #drinkDiv p {
+    #rollsDiv p {
         font-size:12px;
     }
-    #drinkDiv .menu-item2{
+    #rollsDiv .menu-item2{
+        width:18em;
+    }
+
+}
+@media (max-width: 320px) {
+
+    #entreeDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #entreeDiv p {
+        font-size:12px;
+    }
+    #entreeDiv .menu-item2{
         width:18em;
     }
 
