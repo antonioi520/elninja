@@ -110,9 +110,8 @@
         <center>
             <img src="img/logo_ninja.png" style="height:200px;width:300px;object-fit: contain;">
         </center>
-
-        <br> <hr>
         <div id="topofMenu"></div>
+        <hr>
         <center>
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToAppsMenu()">Appetizers</a>
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToRollsMenu()">Rolls</a>
