@@ -372,45 +372,51 @@
                 <!--br id="content-desktop896"-->
                 <div class="menu-item2">
                     <span class="menu-item-title2">LA PELA
-                    <span class="menu-item-price2"> $14</span>
+                    <span class="menu-item-price2"> $15</span>
                     </span>
-                    <p class="menu-item-description2">Kani, pepino y queso crema. Afuera: Maduro, guacamole y cangrejo.<br> Kani, cucumber, cream cheese (maduro, guacamole, crab meat).</p>
+                    <p class="menu-item-description2">Camarón tempura, queso crema, madura y guacamole. Afuera: Marisco mixto.<br> Shrimp tempura, cream cheese, maduro, guacamole (seafood mix).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">ALOHA ROLL
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">LA BROA
                         <span class="menu-item-price" style="float:right;color:black"> $14</span>
                     </span>
-                    <p class="menu-item-description" style="color:black">Atún picante y kani. Afuera: Aguacate y salsa de piña.<br> Spicy tuna, kani (avocado, pineapple salsa).</p>
+                    <p class="menu-item-description" style="color:black">Camarón tempura, queso frito, madura y guacamole. Afuera: Ropa vieja.<br> Shrimp tempura, queso frito, maduro, guacamole (ropa vieja).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAKURA ROLL
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">BAVARO BEACH ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Salmón tempura, queso crema, tocino, maduro y aguacate.<br> Salmon tempura, cream cheese, bacon, maduro, avocado.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">EL NINJA ROLL
                         <span class="menu-item-price" style="float:right;color:black"> $14</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Salmón y pepino. Afuera: Salmón ahumado, aguacate, y tobiko.<br> Salmon, cucumber (smoked salmon, avocado, tobiko).</p>
+                    <p class="menu-item-description" style="color:black">Pollo tempura, tocineta, queso crema, maduro y guacamole. Afuera: Pollo teriyaki.<br> Chicken tempura, bacon, cream cheese, maduro, guacamole (chicken teriyaki).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAMURAI ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">LA CHAPI
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Ensalada de kani y pepino. Afuera: Atún, aguacate, salmón, wakame, and tobiko.<br> Kani salad, cucumber (tuna, avocado, salmon, wakame, tobiko).</p>
+                    <p class="menu-item-description" style="color:black">Pollo tempura, tocineta, queso crema, maduro y guacamole. Afuera: Chicharrón. <br> Chicken tempura, bacon, cream cheese, maduro, guacamole (chicharron).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">DRAGON ROLL
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TAKI TAKI ROLL
                         <span class="menu-item-price" style="float:right;color:black"> $13</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Camarón tempura, anguila y aguacate. <br> Shrimp tempura, eel, avocado.</p>
+                    <p class="menu-item-description" style="color:black">Churrasco, tocineta, queso crema, maduro y aguacate. <br> Churrasco, bacon, cream cheese, maduro, avocado.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">HANA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CANDELA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $16</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Tartar de atún, pepino, aguacate, mango y jalapeño. <br> Tuna tartar, cucumber, avocado, mango, jalapeno.</p>
+                    <p class="menu-item-description" style="color:black">Camarón tempura, queso crema and aguacate. Afuera: Camarones picante. <br> Shrimp tempura, cream cheese, avocado (spicy chilli shrimp).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">BLACK ROSE ROLL
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CAPOTILLO ROLL
                         <span class="menu-item-price" style="float:right;color:black"> $14</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Atún picante, salmón ahumando y aguacate. Frito con pico de gallo por encima. <br> Spicy tuna, smoked salmon, avocado (deep fried, pico de gallo).</p>
+                    <p class="menu-item-description" style="color:black">Pollo tempura, queso frito, maduro and guacamole. Afuera: Longaniza guisada. <br> Chicken tempura, queso frito, maduro, guacamole (longaniza guisada).</p>
                 </div>
             </div>
         </div>
