@@ -114,10 +114,10 @@
         <br> <hr>
         <div id="topofMenu"></div>
         <center>
-            <a href="#topofMenu" id="fooddrinkButton" onclick="switchToFoodMenu()">Food</a>
-            <a href="#topofMenu" id="fooddrinkButton" onclick="switchToDrinkMenu()">Drinks</a>
+            <a href="#topofMenu" id="fooddrinkButton" onclick="switchToAppsMenu()">Appetizers</a>
+            <a href="#topofMenu" id="fooddrinkButton" onclick="switchToRollsMenu()">Rolls</a>
+            <a href="#topofMenu" id="fooddrinkButton" onclick="switchToEntreeMenu()">Entrees</a>
             <br><br>
-            <p style="color: red; font-weight: bold">Note: Drinks are unavailable for take out orders!</p>
             <a href="#topofMenu" style="text-decoration: underline;" onclick="openMenuModal();currentMenuSlide(1)">(View take-out menu)</a>
             <div id="menuModal" class="modal">
                 <span class="close cursor" onclick="closeMenuModal()">&times;</span>
@@ -143,277 +143,139 @@
         </center>
         <br>
         <!--img src="img/menualma.jpg" class="menuImgTop" alt="drink menu" style=""><br-->
-        <div class="menu menu-row menu-wrap menu-center" id="foodDiv">
+        <div class="menu menu-row menu-wrap menu-center" id="appsDiv">
 
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">APERITIVOS/APPETIZERS</h2>
                 <div class="red-title-divider"></div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">CALAMARI FRITO
-                    <span class="menu-item-price2"> $10</span>
-                        <BR> FRIED CALAMARI </span>
-                    <p class="menu-item-description2">Cherry pepper y salsa marinara.<br> Cherry peppers and marinara sauce.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">CAMARONES PICANTES
-                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
-                        <BR>SPICY SHRIMP </span>
-                    <p class="menu-item-description" style="color:black">Salteados con ajo, tomates frescos, mantequilla y vino blanco.<br> Sautéed with garlic, fresh tomatoes, butter and wine.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">BERENJENAS PARMESANA
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
-                        <BR>EGGPLANT PARMESAN </span>
-                    <p class="menu-item-description" style="color:black">Rodajas de berenjenas, salsa marinara y queso mozzarella gratinado.<br> Eggplant slices, marinara sauce, mozzarella au gratin.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">PASTELITOS VARIADOS
-                        <span class="menu-item-price" style="float:right;color:black"> $6</span>
-                        <BR>MEAT PIE </span>
-                    <p class="menu-item-description" style="color:black">Pollo - Carne - Pizza.<br> Chicken - Beef - Pizza.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">ALITAS
-                        <span class="menu-item-price" style="float:right;color:black"> $5</span>
-                        <BR>CHICKEN WINGS </span>
-                    <p class="menu-item-description" style="color:black">BBQ - BUFFALO.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">CARNES/MEAT</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">PECHUGA AL GRILL EN SALSA AL AJILLO
-                        <span class="menu-item-price2"> $12</span>
-                        <BR> GRILLED CHICKEN BREAST IN GARLIC <br id="content-mobile"> SAUCE </span>
-
-                    <p class="menu-item-description2">Con puré de papa.<br> With mashed potatoes.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">RABO DE RES ESTOFADO
-                        <span class="menu-item-price2"> $16</span>
-                        <BR> STEWED OXTAIL </span>
-                    <p class="menu-item-description2">Marinado y cocinado lentamente. Servido con arroz y habichuealas. <br>
-                    Marinated & slow cooked. Served with rice & beans.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">CHURRASCO ANGUS </span>
-                    <span class="menu-item-price2" style="font-weight: bold;"> $22</span>
-                    <p class="menu-item-description2">Corte cocinado a su gusto con tope de chimichurri. Servido con tostones y ensaladas. <br>
-                    Cooked to your liking and topped with chimichurri. Served with tostones and salad.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">BISTEC ENCEBOLLADO
-                        <span class="menu-item-price2"> $16</span>
-                        <BR> STEAK AND ONIONS </span>
-                    <p class="menu-item-description2">Servido con arroz y habichuealas. <br>
-                        Served with rice & beans.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">MARISCOS/SEAFOOD</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">CAMARONES FUSIÓN
-                        <span class="menu-item-price2"> $12</span>
-                        <BR> FUSION SHRIMP </span>
-
-                    <p class="menu-item-description2">Con gajos de papa y mantequilla picante. <br> With potato wedges and spicy butter. </p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">SALMON AL GRILL CON CHIMICHURRI DE OLIVAS
-                    <span class="menu-item-price2" style="font-weight: bold;"> $18</span>
-                    <br> GRILLED SALMON WITH OLIVE CHIMI</span>
-                    <p class="menu-item-description2">Acompañado con puré de papa. <br> Served with mashed potatoes. </p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">PULPO AL GRILL
-                    <span class="menu-item-price2" style="font-weight: bold;"> $16</span>
-                    <BR> GRILLED OCTOPUS</span>
-                    <p class="menu-item-description2">Marinado con ajo, paprika y perejil. Servido con tostones. <br>
-                        Marinated with garlic, paprika and parsely. Served with fried plantain.</p>
-                </div>
-            </div>
-            <div class="appetizers">
-                <h2 style="font-weight: bolder;">ENSALADA/SALAD</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">ENSALADA MI ALMA
-                        <span class="menu-item-price2"> $10</span>
-                        <BR> MI ALMA SALAD </span>
-                    <p class="menu-item-description2">Mezcla de lechuga, tiras de steak, tomates, zanahorias, y parmesano. Aderezo de orégano fresco. <br>
-                        Lettuce mix, steak tips, tomatoes, carrots, parmesan. Fresh oregano dressing.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">ENSALADA CESAR CON POLLO
-                        <span class="menu-item-price2"> $10</span>
-                        <BR> CAESAR SALAD WITH CHICKEN </span>
-                    <p class="menu-item-description2"> </p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">ENSALADA DE PULPO
-                        <span class="menu-item-price2"> $10</span>
-                        <BR> OCTOPUS SALAD </span>
-                    <p class="menu-item-description2">Con pimientos, cebolla, cilantro y limón. <br>
-                        With peppers, onions, cilantro and lime.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">ARROCES/RICE</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">RISOTTO MAR CARIBE
-                        <span class="menu-item-price2"> $22</span>
-                        <BR> CARIBBEAN SEA RISOTTO </span>
-                    <p class="menu-item-description2">Camarones, calamares, pulpo en salsa pomodoro y parmesano. <br>
-                    Shrimp, calamari, octopus in pomodoro sauce and parmesan.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">RISOTTO DE AUYAMA Y CHURRASCO </span>
-                    <span class="menu-item-price2"> $16</span>
-                    <p class="menu-item-description2"></p>
-                </div>
-            </div>
-            <div class="appetizers">
-                <h2 style="font-weight: bolder;">CALDOS/SOUP</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">CREMA DE AUYAMA
-                        <span class="menu-item-price2"> $6</span>
-                        <BR> DOMINICAN PUMPKIN CREAM </span>
-                    <p class="menu-item-description2">Con tope de parmesano rallado. <br> With parmesan.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">PARA COMPARTIR/TO SHARE</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">PICADERA DE MARISCOS
-                    <span class="menu-item-price2"> $20</span>
-                        <br> SEAFOOD PLATTER </span>
-                    <p class="menu-item-description2">Calamares, camarones, pescado y papas fritas. <br> Calamari, shrimp, fish and French fries.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">PICALONGA
-                        <span class="menu-item-price2"> $18</span>
-                        <BR> DOMINICAN PLATTER </span>
-                    <p class="menu-item-description2">Longaniza, chuleta ahumada, queso y tostones. <br>
-                        Fried beef, longaniza, smoked pork chops, cheese and fried plantains.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">NACHOS
-                        <span class="menu-item-price2"> $10</span>
-                        <BR> LOADED NACHOS </span>
-                    <p class="menu-item-description2">Res, pico de gallo, queso fundido, guacamole, jalapeños y sour cream. <br>
-                        Beef, pico de gallo, melted cheese, guacamole, jalapeño and sour cream.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">PASTAS</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">LINGUINE AL SALMÓN
-                    <span class="menu-item-price2"> $14</span>
-                    <BR> SALMON LINGUINE </span>
-                    <p class="menu-item-description2">Cremosa salsa aurora con vodka. <br> Creamy aurora sauce and vodka.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">LINGUINE CUATRO QUESO CON POLLO
+                    <span class="menu-item-title2">EL FINAL
                     <span class="menu-item-price2"> $12</span>
-                    <BR> FOUR CHEESE LINGUINE WITH CHICKEN </span>
-                    <p class="menu-item-description2"></p>
+                    </span>
+                    <p class="menu-item-description2">Torre Ninja con bistec, maduro y aguacate fresco. Servido con salsa de chinola dulce y pico de gallo.<br> Chef Ninja's tower of thinly sliced steak, fried maduros, fresh avocado slices served with sweet chinola sauce and pico de gallo.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">LINGUINE CON CAMARONES EN SALSA BLANCA
-                    <span class="menu-item-price2"> $14</span>
-                    <BR> SHRIMP LINGUINE IN WHITE SAUCE </span>
-                    <p class="menu-item-description2"></p>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CONCONCITOS
+                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
+                    </span>
+                    <p class="menu-item-description" style="color:black">Trio de canastas de arroz crujiente con un toque de chile dulce y guacamole fresco. Rellenas de ropa vieja, pollo guisado y camarones.<br> A trio of crispy rice baskets with a hint of sweet chili and fresh guacamole, full of ropa vieja, stewed chicken, and shrimp.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">YOLA
+                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Nuestra famosa canoa de plátano maduro rellena de camarones en salsa Especial del Ninja.<br> Our famous sweet plantain canoes stuffed with shrimps topped by Ninja's Special Sauce.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKO OCTOPUS SKEWERS
+                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Pinchos de pulpo a la plancha marinado en teriyaki de ajo.<br> Grilled baby octopus skewers with a garlic teriyaki marinade.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">ROLLITOS DE SALMÓN
+                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Salmón ahumado envuelto de pepino y queso crema. <br> Smoked salmon wrapped by cucumber slice and cream cheese.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TROPICAL TUNA TARTAR
+                        <span class="menu-item-price" style="float:right;color:black"> $16</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Filete de atún, mango fresco y aguacate con un toque de cilantro y mayonesa picante. <br> A delightful mix of diced tuna, fresh mango and avocado with a hint of cilantro and spicy mayo.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">ROCK SHRIMP
+                        <span class="menu-item-price" style="float:right;color:black"> $13</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Camarones fritos con nuestro aioli de ajo picante. <br> Deep-fried shrimp covered with our spicy garlic aioli.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">KANI CROQUETTE
+                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Ninja's croquetas de kani con jalapeño, cebolla y mayonesa. Servido con nuestro aioli de cilantro cremoso. <br> Ninja's crab cream croquettes with jalapeno, onion, mayo served with creamy cilantro aioli.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">VEGGIE TEMPURA
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Verduras de temporada rebozadas y fritas. <br> Seasonal vegetables lightly battered and fried.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">EDAMAME
+                        <span class="menu-item-price" style="float:right;color:black"> $5</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Guisantes verdes salados al vapor. <br> Steamed seas salted green pea pods.</p>
                 </div>
             </div>
             <div class="appetizers">
-                <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS/SIDES</h2>
+                <h2 style="font-weight: bolder;">APERITIVOS/APPETIZERS</h2>
                 <div class="red-title-divider"></div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Tostones/Fried Plantains</span>
-                    <span class="menu-item-price2" style="font-weight: bold;"> $3</span> <br>
-
-                    <span class="menu-item-title2">Papas fritas/French Fries</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Arroz y Habichuelas/Rice and beans</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Ensalada/Salad</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Pure de papa/Mashed Potatoes</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Vegetales/Vegetables</span>
-                    <span class="menu-item-price2"> $3</span>
+                    <span class="menu-item-title2">CRISPY CALAMARI
+                    <span class="menu-item-price2"> $12</span>
+                    </span>
+                    <p class="menu-item-description2">Calamares fritos en tempura con nuestro aioli de chipotle cremoso.<br> Tempura fried calamari rings with creamy chipotle aioli.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TUNA TATAKI
+                        <span class="menu-item-price" style="float:right;color:black"> $16</span>
+                    </span>
+                    <p class="menu-item-description" style="color:black">Atún fresco servido con nuestra cremosa salsa de chinola miso.<br> Lightly-seared fresh tuna served with our creamy miso passion fruit sauce.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CEVICHE DE PULPO
+                        <span class="menu-item-price" style="float:right;color:black"> $16</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Pulpo, pimientas, cebollas, cilantro y judo de limón. Servido con tostones.<br> Ceiviche of octopus, lime juice, peppers and onions, cilantro, served with tostones.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CHICKEN PANKO
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Pollo frito deshuesado al esilo japonés.<br> Japanese style boneless fried chicken.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SWEET 'N SOUR CHICHARRÓN
+                        <span class="menu-item-price" style="float:right;color:black"> $10</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Chicharrón de cerdo al estilo dominicano. <br> Dominican-style fried pork belly.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">ROPA VIEJA EMPANADAS
+                        <span class="menu-item-price" style="float:right;color:black"> $10</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Rellenas de ropa vieja y mozzarella. <br> Our delicious fried flour pastries filled with shredded steak and mozzarella cheese.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">KANI EMPANADAS
+                        <span class="menu-item-price" style="float:right;color:black"> $10</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Rellenas de kani picante y mozzarella. <br> Latin fried flour pastries filled with spicy Japanese kani and mozzarella cheese.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CUBAN EMPANADAS
+                        <span class="menu-item-price" style="float:right;color:black"> $10</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Rellenas de pernil, jamón y queso. <br> A Cuban twist to our fried flour pastries filled with slow roasted pork, ham, and mozzarella cheese.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">GYOZA
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Dumplings de pollo teriyaki. <br> Japanese chicken teriyaki dumplings.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">NINJA'S PICADERA
+                        <span class="menu-item-price" style="float:right;color:black"> $40</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Pollo, camarones, chicharrón, longaniza, queso frito, yucca y tostones. <br> Ninja's sample platter (chicken, shrimps, chicharron, longaniza, queso frito, tostones, yuca).</p>
                 </div>
             </div>
-            <div class="appetizers">
-                <h2 style="font-weight: bolder;">PARA LOS PEQUEÑOS/KIDS</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Pechuga de pollo y papas frita/Chicken Tenders & Fries</span>
-                    <span class="menu-item-price2"> $5</span> <br>
 
-                    <span class="menu-item-title2">Palitos de queso/Cheese Sticks</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-
-                    <span class="menu-item-title2">Queso frito y maduros/Fried cheese with sweet plantains</span>
-                    <span class="menu-item-price2"> $10</span> <br>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">MOFONGO</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Step 1: MAJADO/MASH </span>
-                    <span class="menu-item-price2"> $2</span>
-                    <p class="menu-item-description2">Chicarrón de cerdo/Pork Belly</p>
-                    <p class="menu-item-description2">Chuleta ahumada/Pork Chops</p>
-                    <p class="menu-item-description2">Queso/Cheese</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Step 2: RELLENO/FILLING </span><br>
-
-                    <span class="menu-item-title2">Chicarrón de cerdo/Pork Belly</span>
-                    <span class="menu-item-price2"> $12</span><br>
-
-                    <span class="menu-item-title2">Chuleta ahumada/Pork Chops</span>
-                    <span class="menu-item-price2"> $14</span><br>
-
-                    <span class="menu-item-title2">Rabo/Oxtail</span>
-                    <span class="menu-item-price2"> $16</span><br>
-
-                    <span class="menu-item-title2">Queso/Cheese</span>
-                    <span class="menu-item-price2"> $12</span><br>
-
-                    <span class="menu-item-title2">Pollo/Chicken</span>
-                    <span class="menu-item-price2"> $12</span><br>
-
-                    <span class="menu-item-title2">Churrasco/Skirt Steak</span>
-                    <span class="menu-item-price2"> $14</span><br>
-
-                    <span class="menu-item-title2">Camarones/Shrimp</span>
-                    <span class="menu-item-price2"> $14</span><br>
-
-                    <span class="menu-item-title2">Mariscos/Seafood</span>
-                    <span class="menu-item-price2"> $18</span><br>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Step 3: TOPE/TOPPINGS </span>
-
-                    <p class="menu-item-description2">Queso rallado/Shredded Cheese</p>
-                    <p class="menu-item-description2">Pico de gallo</p>
-                    <p class="menu-item-description2">Queso Fundido/Melted Cheese</p>
-                </div>
-            </div>
         </div>
-        <div class="menu menu-row menu-wrap menu-center" id="drinkDiv" style="display: none">
+        <div class="menu menu-row menu-wrap menu-center" id="rollsDiv" style="display: none">
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">OTRAS BEBIDAS</h2>
                 <div class="red-title-divider"></div>
@@ -590,31 +452,37 @@
         </div>
 
         <br>
-        <span class="menu-item-name">IMPORTANTE: Algunos artículos vienen crudo o parcialmente cocinando y puede incrementar el riesgo de enfermedades por alimentos.
-        Los consumidores que son especialmente vulnerables sólo debe de comer carnes, mariscos y otras comida de animales completamente cocinados.
-        Por favor notifiquemos inmediantamente de cualquier alergia que usted tenga.
+        <span class="menu-item-name">IMPORTANTE: Algunos artículos vienen crudos o parcialmente cocinados y pueden incrementar el riesgo de enfermedades por alimentos.
+        Los consumidores que son especialmente vulnerables solo deben de comer carnes, mariscos y otras comidas de animales completamente cocinados.
+        Por favor notifíquemos inmediatamente de cualquier alergia que usted tenga.
         <br> <br>
-        IMPORTANT: Some menu items are raw or partially cooked and can increase your risk of food borne illness. Consumers who are especially
-        vulnerable to food borne illness should only eat meat, seafood and other food that is thoroughly cooked. Please notify us immediately of any
-        food allergies you have.</span>
+        IMPORTANT: Some items come raw or partially cooked and may increase the risk of foodborne illness. Consumers who are especially
+        vulnerable should only eat meat, seafood and other fully cooked animal foods. Please notify us immediately of any allergies you have.</span>
 
     </div>
 
 
 <script>
-    var food = document.getElementById("foodDiv");
-    var drink = document.getElementById("drinkDiv");
+    var apps = document.getElementById("appsDiv");
+    var rolls = document.getElementById("rollsDiv");
+    var entrees = document.getElementById("entreeDiv");
 
 
-    function switchToFoodMenu() {
-        food.style.display = "flex";
-        drink.style.display = "none";
+    function switchToAppsMenu() {
+        apps.style.display = "flex";
+        rolls.style.display = "none";
+        entrees.style.display = "none";
     }
-    function switchToDrinkMenu() {
-        food.style.display = "none";
-        drink.style.display = "flex";
+    function switchToRollsMenu() {
+        apps.style.display = "none";
+        rolls.style.display = "flex";
+        entrees.style.display = "none";
     }
-    //test
+    function switchToEntreeMenu() {
+        apps.style.display = "none";
+        rolls.style.display = "none";
+        entrees.style.display = "flex";
+    }
 </script>
 
 <script>
