@@ -228,7 +228,7 @@
                     <span class="menu-item-title" style="color:black;font-weight: bolder">CEVICHE DE PULPO
                         <span class="menu-item-price" style="float:right;color:black"> $16</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Pulpo, pimientas, cebollas, cilantro y judo de limón. Servido con tostones.<br> Ceiviche of octopus, lime juice, peppers and onions, cilantro, served with tostones.</p>
+                    <p class="menu-item-description" style="color:black">Pulpo, pimientas, cebollas, cilantro y judo de limón. Servido con tostones.<br> Ceviche of octopus, lime juice, peppers and onions, cilantro, served with tostones.</p>
                 </div>
                 <div class="menu-item2">
                     <span class="menu-item-title" style="color:black;font-weight: bolder">CHICKEN PANKO
@@ -277,176 +277,140 @@
         </div>
         <div class="menu menu-row menu-wrap menu-center" id="rollsDiv" style="display: none">
             <div class="appetizers">
-                <h2 style="font-weight: bolder;">OTRAS BEBIDAS</h2>
+                <h2 style="font-weight: bolder;">ROLLOS TRADICIONALES/<br>TRADITIONAL ROLLS</h2>
                 <div class="red-title-divider"></div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Refrescos - Soda</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-                    <!--p class="menu-item-description2" id="content-desktop">Sprite - Coca Cola - Diet Coke - Ginger Ale - Country Club.</p>
-                    <br id="content-desktop"-->
-                    <p class="menu-item-description2">Sprite <br>
-                        Sprite <br> Coca Cola <br> Diet Coke <br> Ginger Ale <br> Ginger Beer</p>
-                    <br>
-
-                    <span class="menu-item-title2">Agua Carbonatadas - Sparkling Water</span>
-                    <span class="menu-item-price2"> $3</span> <br>
+                    <span class="menu-item-title2">CALIFORNIA
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Kani, aguacate y pepino.<br> Kani, avocado, cucumber.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">EEL AVOCADO
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                    </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SPICY TUNA
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">PHILADELPHIA
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Salmón, pepino y queso crema.<br> Salmon, cucumber, cream cheese.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SPICY SALMON
+                        <span class="menu-item-price" style="float:right;color:black"> $7</span>
+                        </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SHRIMP TEMPURA
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">HAMACHI ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Spicy yellowtail.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">RAINBOW ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Kani, pepino, y aguacate. Afuera: hamachi, atún, and salmón. <br> Kani, cucumber, avocado (yellowtail, tuna, salmon).</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">OKINAWA ROLL
+                    <span class="menu-item-price2"> $14</span>
+                    </span>
+                    <p class="menu-item-description2">Kani, pepino y queso crema. Afuera: Maduro, guacamole y cangrejo.<br> Kani, cucumber, cream cheese (maduro, guacamole, crab meat).</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">ALOHA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                    </span>
+                    <p class="menu-item-description" style="color:black">Atún picante y kani. Afuera: Aguacate y salsa de piña.<br> Spicy tuna, kani (avocado, pineapple salsa).</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAKURA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Salmón y pepino. Afuera: Salmón ahumado, aguacate, y tobiko.<br> Salmon, cucumber (smoked salmon, avocado, tobiko).</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAMURAI ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Ensalada de kani y pepino. Afuera: Atún, aguacate, salmón, wakame, and tobiko.<br> Kani salad, cucumber (tuna, avocado, salmon, wakame, tobiko).</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">DRAGON ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $13</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Camarón tempura, anguila y aguacate. <br> Shrimp tempura, eel, avocado.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">HANA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Tartar de atún, pepino, aguacate, mango y jalapeño. <br> Tuna tartar, cucumber, avocado, mango, jalapeno.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">BLACK ROSE ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Atún picante, salmón ahumando y aguacate. Frito con pico de gallo por encima. <br> Spicy tuna, smoked salmon, avocado (deep fried, pico de gallo).</p>
                 </div>
             </div>
             <div class="appetizers">
-                <h2 style="font-weight: bolder;">SMOOTHIES</h2>
+                <h2 style="font-weight: bolder;">FUSION ROLLS</h2>
                 <div class="red-title-divider"></div>
+                <!--br id="content-desktop896"-->
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Melocotón - Peach</span>
-                    <span class="menu-item-price2"> $4</span> <br>
-
-                    <span class="menu-item-title2">Fresa - Strawberry</span>
-                    <span class="menu-item-price2"> $4</span> <br>
-
-                    <span class="menu-item-title2">Lechoza - Papaya</span>
-                    <span class="menu-item-price2"> $4</span> <br>
-
-                    <span class="menu-item-title2">Piña Colada Virgen</span>
-                    <span class="menu-item-price2"> $4</span> <br>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">CERVEZAS/BEER</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Presidente</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-
-                    <span class="menu-item-title2">Presidente Light</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-
-                    <span class="menu-item-title2">Corona</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-
-                    <span class="menu-item-title2">Modelo</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-
-                    <span class="menu-item-title2">Heineken</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-
-                    <span class="menu-item-title2">Blue Moon</span>
-                    <span class="menu-item-price2"> $5</span> <br>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">TINTOS/RED WINE</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Woodbridge by Robert Mondavi <br id="content-mobile"> Cabernet Sauvignon </span>
-                    <span class="menu-item-price2"> $25</span> <br>
-                    <span class="menu-item-title2">Palo Alto Pinot Noir </span>
-                    <span class="menu-item-price2"> $35</span> <br>
-                    <span class="menu-item-title2">Decoy Cabernet Sauvignon </span>
-                    <span class="menu-item-price2"> $40</span>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">ESPUMANTE/SPARKLING</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Prosecco Lunetta </span>
-                    <span class="menu-item-price2"> $25</span> <br>
-                    <span class="menu-item-title2">Moet Chandon Rose Imperial </span>
-                    <span class="menu-item-price2"> $150</span> <br>
-                    <span class="menu-item-title2">Moet Ice Imperial </span>
-                    <span class="menu-item-price2"> $150</span>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">BLANCO/WHITE WINE</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Woodbridge by Robert Chardonnay </span>
-                    <span class="menu-item-price2"> $25</span> <br>
-                    <span class="menu-item-title2">Jacob's Creek Moscato </span>
-                    <span class="menu-item-price2"> $25</span> <br>
-                    <span class="menu-item-title2">Decoy Sauvignon Blanc </span>
-                    <span class="menu-item-price2"> $40</span>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">JUGOS/JUICES</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Limón - Lemon</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Chinola - Passion Fruit</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Naranja - Orange</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Manzana - Apple Juice</span>
-                    <span class="menu-item-price2"> $3</span> <br>
-
-                    <span class="menu-item-title2">Morir Sonando - Orange Julius</span>
-                    <span class="menu-item-price2"> $4</span> <br>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">ROSADO/ROSE WINE</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Beringer White Zinfandel </span>
-                    <span class="menu-item-price2"> $25</span> <br>
+                    <span class="menu-item-title2">OKINAWA ROLL
+                    <span class="menu-item-price2"> $14</span>
+                    </span>
+                    <p class="menu-item-description2">Kani, pepino y queso crema. Afuera: Maduro, guacamole y cangrejo.<br> Kani, cucumber, cream cheese (maduro, guacamole, crab meat).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Merqués de Riscal Rosado </span>
-                    <span class="menu-item-price2"> $40</span> <br>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">COCKTAILS</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Classic Margarita </span>
-                    <span class="menu-item-price2"> $10</span>
-                    <p class="menu-item-description2">Limón - Fresa - Chinola + Tequila, triple sec, sour mix y zumo de fruta.</p>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">ALOHA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                    </span>
+                    <p class="menu-item-description" style="color:black">Atún picante y kani. Afuera: Aguacate y salsa de piña.<br> Spicy tuna, kani (avocado, pineapple salsa).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Mojitos </span>
-                    <span class="menu-item-price2"> $10</span>
-                    <p class="menu-item-description2">Limón - Fresa - Coco - Chinola + Ron blanco, menta, limón y zumo de fruta.</p>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAKURA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Salmón y pepino. Afuera: Salmón ahumado, aguacate, y tobiko.<br> Salmon, cucumber (smoked salmon, avocado, tobiko).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Sangria </span>
-                    <span class="menu-item-price2"> $9</span> <br>
-                    <span class="menu-item-price2"> Pitcher - $26</span>
-                    <p class="menu-item-description2">Tinta - Peach - Chinola</p>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAMURAI ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Ensalada de kani y pepino. Afuera: Atún, aguacate, salmón, wakame, and tobiko.<br> Kani salad, cucumber (tuna, avocado, salmon, wakame, tobiko).</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Moscow Mule </span>
-                    <span class="menu-item-price2"> $10</span>
-                    <p class="menu-item-description2">Vodka, ginger beer, y jugo de limón.</p>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">DRAGON ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $13</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Camarón tempura, anguila y aguacate. <br> Shrimp tempura, eel, avocado.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Spiced Pear Martini </span>
-                    <span class="menu-item-price2"> $10</span>
-                    <p class="menu-item-description2">Vodka de pera, champagne, Elderflower liqueur, canela y jugo de limón.</p>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">HANA ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Tartar de atún, pepino, aguacate, mango y jalapeño. <br> Tuna tartar, cucumber, avocado, mango, jalapeno.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">Mimosa </span>
-                    <span class="menu-item-price2"> $8</span>
-                    <p class="menu-item-description2">Naranja - Fresa - Peach + Champan y zumo de fruta.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">Piña Colada </span>
-                    <span class="menu-item-price2"> $9</span>
-                    <p class="menu-item-description2">Ron blanco, crema coco, jugo de piña y leche evaporada.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">IMPORTANTE/IMPORTANT</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-name">20% de gratificación será agregado a los grupos de o más personas.
-            <br> <br>
-            20% gratuity will be added to all parties of 6 or more.</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">BLACK ROSE ROLL
+                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                        </span>
+                    <p class="menu-item-description" style="color:black">Atún picante, salmón ahumando y aguacate. Frito con pico de gallo por encima. <br> Spicy tuna, smoked salmon, avocado (deep fried, pico de gallo).</p>
                 </div>
             </div>
         </div>
