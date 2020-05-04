@@ -117,6 +117,7 @@
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToAppsMenu()">Appetizers</a>
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToRollsMenu()">Rolls</a>
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToEntreeMenu()">Entrees</a>
+            <a href="#topofMenu" id="fooddrinkButton" onclick="switchToMiscMenu()">Etc.</a>
             <br><br>
             <a href="#topofMenu" style="text-decoration: underline;" onclick="openMenuModal();currentMenuSlide(1)">(View take-out menu)</a>
             <div id="menuModal" class="modal">
@@ -666,6 +667,9 @@
             </div>
 
         </div>
+        <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="display: none">
+            <!-- Soups/Salad/Sides/Dessert/Kid Menu go here-->
+        </div>
 
         <br>
         <span class="menu-item-name">IMPORTANTE: Algunos artículos vienen crudos o parcialmente cocinados y pueden incrementar el riesgo de enfermedades por alimentos.
@@ -682,22 +686,31 @@
     var apps = document.getElementById("appsDiv");
     var rolls = document.getElementById("rollsDiv");
     var entrees = document.getElementById("entreeDiv");
-
+    var misc = document.getElementById("miscDiv");
 
     function switchToAppsMenu() {
         apps.style.display = "flex";
         rolls.style.display = "none";
         entrees.style.display = "none";
+        misc.style.display = "none";
     }
     function switchToRollsMenu() {
         apps.style.display = "none";
         rolls.style.display = "flex";
         entrees.style.display = "none";
+        misc.style.display = "none";
     }
     function switchToEntreeMenu() {
         apps.style.display = "none";
         rolls.style.display = "none";
         entrees.style.display = "flex";
+        misc.style.display = "none";
+    }
+    function switchToMiscMenu() {
+        apps.style.display = "none";
+        rolls.style.display = "none";
+        entrees.style.display = "none";
+        misc.style.display = "flex";
     }
 </script>
 

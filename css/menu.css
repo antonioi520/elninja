@@ -178,11 +178,9 @@ h2 {
         max-width:300px;
         width:300px;
     }
-
 }
 
 @media (max-width: 896px) {
-
     #appsDiv h2 {
         font-size: 19px;
     //line-height: 40px;
@@ -193,10 +191,9 @@ h2 {
     #appsDiv .menu-item2{
         width:23em;
     }
-
 }
-@media (max-width: 896px) {
 
+@media (max-width: 896px) {
     #rollsDiv h2 {
         font-size: 19px;
     //line-height: 40px;
@@ -207,11 +204,9 @@ h2 {
     #rollsDiv .menu-item2{
         width:23em;
     }
-
 }
 
 @media (max-width: 896px) {
-
     #entreeDiv h2 {
         font-size: 19px;
     //line-height: 40px;
@@ -222,11 +217,22 @@ h2 {
     #entreeDiv .menu-item2{
         width:23em;
     }
+}
 
+@media (max-width: 896px) {
+    #miscDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #miscDiv p {
+        font-size:15px;
+    }
+    #miscDiv .menu-item2{
+        width:23em;
+    }
 }
 
 @media (max-width: 375px) {
-
     #appsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
@@ -237,10 +243,9 @@ h2 {
     #appsDiv .menu-item2{
         width:20em;
     }
-
 }
-@media (max-width: 375px) {
 
+@media (max-width: 375px) {
     #rollsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
@@ -251,10 +256,9 @@ h2 {
     #rollsDiv .menu-item2{
         width:20em;
     }
-
 }
-@media (max-width: 375px) {
 
+@media (max-width: 375px) {
     #entreeDiv h2 {
         font-size: 20px;
     //line-height: 40px;
@@ -265,11 +269,22 @@ h2 {
     #entreeDiv .menu-item2{
         width:20em;
     }
+}
 
+@media (max-width: 375px) {
+    #miscDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #miscDiv p {
+        font-size:12px;
+    }
+    #miscDiv .menu-item2{
+        width:20em;
+    }
 }
 
 @media (max-width: 320px) {
-
     #appsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
@@ -280,10 +295,9 @@ h2 {
     #appsDiv .menu-item2{
         width:18em;
     }
-
 }
-@media (max-width: 320px) {
 
+@media (max-width: 320px) {
     #rollsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
@@ -294,10 +308,9 @@ h2 {
     #rollsDiv .menu-item2{
         width:18em;
     }
-
 }
-@media (max-width: 320px) {
 
+@media (max-width: 320px) {
     #entreeDiv h2 {
         font-size: 20px;
     //line-height: 40px;
@@ -308,7 +321,19 @@ h2 {
     #entreeDiv .menu-item2{
         width:18em;
     }
+}
 
+@media (max-width: 320px) {
+    #miscDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #miscDiv p {
+        font-size:12px;
+    }
+    #miscDiv .menu-item2{
+        width:18em;
+    }
 }
 
 @media (max-width: 896px) {
