@@ -484,6 +484,7 @@
         </div>
     </div>
 
+    <!--
     <div id="interiorModal" class="modal">
         <span class="close cursor" onclick="closeInteriorModal()">&times;</span>
         <div class="modal-content">
@@ -693,6 +694,7 @@
 
         </div>
     </div>
+    <-->
 
     <div id="menuModal" class="modal">
         <span class="close cursor" onclick="closeMenuModal()">&times;</span>
