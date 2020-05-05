@@ -144,7 +144,6 @@
         <br>
         <!--img src="img/menualma.jpg" class="menuImgTop" alt="drink menu" style=""><br-->
         <div class="menu menu-row menu-wrap menu-center" id="appsDiv">
-
             <div class="appetizers">
                 <h2 style="font-weight: bolder;">APERITIVOS/APPETIZERS</h2>
                 <div class="red-title-divider"></div>
@@ -273,7 +272,6 @@
                     <p class="menu-item-description" style="color:black">Pollo, camarones, chicharrón, longaniza, queso frito, yucca y tostones. <br> Ninja's sample platter (chicken, shrimps, chicharron, longaniza, queso frito, tostones, yuca).</p>
                 </div>
             </div>
-
         </div>
         <div class="menu menu-row menu-wrap menu-center" id="rollsDiv" style="display: none">
             <div class="appetizers">
@@ -476,7 +474,7 @@
                     <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI STIR FRY
                         <span class="menu-item-price" style="float:right;color:black"> $16-$18</span>
                     </span>
-                    <p class="menu-item-description" style="color:black">Servido con arroz de jazmín.<br><b>Elige:</b> Res $18, Pollo $16, Camarones $16 y Tofu Teriyaki $16.</b><br> Served with white jazmin rice. <br><b>Your Choice:</b> Beef $18 - Chicken $16 - Shrimp $18 - Tofu Teriyaki $16.</p>
+                    <p class="menu-item-description" style="color:black">Servido con arroz de jazmín.<br><b>Elige:</b> Res $18, Pollo $16, Camarones $16 y Tofu Teriyaki $16.<br><br> Served with white jazmin rice. <br><b>Your Choice:</b> Beef $18 - Chicken $16 - Shrimp $18 - Tofu Teriyaki $16.</p>
                 </div>
                 <div class="menu-item2">
                     <span class="menu-item-title" style="color:black;font-weight: bolder">PECHUGA A LA PLANCHA
@@ -562,13 +560,152 @@
                     <span class="menu-item-title2">NINJA CHOFAN
                     <span class="menu-item-price2"> $10</span>
                     </span>
-                    <p class="menu-item-description2">Arroz frito del Ninja con plátano maduro, verduras, huevo. <br> <b>Su elección:</b> Pollo $4 - Camarones $6<br> Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
+                    <p class="menu-item-description2">Arroz frito del Ninja con plátano maduro, verduras, huevo. <br> <b>Su elección:</b> Pollo $4 - Camarones $6<br><br> Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
                 </div>
             </div>
-
         </div>
         <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="display: none">
-            <!-- Soups/Salad/Sides/Dessert/Kid Menu go here-->
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">ENSALADAS/SALADS</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">KANI SALAD
+                    <span class="menu-item-price2"> $12</span>
+                    </span>
+                    <p class="menu-item-description2">Mezcla de lechuga, kani, aguacate, pepino, cebolla, y nuestro aderezo cremoso de jengibre.<br> Mixed greens, kani, avocado, cucumber, onion, creamy ginger dressing.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">TROPICAL SALAD
+                    <span class="menu-item-price2"> $10</span>
+                    </span>
+                    <p class="menu-item-description2">Mezcla de lechuga, mango, queso feta, nueces, cebolla, tomates cherry, pimientos and aguacate y nuestra vinagreta balsámica asiática. <br> <b>Su elección:</b> Carne de res $6 - Camarones $6 - Pollo $4<br><br> Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">WAKAME SALAD
+                    <span class="menu-item-price2"> $6</span>
+                    </span>
+                    <p class="menu-item-description2">Ensalada de alga Japonesa.<br> Japanese seaweed salad.</p>
+                </div>
+            </div>
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">MENU DE NIÑOS/KID'S MENU</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">DOMINICANO ROLL
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Salami, queso frito y maduro.<br> Salami, questo frito, maduro.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
+                    <span class="menu-item-price2"> $7</span>
+                    <br> CHICKEN PANKO CON PAPAS FRITAS </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">CHEESEBURGER W/ FRIES
+                    <span class="menu-item-price2"> $7</span>
+                    <br> HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
+                </div>
+            </div>
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS/SIDES</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> GARLIC MASHED POTATOES</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">TOSTONES
+                    <span class="menu-item-price2"> $4-$6</span>
+                    </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">PURE DE PLATANO MADURO
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> MADURO MASH</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">ARROZ BLANCO
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> WHITE RICE</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">ARROZ CON HABICHUELA
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> RICE N' BEANS</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">PURÉ DE YUCA
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> YUCCA MASH</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">VEGETALES SALTEADO
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> SAUTEED VEGGIES</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">PAPAS FRITAS
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> FRENCH FRIES</span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">YUCAS FRTAS
+                    <span class="menu-item-price2"> $4-$6</span>
+                    <br> YUCCA FRIES</span>
+                </div>
+            </div>
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">SOPAS/SOUPS</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">SOPA DE MARISCO
+                    <span class="menu-item-price2"> $10</span>
+                    </span>
+                    <p class="menu-item-description2">Nuestro sabrosa sopa de mariscos y vegetales frescos.<br> Our savory broth of fresh seafood and veggies.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">MISO SOUP
+                    <span class="menu-item-price2"> $5</span>
+                    </span>
+                    <p class="menu-item-description2">Nuestra sopa Japonesa tradicional; soybean, tofu, seaweed, cebolletas.<br> Our traditional Japanese soup; Soybean broth with tofu, seaweed, and scallions.</p>
+                </div>
+            </div>
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">POSTRES/DESSERTS</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">BANANA TEMPURA
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Nuestro banana tempura frita con helado de vainilla.<br> Fried banana tempura with vanilla ice cream.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">FLAN
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Nuestro delicioso flan de huevo endulzado; también conocido, como créme caramel.<br> Our delicious sweetened egg custard, AKA creme carame.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">CHINOLA TRES LECHES
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Nuestro tres leches de chinola con una nube de crema batida de vainilla.<br> Our passion fruit flavored tres leches cake with vanilla whipped cream.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">IMOCHI
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Postre japones relleno de helado.<br> Japanese dessert with ice cream filling.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">CHOCOLATE MOUSSE
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Nuestro triple mousse de diferentes chocolates.<br> Our multilayered triple chocolate mousse.</p>
+                </div>
+            </div>
         </div>
 
         <br>
