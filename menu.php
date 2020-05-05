@@ -463,191 +463,92 @@
             </div>
         </div>
         <div class="menu menu-row menu-wrap menu-center" id="entreeDiv" style="display: none">
-            <!--
             <div class="entrees">
                 <h2 style="font-weight: bolder;">PLATOS FUERTES/ENTREES</h2>
                 <div class="red-title-divider"></div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">LA PELA
-                    <span class="menu-item-price2"> $15</span>
+                    <span class="menu-item-title2">MAR Y TIERRA
+                    <span class="menu-item-price2"> $38</span>
                     </span>
-                    <p class="menu-item-description2">Camarón tempura, queso crema, madura y guacamole. Afuera: Marisco mixto.<br> Shrimp tempura, cream cheese, maduro, guacamole (seafood mix).</p>
+                    <p class="menu-item-description2">Con churrasco, cola de langosta y camarones en salsa Ninja. Acompañado de puré de yuca y espárragos.<br> Our signature surf and turf comes with churrasco and lobster tail accompanied by yucca mash, asparagus and shrimps in special Ninja sauce.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">LA BROA
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI STIR FRY
+                        <span class="menu-item-price" style="float:right;color:black"> $16-$18</span>
                     </span>
-                    <p class="menu-item-description" style="color:black">Camarón tempura, queso frito, madura y guacamole. Afuera: Ropa vieja.<br> Shrimp tempura, queso frito, maduro, guacamole (ropa vieja).</p>
+                    <p class="menu-item-description" style="color:black">Servido con arroz de jazmín.<br><b>Elige:</b> Res $18, Pollo $16, Camarones $16 y Tofu Teriyaki $16.</b><br> Served with white jazmin rice. <br><b>Your Choice:</b> Beef $18 - Chicken $16 - Shrimp $18 - Tofu Teriyaki $16.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">BAVARO BEACH ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Salmón tempura, queso crema, tocino, maduro y aguacate.<br> Salmon tempura, cream cheese, bacon, maduro, avocado.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">EL NINJA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Pollo tempura, tocineta, queso crema, maduro y guacamole. Afuera: Pollo teriyaki.<br> Chicken tempura, bacon, cream cheese, maduro, guacamole (chicken teriyaki).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">LA CHAPI
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Pollo tempura, tocineta, queso crema, maduro y guacamole. Afuera: Chicharrón. <br> Chicken tempura, bacon, cream cheese, maduro, guacamole (chicharron).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">TAKI TAKI ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $13</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Churrasco, tocineta, queso crema, maduro y aguacate. <br> Churrasco, bacon, cream cheese, maduro, avocado.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">CANDELA ROLL
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">PECHUGA A LA PLANCHA
                         <span class="menu-item-price" style="float:right;color:black"> $16</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Camarón tempura, queso crema and aguacate. Afuera: Camarones picante. <br> Shrimp tempura, cream cheese, avocado (spicy chilli shrimp).</p>
+                    <p class="menu-item-description" style="color:black">Una pechuga de pollo a la plancha tradcicional servido con tostones.<br> A traditional grilled chicken breast served with tostones.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">CAPOTILLO ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">NINJA'S RIBEYE
+                        <span class="menu-item-price" style="float:right;color:black"> $28</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Pollo tempura, queso frito, maduro and guacamole. Afuera: Longaniza guisada. <br> Chicken tempura, queso frito, maduro, guacamole (longaniza guisada).</p>
+                    <p class="menu-item-description" style="color:black">Filete de 12 onzas con nuestro demi-glace de brugal y Shiitake. Servido con yucas fritas.<br> Savory 12oz ribeye steak with our Brugal Shiitake demi-glace served with yucca fries.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">NO BULTO ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">CHURRASCO
+                        <span class="menu-item-price" style="float:right;color:black"> $24</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Pollo a la plancha, bistec, queso crema, maduro, guacamole y pico de gallo. <br> Grilled chicken, steak, cream cheese, maduro, guacamole, pico de gallo.</p>
+                    <p class="menu-item-description" style="color:black">Nuestro jugoso churrasco a la parrilla acompañado por chimichurri asiático y puré de yuca. <br> Our juicy, grilled skirt steak accompanied by Asian chimichurri and yucca mash.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">EL PATIO ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $10</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">POLLO NINJA
+                        <span class="menu-item-price" style="float:right;color:black"> $18</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Longaniza, queso frito y maduro. <br> Longaniza, queso frito, maduro.</p>
+                    <p class="menu-item-description" style="color:black">Pechuga de pollo rellena de longaniza y mozzarella. Servida con puré de maduro y salsa blanca de tocineta. <br> Chicken breast stuffed with Dominican sausage and mozzarella cheese served with maduro mash and white bacon sauce.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">GEISHA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $16</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">NINJA BANDEJA PAISA
+                        <span class="menu-item-price" style="float:right;color:black"> $26</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Camarones tempura, tocineta, mozzarella y maduro. <br> Shrimp tempura, bacon, mozarella, maduro (deep fried).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">VOLCANO ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Camarón tempura, queso crema y aguacate. Afuera: Kani picante. <br> Shrimp tempura, cream cheese, avocado (spicy kani).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">MI ALMA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Camarón tempura, queso crema, maduro y aguacate. Afuera: Cangrejo. <br> Shrimp tempura, cream cheese, maduro, avocado (crab meat).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">LA ROMANA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Salmón tempura, queso crema, maduro y aguacate. Afuera: Bacalao. <br> Salmon tempura, cream cheese, amaduro, avocado (bacalao).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">CONSTANZA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Espárragos tempura, batata japonesa, maduro, guacamole y pico de gallo. <br> Asparagus tempura, Japanese sweet potato, maduro, guacamole, pico de gallo.</p>
+                    <p class="menu-item-description" style="color:black">La versión del Ninja famoso plato colombiano; Chicharrón, churrasco, longaniza, huevo frito, maduros, arroz y frijoles. <br> Ninja's version of the signature Colombian dish; Pork belly, skirt steak, sausage, fried egg, maduros, rice and beans.</p>
                 </div>
             </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">PLATOS FUERTES/ENTREES</h2>
                 <div class="red-title-divider"></div>
                 <div class="menu-item2">
-                    <span class="menu-item-title2">CALIFORNIA
-                    <span class="menu-item-price2"> $7</span>
-                    </span>
-                    <p class="menu-item-description2">Kani, aguacate y pepino.<br> Kani, avocado, cucumber.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">EEL AVOCADO
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
-                    </span>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SPICY TUNA
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TOMAHAWK 2:2
+                        <span class="menu-item-price" style="float:right;color:black"> $100</span>
                         </span>
+                    <p class="menu-item-description" style="color:black">Nuestro Tomahawk de 32 onzas para dos. Acompañado con papas horneadas, verduras chinas, mazorca de maíz y teriyaki con ajo. <br> Our 32oz Tomahawk for two comes accompanied with baked potatoes, Chinese veggies, Mexican street corn and garlic teriyaki.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">PHILADELPHIA
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">HANGER STEAK
+                        <span class="menu-item-price" style="float:right;color:black"> $20</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Salmón, pepino y queso crema.<br> Salmon, cucumber, cream cheese.</p>
+                    <p class="menu-item-description" style="color:black">Nuestro corte de Hanger Steak viene con un demi-glace de hongos y yucas fritas. <br> Our cut of Hanger Steak comes with a mushroom demi-glace and yucca fries.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SPICY SALMON
-                        <span class="menu-item-price" style="float:right;color:black"> $7</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">SALMON A LA ISLA
+                        <span class="menu-item-price" style="float:right;color:black"> $22</span>
                         </span>
+                    <p class="menu-item-description" style="color:black">Salmón a la parilla con salsa asiática sobre puré de ajo y espárragos. <br> Perfectly grilled salmon with Asian creole sauce over garlic mashed potatoes and asparagus.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SHRIMP TEMPURA
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
+                        <span class="menu-item-price" style="float:right;color:black"> $26</span>
                         </span>
+                    <p class="menu-item-description" style="color:black">Una cubera roja crujiente relleno de puré de maduro con bacalao y nuestra famosa Salsa Especial Ninja por encima. <br> Crispy red snapper filled with maduro mash, topped by bacalao and our famous Ninja's Special Sauce.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">HAMACHI ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $8</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">LANGOSTA RELLENA
+                        <span class="menu-item-price" style="float:right;color:black"> $38</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Spicy yellowtail.</p>
+                    <p class="menu-item-description" style="color:black">Langosta fresca rellena de mariscos mixto con Salsa de Coco por arriba. Servica con puré de ajo. <br> A whole fresh lobster stuffed with a fresh variety of seafood, topped by Salsa de Coco with garlic mashed potatoes.</p>
                 </div>
                 <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">RAINBOW ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $12</span>
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">RISOTTO DOMINICANO
+                        <span class="menu-item-price" style="float:right;color:black"> $22</span>
                         </span>
-                    <p class="menu-item-description" style="color:black">Kani, pepino, y aguacate. Afuera: hamachi, atún, and salmón. <br> Kani, cucumber, avocado (yellowtail, tuna, salmon).</p>
+                    <p class="menu-item-description" style="color:black">Con guandules y coco y camarones picante.</p>
                 </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">OKINAWA ROLL
-                    <span class="menu-item-price2"> $14</span>
-                    </span>
-                    <p class="menu-item-description2">Kani, pepino y queso crema. Afuera: Maduro, guacamole y cangrejo.<br> Kani, cucumber, cream cheese (maduro, guacamole, crab meat).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">ALOHA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
-                    </span>
-                    <p class="menu-item-description" style="color:black">Atún picante y kani. Afuera: Aguacate y salsa de piña.<br> Spicy tuna, kani (avocado, pineapple salsa).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAKURA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Salmón y pepino. Afuera: Salmón ahumado, aguacate, y tobiko.<br> Salmon, cucumber (smoked salmon, avocado, tobiko).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">SAMURAI ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $15</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Ensalada de kani y pepino. Afuera: Atún, aguacate, salmón, wakame, and tobiko.<br> Kani salad, cucumber (tuna, avocado, salmon, wakame, tobiko).</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">DRAGON ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $13</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Camarón tempura, anguila y aguacate. <br> Shrimp tempura, eel, avocado.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">HANA ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Tartar de atún, pepino, aguacate, mango y jalapeño. <br> Tuna tartar, cucumber, avocado, mango, jalapeno.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">BLACK ROSE ROLL
-                        <span class="menu-item-price" style="float:right;color:black"> $14</span>
-                        </span>
-                    <p class="menu-item-description" style="color:black">Atún picante, salmón ahumando y aguacate. Frito con pico de gallo por encima. <br> Spicy tuna, smoked salmon, avocado (deep fried, pico de gallo).</p>
-                </div>
-            </div> <-->
+            </div>
             <div class="entrees">
                 <h2 style="font-weight: bolder;">CHOFAN</h2>
                 <div class="red-title-divider"></div>
