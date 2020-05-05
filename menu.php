@@ -566,48 +566,6 @@
         </div>
         <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="display: none">
             <div class="entrees">
-                <h2 style="font-weight: bolder;">ENSALADAS/SALADS</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">KANI SALAD
-                    <span class="menu-item-price2"> $12</span>
-                    </span>
-                    <p class="menu-item-description2">Mezcla de lechuga, kani, aguacate, pepino, cebolla, y nuestro aderezo cremoso de jengibre.<br> Mixed greens, kani, avocado, cucumber, onion, creamy ginger dressing.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">TROPICAL SALAD
-                    <span class="menu-item-price2"> $10</span>
-                    </span>
-                    <p class="menu-item-description2">Mezcla de lechuga, mango, queso feta, nueces, cebolla, tomates cherry, pimientos and aguacate y nuestra vinagreta balsámica asiática. <br> <b>Su elección:</b> Carne de res $6 - Camarones $6 - Pollo $4<br><br> Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">WAKAME SALAD
-                    <span class="menu-item-price2"> $6</span>
-                    </span>
-                    <p class="menu-item-description2">Ensalada de alga Japonesa.<br> Japanese seaweed salad.</p>
-                </div>
-            </div>
-            <div class="entrees">
-                <h2 style="font-weight: bolder;">MENU DE NIÑOS/KID'S MENU</h2>
-                <div class="red-title-divider"></div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">DOMINICANO ROLL
-                    <span class="menu-item-price2"> $7</span>
-                    </span>
-                    <p class="menu-item-description2">Salami, queso frito y maduro.<br> Salami, questo frito, maduro.</p>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
-                    <span class="menu-item-price2"> $7</span>
-                    <br> CHICKEN PANKO CON PAPAS FRITAS </span>
-                </div>
-                <div class="menu-item2">
-                    <span class="menu-item-title2">CHEESEBURGER W/ FRIES
-                    <span class="menu-item-price2"> $7</span>
-                    <br> HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
-                </div>
-            </div>
-            <div class="entrees">
                 <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS/SIDES</h2>
                 <div class="red-title-divider"></div>
                 <div class="menu-item2">
@@ -654,6 +612,48 @@
                     <span class="menu-item-title2">YUCAS FRTAS
                     <span class="menu-item-price2"> $4-$6</span>
                     <br> YUCCA FRIES</span>
+                </div>
+            </div>
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">ENSALADAS/SALADS</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">KANI SALAD
+                    <span class="menu-item-price2"> $12</span>
+                    </span>
+                    <p class="menu-item-description2">Mezcla de lechuga, kani, aguacate, pepino, cebolla, y nuestro aderezo cremoso de jengibre.<br> Mixed greens, kani, avocado, cucumber, onion, creamy ginger dressing.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">TROPICAL SALAD
+                    <span class="menu-item-price2"> $10</span>
+                    </span>
+                    <p class="menu-item-description2">Mezcla de lechuga, mango, queso feta, nueces, cebolla, tomates cherry, pimientos and aguacate y nuestra vinagreta balsámica asiática. <br> <b>Su elección:</b> Carne de res $6 - Camarones $6 - Pollo $4<br><br> Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">WAKAME SALAD
+                    <span class="menu-item-price2"> $6</span>
+                    </span>
+                    <p class="menu-item-description2">Ensalada de alga Japonesa.<br> Japanese seaweed salad.</p>
+                </div>
+            </div>
+            <div class="entrees">
+                <h2 style="font-weight: bolder;">MENU DE NIÑOS/KID'S MENU</h2>
+                <div class="red-title-divider"></div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">DOMINICANO ROLL
+                    <span class="menu-item-price2"> $7</span>
+                    </span>
+                    <p class="menu-item-description2">Salami, queso frito y maduro.<br> Salami, questo frito, maduro.</p>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
+                    <span class="menu-item-price2"> $7</span>
+                    <br> CHICKEN PANKO CON PAPAS FRITAS </span>
+                </div>
+                <div class="menu-item2">
+                    <span class="menu-item-title2">CHEESEBURGER W/ FRIES
+                    <span class="menu-item-price2"> $7</span>
+                    <br> HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
                 </div>
             </div>
             <div class="entrees">
