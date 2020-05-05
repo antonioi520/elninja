@@ -94,8 +94,8 @@ p {
     z-index: 2;
 }
 .bg-blackish{
-
-    background-color:rgba(0, 0, 0, 0.3);
+    transition: .7s;
+    background-color:rgba(0, 0, 0, 0);
     opacity: 1;
 }
 
