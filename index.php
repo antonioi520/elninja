@@ -272,7 +272,7 @@
         if ($(window).scrollTop() >= 1) {
             $('.bg-blackish').css('background-color', 'rgba(0,0,0,.6)');
         } else {
-            $('body').css('background', 'transparent');
+            $('.bg-blackish').css('background', 'transparent');
         }
     });
 </script>
