@@ -1300,8 +1300,8 @@
 <br>
 <br>
 <?php include("views/footer.html")?>
-<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-<?php include("views/includebottom.html") ?>
+<a href="#" class="back-to-top" style="color: red;"><i class="fa fa-chevron-up"></i></a>
+<?php include("views/includebottommenu.html") ?>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
