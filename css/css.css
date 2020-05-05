@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Kaushan%20Script');
 @import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
 @font-face {
     font-family: Courgette-Regular;
     src: url('../fonts/courgette/Courgette-Regular.ttf');
@@ -8,7 +10,10 @@
     font-family: Poppins;
     src: url('../fonts/poppins/Poppins-Regular.ttf');
 }
-
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf');
+}
 @font-face {
     font-family: 'Kaushan Script';
     src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script'); /* IE9 Compat Modes */
@@ -50,10 +55,13 @@ p {
     padding: 0;
 }
 .nav-item a{
+    font-family: Montserrat-Regular;
     transition: 0.5s;
     color:white;
+    font-size: 15px;
     font-weight: bold;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.15em;
+    padding:2px;
 }
 .nav-item a:hover{
     color:red;
@@ -195,6 +203,7 @@ p {
 
 }
 #headerHours{
+    font-family: Montserrat;
     transition: 0.5s;
     color:red;
     font-size: 15px;
