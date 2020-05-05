@@ -28,13 +28,11 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
     <link href="css/gallery.css" rel="stylesheet">
-<!--    <link href="css/menu.css" rel="stylesheet">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
     <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
     <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
-
 
 
 </head>
