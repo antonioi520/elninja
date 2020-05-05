@@ -117,7 +117,7 @@
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToRollsMenu()">Rolls</a>
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToEntreeMenu()">Entrees</a>
             <a href="#topofMenu" id="fooddrinkButton" onclick="switchToMiscMenu()">Etc.</a>
-            <br><br>
+            <br><!--br>
             <a href="#topofMenu" style="text-decoration: underline;" onclick="openMenuModal();currentMenuSlide(1)">(View take-out menu)</a>
             <div id="menuModal" class="modal">
                 <span class="close cursor" onclick="closeMenuModal()">&times;</span>
@@ -138,7 +138,7 @@
                     <a class="next" onclick="plusMenuSlides(1)">&#10095;</a>
 
                 </div>
-            </div>
+            </div-->
 
         </center>
         <br>
