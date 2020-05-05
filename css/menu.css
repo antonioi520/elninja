@@ -178,94 +178,201 @@ h2 {
         max-width:300px;
         width:300px;
     }
-
 }
 
 @media (max-width: 896px) {
-
-    #foodDiv h2 {
+    #allDiv h2 {
         font-size: 19px;
     //line-height: 40px;
     }
-    #foodDiv p {
+    #allDiv p {
         font-size:15px;
     }
-    #foodDiv .menu-item2{
-        width:24em;
+    #allDiv .menu-item2{
+        width:23em;
     }
-
 }
+
 @media (max-width: 896px) {
-
-    #drinkDiv h2 {
+    #appsDiv h2 {
         font-size: 19px;
     //line-height: 40px;
     }
-    #drinkDiv p {
+    #appsDiv p {
         font-size:15px;
     }
-    #drinkDiv .menu-item2{
-        width:24em;
+    #appsDiv .menu-item2{
+        width:23em;
     }
+}
 
+@media (max-width: 896px) {
+    #rollsDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #rollsDiv p {
+        font-size:15px;
+    }
+    #rollsDiv .menu-item2{
+        width:23em;
+    }
+}
+
+@media (max-width: 896px) {
+    #entreeDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #entreeDiv p {
+        font-size:15px;
+    }
+    #entreeDiv .menu-item2{
+        width:23em;
+    }
+}
+
+@media (max-width: 896px) {
+    #miscDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #miscDiv p {
+        font-size:15px;
+    }
+    #miscDiv .menu-item2{
+        width:23em;
+    }
 }
 
 @media (max-width: 375px) {
-
-    #foodDiv h2 {
+    #allDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #foodDiv p {
+    #allDiv p {
         font-size:12px;
     }
-    #foodDiv .menu-item2{
+    #allDiv .menu-item2{
         width:20em;
     }
-
 }
+
 @media (max-width: 375px) {
-
-    #drinkDiv h2 {
+    #appsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #drinkDiv p {
+    #appsDiv p {
         font-size:12px;
     }
-    #drinkDiv .menu-item2{
+    #appsDiv .menu-item2{
         width:20em;
     }
-
 }
 
-@media (max-width: 320px) {
-
-    #foodDiv h2 {
+@media (max-width: 375px) {
+    #rollsDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #foodDiv p {
+    #rollsDiv p {
         font-size:12px;
     }
-    #foodDiv .menu-item2{
-        width:18em;
+    #rollsDiv .menu-item2{
+        width:20em;
     }
-
 }
-@media (max-width: 320px) {
 
-    #drinkDiv h2 {
+@media (max-width: 375px) {
+    #entreeDiv h2 {
         font-size: 20px;
     //line-height: 40px;
     }
-    #drinkDiv p {
+    #entreeDiv p {
         font-size:12px;
     }
-    #drinkDiv .menu-item2{
+    #entreeDiv .menu-item2{
+        width:20em;
+    }
+}
+
+@media (max-width: 375px) {
+    #miscDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #miscDiv p {
+        font-size:12px;
+    }
+    #miscDiv .menu-item2{
+        width:20em;
+    }
+}
+
+@media (max-width: 320px) {
+    #allDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #allDiv p {
+        font-size:12px;
+    }
+    #allDiv .menu-item2{
         width:18em;
     }
+}
 
+@media (max-width: 320px) {
+    #appsDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #appsDiv p {
+        font-size:12px;
+    }
+    #appsDiv .menu-item2{
+        width:18em;
+    }
+}
+
+@media (max-width: 320px) {
+    #rollsDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #rollsDiv p {
+        font-size:12px;
+    }
+    #rollsDiv .menu-item2{
+        width:18em;
+    }
+}
+
+@media (max-width: 320px) {
+    #entreeDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #entreeDiv p {
+        font-size:12px;
+    }
+    #entreeDiv .menu-item2{
+        width:18em;
+    }
+}
+
+@media (max-width: 320px) {
+    #miscDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #miscDiv p {
+        font-size:12px;
+    }
+    #miscDiv .menu-item2{
+        width:18em;
+    }
 }
 
 @media (max-width: 896px) {
