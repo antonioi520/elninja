@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Kaushan%20Script');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@font-face {
+    font-family: Courgette-Regular;
+    src: url('../fonts/courgette/Courgette-Regular.ttf');
+}
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/poppins/Poppins-Regular.ttf');
+}
 
 @font-face {
     font-family: 'Kaushan Script';
@@ -17,7 +26,7 @@
 
 }
 .imglogohead{
-    height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-9em;margin-bottom:10px;"
+    height:40%;width: 40%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-1em;margin-bottom:10px;"
 }
 body {
     background: #f7f7f7;
@@ -97,10 +106,10 @@ p {
 }
 
 .headertext{
-    font-family: "Lucida Bright", serif;
-// font-weight: 600;
+    font-family: Courgette;
+    font-weight: 700;
     text-align: center;
-    font-size: 5.625em;
+    font-size: 3.625em;
 // z-index:0;
     /*position: absolute;*/
     /*top: 17%;*/
@@ -171,21 +180,22 @@ p {
     transition: 0.5s;
 // position:absolute;
 //line-height: 1.1em;
-    max-height: 5.5em;
+    max-height: 3em;
     padding: .5em;
-    max-width: 20em;
-    width: 20em;
+    max-width: 8em;
+    width: 8em;
     border: 0.188em solid white;
 //background-color: rgb(106,134,79);
-    opacity: .9;
+   background-color: white;
     /*left: 38.5%;*/
     /*margin-top:-15%;*/
-    border-radius: 0.313em;
+    border-radius: 10px;
 }
 #headerHours{
     transition: 0.5s;
-    color:white;
-    padding-top: 0.5em;
+    color:red;
+    font-size: 15px;
+    margin-top: 5px;
 }
 #box:hover{
     text-decoration: none;
@@ -779,4 +789,12 @@ input.invalid {
 }
 textarea.invalid {
     border-color: red;
+}
+
+.headertext1{
+    font-family: Courgette;
+    font-size: 60px;
+}
+.headertext2{
+
 }
