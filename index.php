@@ -21,14 +21,14 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(15%);object-fit: cover;">
-                <div class="carousel-caption d-md-block" id="hero" style="top:25%;">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter: brightness(25%) grayscale(80%);object-fit: cover;">
+                <div class="carousel-caption d-md-block" id="hero" style="top:30%;">
                     <center>
                         <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
 <!--                        <h1 class="headertext shadow">EL NINJA</H1>-->
                     </center>
                     <center>
-                        <img src="img/logo_ninja.png" class="imglogohead">
+                        <img src="img/logo_ninja.png" class="imglogohead" style="margin-bottom: 150px;">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
