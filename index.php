@@ -22,10 +22,10 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(15%);object-fit: cover;">
-                <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
+                <div class="carousel-caption d-md-block" id="hero" style="top:25%;">
                     <center>
                         <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
-                        <h1 class="headertext shadow">EL NINJA RESTAURANT</H1>
+<!--                        <h1 class="headertext shadow">EL NINJA</H1>-->
                     </center>
                     <center>
                         <img src="img/logo_ninja.png" class="imglogohead">
