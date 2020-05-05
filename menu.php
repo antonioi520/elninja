@@ -47,10 +47,7 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/FoodDrink/ElNinjaFood-13.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-                <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero" style="">
-                    <!--<center>
-                        <img src="img/logo.png" class="menuHeaderImage" style="padding-bottom: 200px;">
-                    </center>-->
+                <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                     <center>
                     <div class="menuHeaderBox">
                         <h1 class="menu-heading menuHeaderText" style="top:-10px;">El Ninja Menu</h1>
@@ -60,8 +57,7 @@
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="img/FoodDrink/ElNinjaFood-17.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero" style="">
-
+            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="menuHeaderBox">
                         <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
@@ -71,8 +67,7 @@
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="img/FoodDrink/ElNinjaFood-22.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero" style="">
-
+            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="menuHeaderBox">
                         <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
@@ -82,8 +77,7 @@
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="img/FoodDrink/ElNinjaFood-16.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero" style="">
-
+            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="menuHeaderBox">
                         <h1 class="menu-heading menuHeaderText" style="color:white;">El Ninja Menu</h1>
