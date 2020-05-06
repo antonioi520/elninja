@@ -137,7 +137,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <img src="img/imgheader3.png" style="text-align: center;display: block;margin:auto;">
+                <img src="img/imgheadersushi.png" style="text-align: center;display: block;margin:auto;">
             </div>
         </div>
     </div>
