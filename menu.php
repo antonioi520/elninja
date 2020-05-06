@@ -23,6 +23,44 @@
     <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
+    <style>
+        .top-link {
+            transition: all .25s ease-in-out;
+            position: fixed;
+            bottom: -10px;
+            right: -10px;
+            display: inline-flex;
+            cursor: pointer;
+            align-items: center;
+            justify-content: center;
+            margin: 0 3em 3em 0;
+            border-radius: 50%;
+            padding: .25em;
+            width: 40px;
+            height: 40px;
+            background-color: #f0f0f0;
+        }
+        .top-link.show {
+            visibility: visible;
+            opacity: 1;
+        }
+        .top-link.hide {
+            visibility: hidden;
+            opacity: 0;
+        }
+        .top-link svg {
+            fill: #000;
+            width: 24px;
+            height: 12px;
+        }
+        .top-link:hover {
+            background-color: #f0f0f0;
+        }
+        .top-link:hover svg {
+            fill: #ff0000;
+        }
+    </style>
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/fadein.css" rel="stylesheet">
@@ -73,6 +111,7 @@
             <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false" style="margin-left: 0px;">Etc.</a>
         </div>
     </nav>
+
     <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
             <div class="menu menu-row menu-wrap menu-center" id="allDiv" style="margin-top: 40px;">
@@ -1219,6 +1258,51 @@
 <br>
 <?php include("views/footer.html")?>
 
+<a class="top-link hide" href="" id="js-top">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+<script>
+    // Set a variable for our button element.
+    const scrollToTopButton = document.getElementById('js-top');
+
+    // Let's set up a function that shows our scroll-to-top button if we scroll beyond the height of the initial window.
+    const scrollFunc = () => {
+        // Get the current scroll value
+        let y = window.scrollY;
+
+        // If the scroll value is greater than the window height, let's add a class to the scroll-to-top button to show it!
+        if (y > 0) {
+            scrollToTopButton.className = "top-link show";
+        } else {
+            scrollToTopButton.className = "top-link hide";
+        }
+    };
+
+    window.addEventListener("scroll", scrollFunc);
+
+    const scrollToTop = () => {
+        // Let's set a variable for the number of pixels we are from the top of the document.
+        const c = document.documentElement.scrollTop || document.body.scrollTop;
+
+        // If that number is greater than 0, we'll scroll back to 0, or the top of the document.
+        // We'll also animate that scroll with requestAnimationFrame:
+        // https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+        if (c > 0) {
+            window.requestAnimationFrame(scrollToTop);
+            // ScrollTo takes an x and a y coordinate.
+            // Increase the '10' value to get a smoother/slower scroll!
+            window.scrollTo(0, c - c / 10);
+        }
+    };
+
+    // When the button is clicked, run our ScrolltoTop function above!
+    scrollToTopButton.onclick = function(e) {
+        e.preventDefault();
+        scrollToTop();
+    }
+</script>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
