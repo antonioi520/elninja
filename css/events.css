@@ -15,8 +15,7 @@
 
 }
 .eventHeaderBox {
-    border: 0 solid red;
-    background-color: rgba(255,0,0,0.4);
+//    background-color: rgba(255,0,0,0.4);
     line-height: 1.1em;
     max-height: 5em;
 //margin: 1em;
