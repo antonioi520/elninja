@@ -72,7 +72,7 @@ h2 {
 .menu-item {
     box-shadow: 5px 5px 5px #888888;
     line-height: 1.5em;
-    max-height: 15em;
+    max-height: 30em;
     margin: 1em;
     padding: .5em;
     max-width: 30em;
@@ -83,7 +83,7 @@ h2 {
 .menu-item2 {
     border: 2.5px dashed #ee2929;
     line-height: 1.5em;
-    max-height: 15em;
+    max-height: 30em;
     margin: 1em;
     padding: .5em;
     max-width: 30em;
