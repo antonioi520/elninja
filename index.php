@@ -56,6 +56,8 @@
     </center>
 </div>
 
+
+
 <!--==========================
   About Section
   ============================-->
@@ -98,17 +100,98 @@
     </div>
 </section>
 
-<section id="scrollparallax">
-    <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-8">
+<section id="about" class="section-intro" style="display:block;background-color: #f3f2ee">
+    <div class="content-intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <!-- Block1 -->
+                    <div class="blo1">
+                        <div class="wrap-pic-blo1 hov-img-zoom">
+                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-1.jpg" alt="IMG-INTRO" class="introimg"></a>
+                        </div>
 
-            </div>
+                        <div class="wrap-text-blo1">
+                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                                    Our Services
+                                </h4></a>
+
+                            <p class="introNormaltext">
+                                Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros.
+                            </p>
+
+                            <a href="#" class="introLearn" style="text-decoration: none;">
+                                Learn More
+                                <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 p-t-30">
+                    <!-- Block1 -->
+                    <div class="blo1">
+                        <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
+                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-2.jpg" alt="IMG-INTRO" class="introimg"></a>
+                        </div>
+
+                        <div class="wrap-text-blo1 p-t-35">
+                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                                    Our Events
+                                </h4></a>
+
+                            <p class="introNormaltext">
+                                Aliquam eget aliquam magna, quis posuere risus ac justo ipsum nibh urna
+                            </p>
+
+                            <a href="#" class="introLearn" style="text-decoration: none;">
+                                Learn More
+                                <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 p-t-30">
+                    <!-- Block1 -->
+                    <div class="blo1">
+                        <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
+                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-3.jpg" alt="IMG-INTRO" class="introimg"></a>
+                        </div>
+
+                        <div class="wrap-text-blo1 p-t-35">
+                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                                    Our Gallery
+                                </h4></a>
+
+                            <p class="introNormaltext">
+                                Sed ornare ligula eget tortor tempor, quis porta tellus dictum.
+                            </p>
+
+                            <a href="#" class="introLearn" style="text-decoration: none;">
+                                Learn More
+                                <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
     </div>
 </section>
+
+<!--<section id="scrollparallax">-->
+<!--    <div class="container wow fadeInUp">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-8">-->
+<!---->
+<!--            </div>-->
+<!---->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
 <!--images in middle -->
 <!--section id="middleImages">

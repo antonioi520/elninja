@@ -49,10 +49,12 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 p {
-    font-family: "Helvetica", sans-serif;
+    font-family: Montserrat;
     font-weight: 400;
-    margin: 0 0 1em 0;
-    padding: 0;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
 }
 .nav-item a{
     font-family: Montserrat-Regular;
@@ -809,8 +811,52 @@ textarea.invalid {
 }
 
 
-#scrollparallax {
+    #scrollparallax {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/Events/MAR-ElNinjaValentinesDay-20.jpg') fixed center center;
     background-size: cover;
     padding: 80px 0;
+}
+.introimg{
+    height:219px;
+    width:370px;
+    border-radius: 5%;
+    object-fit: cover;
+}
+.introText{
+    padding-top: 35px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 22px;
+    color: #333333;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    transition: .4s;
+}
+.introText:hover{
+    text-decoration: none;
+    color:#ee2929;
+    transition: .4s;
+}
+.introNormaltext{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.introLearn{
+    transition: .4s;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 12px;
+    color: #222222;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.introLearn:hover{
+    color:#ee2929;
+    transition: .4s;
 }
