@@ -85,12 +85,12 @@
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
                 <p class="about-text">
-                    El Ninja Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
-                    boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
+                    El Ninja Restaurant is a Latin fusion sushi restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
+                    headed by world-class chef El Ninja and a talented staff, that uses only the finest ingredients!
                 </p>
                 <p class="about-text">
-                    Services provided at El Ninja Restaurant include an array of Dominican/Latin cuisine, events and
-                    live concerts. We go out of our way to ensure that your time spent at El Ninja Restaurant is
+                    Services provided at El Ninja Restaurant include an array of Japanese/Latin cuisine, events and
+                    specials. We go out of our way to ensure that your time spent at El Ninja Restaurant is
                     memorable and of the highest quality!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
@@ -228,7 +228,7 @@
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929;"></div>
-                <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
+                <p class="section-description">Send us a message and we'll get back to you as soon as we can!</p>
             </div>
         </div>
 
