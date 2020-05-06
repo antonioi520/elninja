@@ -25,8 +25,8 @@
 
     <style>
         .repeating-bg {
-            background-image: url(img/ninja.png);
-            background-repeat: repeat;
+            background-image: url(img/ninja_space.png);
+            background-repeat: space;
         }
 
         .top-link {
