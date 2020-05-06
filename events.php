@@ -71,7 +71,7 @@
     <hr style="margin-bottom:0px;">
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
-        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong style="color:red">Events</strong></h1>
+        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong style="color:#ee2929">Events</strong></h1>
         <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us.</h5>
         <div class="red-title-divider" style="width:300px;"></div>
     </div>
@@ -90,11 +90,11 @@
 
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="card" style="border-color: red">
+            <div class="card" style="border-color: #ee2929">
                 <img class="card-img-top" src="img/Events/superbowl_LIV.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Super Bowl Party</h5>
-                    <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                         49ers vs. Chiefs <br>
                         Buffalo/BBQ Chicken Wings - $6.00 <br>
                         Nachos/Tacos - $6.00
@@ -105,21 +105,21 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="card" style="border-color: red">
+            <div class="card" style="border-color: #ee2929">
                 <img class="card-img-top" src="img/Events/noche_bohemia.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Noche Bohemia con JanetG</h5>
-                    <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                         Reservaciones: <br> (401) 215-7824, <br> (401) 648-0715
                         <br><br>
                         <strong>Date: Wednesday, February 5th</strong><br>
@@ -129,12 +129,12 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
@@ -151,11 +151,11 @@
 <div class="container">
     <div class="row">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="card" style="border-color: red">
+            <div class="card" style="border-color: #ee2929">
                 <img class="card-img-top" src="img/Events/la_insuperable.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">La Insuperable En Vivo</h5>
-                    <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                         Reservas: (401) 215-7824
                         <br>
                         <a href="img/Events/insuperable_seating.jpeg" target="_blank">View Seating Chart</a>
@@ -167,21 +167,21 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="card" style="border-color: red">
+            <div class="card" style="border-color: #ee2929">
                 <img class="card-img-top" src="img/Events/insuperable_seating.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">La Insuperable - Seating Chart</h5>
-                    <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                         <a href="img/Events/insuperable_seating.jpeg" target="_blank">View Seating Chart</a>
                         <br><br>
                         <strong>Date: Saturday, February 8th</strong><br>
@@ -191,12 +191,12 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
@@ -209,11 +209,11 @@
     <div class="container">
         <div class="row">
             <div class="card-deck" style="width:80%;margin:auto;">
-                <div class="card" style="border-color: red">
+                <div class="card" style="border-color: #ee2929">
                     <img class="card-img-top" src="img/Events/makeup.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                     <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                         <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Clases De Maquillaje Profesional</h5>
-                        <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                        <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                             Reservations: <br>
                             Yinelis - (401) 588-0974<br>
                             Ysmel - (401) 286-1004
@@ -226,21 +226,21 @@
                         </p>
 
                     </div>
-                    <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                    <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                         <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
 
-                    <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                    <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                         <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
                 </div>
-                <div class="card" style="border-color: red">
+                <div class="card" style="border-color: #ee2929">
                     <img class="card-img-top" src="img/Events/el_ninja_valentines.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                     <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                         <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Ninja Valentine's Day Event</h5>
-                        <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                        <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                             Reservas: <br> Ronny Batista: (917) 385-8241, <br> Keiry Luciano: (401) 215-7824
                             <br><br>
                             <strong>Date: Saturday, February 14th</strong><br>
@@ -251,12 +251,12 @@
                         </p>
 
                     </div>
-                    <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                    <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                         <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
 
-                    <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                    <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                         <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
@@ -270,11 +270,11 @@
 <div class="container">
     <div class="row">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="card" style="border-color: red">
+            <div class="card" style="border-color: #ee2929">
                 <img class="card-img-top" src="img/Events/chaval3.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Chaval</h5>
-                    <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                         Reservaciones: <br>
                         (401) 499-4689 <br>
                         (401) 215-7824
@@ -287,21 +287,21 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="card" style="border-color: red">
+            <div class="card" style="border-color: #ee2929">
                 <img class="card-img-top" src="img/Events/fernando_villalona.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Fernando Villalona</h5>
-                    <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                         <b>50 Años De Historia</b><br>
                         Reservaciones: <br>
                         (401) 215-7824 <br>
@@ -313,12 +313,12 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
@@ -348,11 +348,11 @@
         </div>-->
         <div class="row" id="normalDiv2">
             <div class="card-deck" style="width:84%;margin:auto;">
-                <div class="card" style="border-color: red">
+                <div class="card" style="border-color: #ee2929">
                     <img class="card-img-top" src="img/Events/event9.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                     <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                         <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miércoles De Sushi & Domingo De Brunch!</h5>
-                        <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                        <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                             Sushi Wednesday and Sunday Brunch! <br>
                             Call Keiry for reservations: 401-215-7824.
                             <br><br>
@@ -362,21 +362,21 @@
                         </p>
 
                     </div>
-                    <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                    <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                         <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
 
-                    <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                    <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                         <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
                 </div>
-                <div class="card" style="border-color: red">
+                <div class="card" style="border-color: #ee2929">
                     <img class="card-img-top" src="img/Events/event10.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                     <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                         <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">100 NFL</h5>
-                        <p class="card-text" style="background-color: #ffc6c4; color=black;padding-left:10px;padding-right:10px;">
+                        <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
                             Every Thursday at 8:00pm.<br>
                             Buffalo/BBQ chicken wings $6.00. <br>
                             Nachos/Tacos $6.00.
@@ -387,12 +387,12 @@
                         </p>
 
                     </div>
-                    <div id="content-desktop" class="card-footer" style="background-color: red;height:50px;">
+                    <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                         <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
 
-                    <div id="content-mobile" class="card-footer" style="background-color: red;height:60px;">
+                    <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                         <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                             The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                     </div>
