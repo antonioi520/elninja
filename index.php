@@ -306,22 +306,14 @@
             url: "send_email.php",
             data: frm.serialize(),
             success: function (data) {
-                //alert('Your message has been sent, thank you!');
-               // $("#sendmessage").show();
-                //$("#myForm")[0].reset();
-               // grecaptcha.reset();
-                //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
                 return false;
             },
             error: function()
             {
                 $("#errormessage").show();
-                //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
                 return false;
             }
         });
-
-        // apparently success/error are deprecated, try .done() and .fail() next
 
         ev.preventDefault();
     });
@@ -351,9 +343,7 @@
             //captcha validated and got response code
             $("#sendmessage").show();
             $("#errormessage").hide();
-           // $("#myForm")[0].reset();
             grecaptcha.reset();
-            //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
             return false;
         }else{
             $("#myForm")[0].reset();
