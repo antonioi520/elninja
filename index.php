@@ -10,7 +10,7 @@
 <?php include("views/header.html") ?>
 
 <link href="css/mobile.css" rel="stylesheet">
-
+<link href="css/fadein.css" rel="stylesheet">
 <body>
 <!-- Header -->
 
@@ -24,7 +24,7 @@
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter: brightness(25%) grayscale(80%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:25%;">
                     <center>
-                        <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
+                        <h1 class="headertext animated fadeInDown"" style="margin-bottom: 0">Welcome To</h1><br>
 <!--                        <h1 class="headertext shadow">EL NINJA</H1>-->
                     </center>
                     <center>
