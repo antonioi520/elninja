@@ -108,21 +108,22 @@
                     <!-- Block1 -->
                     <div class="blo1">
                         <div class="wrap-pic-blo1 hov-img-zoom">
-                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-12.jpg" alt="IMG-INTRO" class="introimg"></a>
+                            <a href="services"><img src="img/FoodDrink/ElNinjaFood-12.jpg" alt="IMG-INTRO" class="introimg"></a>
                         </div>
 
                         <div class="wrap-text-blo1">
-                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                            <a href="services" style="text-decoration: none;"><h4 class="introText">
                                     Our Services
                                 </h4></a>
 
                             <p class="introNormaltext">
-                                Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros.
+                                Take a look at some of the services we provide at El Ninja Restaurant.
                             </p>
 
-                            <a href="#" class="introLearn" style="text-decoration: none;">
+                            <a href="services" class="introLearn" style="text-decoration: none;">
                                 Learn More
                                 <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                                <br id="content-mobile896"><br id="content-mobile896">
                             </a>
                         </div>
                     </div>
@@ -132,21 +133,22 @@
                     <!-- Block1 -->
                     <div class="blo1">
                         <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
-                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-17.jpg" alt="IMG-INTRO" class="introimg"></a>
+                            <a href="events"><img src="img/FoodDrink/ElNinjaFood-17.jpg" alt="IMG-INTRO" class="introimg"></a>
                         </div>
 
                         <div class="wrap-text-blo1 p-t-35">
-                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                            <a href="events" style="text-decoration: none;"><h4 class="introText">
                                     Our Events
                                 </h4></a>
 
                             <p class="introNormaltext">
-                                Aliquam eget aliquam magna, quis posuere risus ac justo ipsum nibh urna
+                                Interested in coming to an event? Check out our page for a list upcoming events.
                             </p>
 
-                            <a href="#" class="introLearn" style="text-decoration: none;">
+                            <a href="events" class="introLearn" style="text-decoration: none;">
                                 Learn More
                                 <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                                <br id="content-mobile896"><br id="content-mobile896">
                             </a>
                         </div>
                     </div>
@@ -156,19 +158,19 @@
                     <!-- Block1 -->
                     <div class="blo1">
                         <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
-                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-18.jpg" alt="IMG-INTRO" class="introimg"></a>
+                            <a href="gallery"><img src="img/FoodDrink/ElNinjaFood-18.jpg" alt="IMG-INTRO" class="introimg"></a>
                         </div>
 
                         <div class="wrap-text-blo1 p-t-35">
-                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                            <a href="gallery" style="text-decoration: none;"><h4 class="introText">
                                     Our Gallery
                                 </h4></a>
 
                             <p class="introNormaltext">
-                                Sed ornare ligula eget tortor tempor, quis porta tellus dictum.
+                                Explore our image gallery full of food, events and the restaurant itself.
                             </p>
 
-                            <a href="#" class="introLearn" style="text-decoration: none;">
+                            <a href="gallery" class="introLearn" style="text-decoration: none;">
                                 Learn More
                                 <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
                             </a>
