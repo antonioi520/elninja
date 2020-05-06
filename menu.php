@@ -1258,13 +1258,13 @@
 <br>
 <?php include("views/footer.html")?>
 
-<a class="top-link hide" href="" id="backtotop">
+<a class="top-link hide" href="" id="js-top">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
 <script>
-    const scrollToTopButton = document.getElementById('backtotop');
+    const scrollToTopButton = document.getElementById('js-top');
 
     const scrollFunc = () => {
         let y = window.scrollY;
@@ -1279,11 +1279,11 @@
     window.addEventListener("scroll", scrollFunc);
 
     const scrollToTop = () => {
-        const pixels = document.documentElement.scrollTop || document.body.scrollTop;
+        const c = document.documentElement.scrollTop || document.body.scrollTop;
 
-        if (pixels > 0) {
+        if (c > 0) {
             window.requestAnimationFrame(scrollToTop);
-            window.scrollTo(0, pixels - pixels / 10);
+            window.scrollTo(0, c - c / 10);
         }
     };
 
