@@ -23,8 +23,6 @@
     <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
-
-
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/fadein.css" rel="stylesheet">
@@ -36,12 +34,9 @@
     <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
     <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
-
 </head>
 <body>
 <!-- Header -->
-
-
 <?php include("views/nav_pages.html")?>
 <br>
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
@@ -57,8 +52,6 @@
             </div>
         </div>
     </div>
-
-
 </div>
 
 <div class="container">
@@ -1225,7 +1218,6 @@
 <br>
 <br>
 <?php include("views/footer.html")?>
-<a href="#" class="back-to-top" style="color: red;"><i class="fa fa-chevron-up"></i></a>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -1233,3 +1225,4 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
+</html>
