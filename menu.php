@@ -28,7 +28,6 @@
             background-image: url(img/ninja_space.png);
             background-repeat: space;
         }
-
         .top-link {
             transition: all .25s ease-in-out;
             position: fixed;

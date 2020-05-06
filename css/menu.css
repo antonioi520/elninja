@@ -89,6 +89,11 @@ h2 {
     max-width: 30em;
     width: 30em;
     background-color: #f7f7f7;
+    transition: transform .2s;
+}
+
+.menu-item2:hover {
+    transform: scale(1.05);
 }
 
 .menu-item-description {
