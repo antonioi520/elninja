@@ -141,7 +141,7 @@
                         <p class="menu-item-description" style="color:black">Nuestra famosa canoa de plátano maduro rellena de camarones en salsa Especial del Ninja.<br> Our famous sweet plantain canoes stuffed with shrimps topped by Ninja's Special Sauce.</p>
                     </div>
                     <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKO OCTOPUS SKEWERS
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI OCTOPUS SKEWERS
                         <span class="menu-item-price" style="float:right;color:black"> $15</span>
                         </span>
                         <p class="menu-item-description" style="color:black">Pinchos de pulpo a la plancha marinado en teriyaki de ajo.<br> Grilled baby octopus skewers with a garlic teriyaki marinade.</p>
@@ -701,7 +701,7 @@
                         <p class="menu-item-description" style="color:black">Nuestra famosa canoa de plátano maduro rellena de camarones en salsa Especial del Ninja.<br> Our famous sweet plantain canoes stuffed with shrimps topped by Ninja's Special Sauce.</p>
                     </div>
                     <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKO OCTOPUS SKEWERS
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI OCTOPUS SKEWERS
                         <span class="menu-item-price" style="float:right;color:black"> $15</span>
                         </span>
                         <p class="menu-item-description" style="color:black">Pinchos de pulpo a la plancha marinado en teriyaki de ajo.<br> Grilled baby octopus skewers with a garlic teriyaki marinade.</p>
