@@ -491,7 +491,7 @@ p {
 
 #about .about-text {
     line-height: 1.625em;
-    margin-bottom: 0.938em;
+    margin-bottom: 11px;
 }
 
 #about .about-text:last-child {
