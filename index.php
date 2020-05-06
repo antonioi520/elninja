@@ -28,7 +28,7 @@
 <!--                        <h1 class="headertext shadow">EL NINJA</H1>-->
                     </center>
                     <center>
-                        <img src="img/logo_ninja.png" class="imglogohead" style="margin-bottom: 30px;">
+                        <img src="img/logo_ninja.png" class="imglogohead" style="margin-bottom: 30px;margin-top: -15px;">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">

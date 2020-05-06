@@ -159,8 +159,8 @@ p {
     min-width: 35px;
     min-height: 35px;
     border-radius: 50%;
-    background-color: white;
-    border: 2px solid #d4af37;
+    background-color: whitesmoke;
+    border: 2px solid #ff9628;
     opacity: .9;
     transition: 0.5s;
 }
@@ -169,13 +169,13 @@ p {
     color:#ee2929;
 }
 .circleborder:hover{
-    color:white;
-    border: 2px solid #d4af37;
+    color:whitesmoke;
+    border: 2px solid #ff9628;
     background-color: #ee2929;
     transition: 0.5s;
 }
 .circleborder:hover i{
-    color:white;
+    color:whitesmoke;
     transition: 0.5s;
 }
 
@@ -194,9 +194,9 @@ p {
     padding: .5em;
     max-width: 8em;
     width: 8em;
-    border: 2px solid #d4af37;
+    border: 2px solid #ff9628;
 //background-color: rgb(106,134,79);
-   background-color: #ffe2d4;
+   background-color: whitesmoke;
     /*left: 38.5%;*/
     /*margin-top:-15%;*/
     border-radius: 10px;
@@ -211,7 +211,7 @@ p {
 }
 #box:hover{
     text-decoration: none;
-    border: 2px solid #d4af37;
+    border: 2px solid #ff9628;
     background-color: #ee2929;
     transition: 0.5s;
 }
@@ -432,7 +432,7 @@ p {
 }
 .circleborder2{
     min-width: 40px;
-    min-height: 20px;
+    min-height: 40px;
     border-radius: 50%;
     border: solid white;
     opacity: .9;
