@@ -25,8 +25,8 @@
 .shadow
 {
     text-shadow:
-            1px 1px 0 red,
-            3px 2px 0 red
+            1px 1px 0 #ee2929,
+            3px 2px 0 #ee2929
 
 
 }
@@ -64,7 +64,7 @@ p {
     padding:2px;
 }
 .nav-item a:hover{
-    color:red;
+    color:#ee2929;
     transition: 0.5s;
 }
 .nav-item li a{
@@ -160,18 +160,18 @@ p {
     min-height: 35px;
     border-radius: 50%;
     background-color: white;
-    border: solid white;
+    border: 2px solid #d4af37;
     opacity: .9;
     transition: 0.5s;
 }
 .circleborder i{
     transition: 0.5s;
-    color:red;
+    color:#ee2929;
 }
 .circleborder:hover{
     color:white;
-    border: solid red;
-    background-color: red;
+    border: 2px solid #d4af37;
+    background-color: #ee2929;
     transition: 0.5s;
 }
 .circleborder:hover i{
@@ -194,9 +194,9 @@ p {
     padding: .5em;
     max-width: 8em;
     width: 8em;
-    border: 0.188em solid white;
+    border: 2px solid #d4af37;
 //background-color: rgb(106,134,79);
-   background-color: white;
+   background-color: #ffe2d4;
     /*left: 38.5%;*/
     /*margin-top:-15%;*/
     border-radius: 10px;
@@ -205,14 +205,14 @@ p {
 #headerHours{
     font-family: Montserrat;
     transition: 0.5s;
-    color:red;
+    color:#ee2929;
     font-size: 15px;
     margin-top: 1px;
 }
 #box:hover{
     text-decoration: none;
-    border: 0.188em solid red;
-    background-color: red;
+    border: 2px solid #d4af37;
+    background-color: #ee2929;
     transition: 0.5s;
 }
 #box:hover #headerHours{
@@ -232,8 +232,8 @@ p {
 }
 #ingredientBox:hover{
     transition: 0.5s;
-    border: 0.188em solid red;
-    background-color: red;
+    border: 0.188em solid #ee2929;
+    background-color: #ee2929;
     text-decoration: none;
 }
 #ingredientBoxText{
@@ -252,19 +252,19 @@ p {
     z-index: 1;
     height:3.750em;
     width: 12.500em;
-    border: 0.188em solid red;
+    border: 0.188em solid #ee2929;
     opacity: .9;
     border-radius: 0.313em;
 }
 #menuBox:hover{
     transition: 0.5s;
-    border: 0.188em solid red;
-    background-color: red;
+    border: 0.188em solid #ee2929;
+    background-color: #ee2929;
     text-decoration: none;
 }
 #menuBoxText{
     padding-top:5%;
-    color:red;
+    color:#ee2929;
     padding-left:8%;
 }
 #menuBoxText:hover{
@@ -314,8 +314,8 @@ p {
 }
 
 #contact .form #errormessage {
-    color: red;
-    border: 0.063em solid red;
+    color: #ee2929;
+    border: 0.063em solid #ee2929;
     display: none;
     text-align: center;
     padding: 0.938em;
@@ -328,7 +328,7 @@ p {
 }
 
 #contact .form .validation {
-    color: red;
+    color: #ee2929;
     display: none;
     margin: 0 0 1.250em;
     font-weight: 400;
@@ -395,7 +395,7 @@ p {
 .red-title-divider {
     width: 6.250em;
     height: 0.188em;
-    background: red;
+    background: #ee2929;
     margin: 0 auto;
     margin-bottom: 1.250em;
 }
@@ -792,15 +792,15 @@ and (-webkit-device-pixel-ratio : 3) {
 
 .footerLinks a:hover{
     text-decoration: none;
-    color:red;
+    color:#ee2929;
 }
 
 
 input.invalid {
-    border-color: red;
+    border-color: #ee2929;
 }
 textarea.invalid {
-    border-color: red;
+    border-color: #ee2929;
 }
 
 .headertext1{

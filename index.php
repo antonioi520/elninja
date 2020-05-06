@@ -22,7 +22,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter: brightness(25%) grayscale(80%);object-fit: cover;">
-                <div class="carousel-caption d-md-block" id="hero" style="top:27%;">
+                <div class="carousel-caption d-md-block" id="hero" style="top:25%;">
                     <center>
                         <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
 <!--                        <h1 class="headertext shadow">EL NINJA</H1>-->
@@ -129,7 +129,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider" style="background-color: red;"></div>
+                <div class="section-title-divider" style="background-color: #ee2929;"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>
         </div>
@@ -162,7 +162,7 @@
                         </div>
 
                         <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
-                        <div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
+                        <div class="text-center"><button disabled type="submit" style="background-color: #ee2929;">Disabled</button></div>
 
                     </form>
                 </div>
@@ -172,18 +172,18 @@
                 <div class="info">
                     <br id="content-mobile">
                     <div>
-                        <i class="fas fa-phone" style="color: red;"></i><h4 style="padding-left:1.6em;">Phone</h4>
+                        <i class="fas fa-phone" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Phone</h4>
                         <p>(401) 467-2581</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="far fa-calendar-alt" style="color: red;"></i><h4 style="padding-left:1.6em;">Hours</h4>
+                        <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
                         <strong>Fri:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12pm-12am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="fas fa-location-arrow" style="color: red;"></i><h4 style="padding-left:1.6em;">Location</h4>
+                        <i class="fas fa-location-arrow" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Location</h4>
                         <p>1007 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
