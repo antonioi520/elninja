@@ -42,7 +42,8 @@
             padding: .25em;
             width: 40px;
             height: 40px;
-            background-color: #f0f0f0;
+            background-color: #f7f7f7;
+            border: 1.5px solid red;
         }
         .top-link.show {
             visibility: visible;
@@ -52,17 +53,16 @@
             visibility: hidden;
             opacity: 0;
         }
-        .top-link svg {
-            fill: #000;
-            width: 24px;
-            height: 12px;
-        }
         .top-link:hover {
-            background-color: #f0f0f0;
+            background-color: #f7f7f7;
+            transform: scale(1.15);
         }
-        .top-link:hover svg {
-            fill: #ff0000;
-        }
+        /*@media (hover: hover) {
+            .top-link:hover {
+                background-color: #f7f7f7;
+                transform: scale(1.2);
+            }}
+        }*/
     </style>
 
     <!-- Bootstrap -->
@@ -1263,9 +1263,7 @@
 <?php include("views/footer.html")?>
 
 <a class="top-link hide" href="" id="js-top">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
-        <path d="M12 6H0l6-6z" />
-    </svg>
+    <img src="img/arrow.png" style="width: 65%; height: 55%;">
 </a>
 <script>
     const scrollToTopButton = document.getElementById('js-top');
