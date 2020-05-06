@@ -26,6 +26,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fadein.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
     <link href="css/gallery.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -51,43 +52,14 @@
                     <img src="img/logo.png" class="galleryHeaderImage">
                 </center>-->
                 <center>
-                    <div class="galleryHeaderBox">
-                        <h1 class="menu-heading galleryHeaderText">Gallery</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
-                <center>
-                    <div class="galleryHeaderBox">
-                        <h1 class="menu-heading galleryHeaderText">Gallery</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
-                <center>
-                    <div class="galleryHeaderBox">
-                        <h1 class="menu-heading galleryHeaderText">Gallery</h1>
+                    <div class="">
+                        <h1 class="menu-heading galleryHeaderText animated fadeInDown">Gallery</h1>
                     </div>
                 </center>
             </div>
         </div>
     </div>
-    <div class="arrowRemove">
-        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
+
 </div>
 
 

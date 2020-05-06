@@ -200,7 +200,7 @@ img.hover-shadow {
 }
 
 .gallery-border {
-    border: 2px dashed red;
+    border: 2px dashed #ee2929;
     line-height: 1.5em;
     margin: 0;
     padding: 1em;
@@ -208,7 +208,7 @@ img.hover-shadow {
 }
 
 .galleryHeaderBox {
-    border: 0 solid red;
+    border: 0 solid #ee2929;
     background-color: rgba(164,66,244,0.7);
     line-height: 1.1em;
     max-height: 5.5em;
@@ -221,7 +221,7 @@ img.hover-shadow {
 }
 #borderBox{
     transition: 0.5s;
-    border: 1px solid red;
+    border: 1px solid #ee2929;
     background-color: rgba(164,66,244,0.7);
     height:90px;
     width:400px;
@@ -248,7 +248,7 @@ img.hover-shadow {
     filter:brightness(90%);
 }
 .galleryHeaderBox {
-    border: 0 solid red;
+    border: 0 solid #ee2929;
     background-color: rgba(255,0,0,0.4);
     line-height: 1.1em;
     max-height: 6.5em;

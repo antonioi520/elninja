@@ -60,7 +60,7 @@ p {
     font-family: Montserrat-Regular;
     transition: 0.5s;
     color:white;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: bold;
     letter-spacing: 0.15em;
     padding:2px;
@@ -491,7 +491,7 @@ p {
 
 #about .about-text {
     line-height: 1.625em;
-    margin-bottom: 0.938em;
+    margin-bottom: 11px;
 }
 
 #about .about-text:last-child {
@@ -857,6 +857,45 @@ textarea.invalid {
     letter-spacing: 1px;
 }
 .introLearn:hover{
+    color:#ee2929;
+    transition: .4s;
+}
+.nav-tabs {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.nav-tabs .nav-item {
+    margin-bottom: -1px;
+}
+
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+    border-color: #e9ecef #e9ecef #dee2e6;
+}
+
+.nav-tabs .nav-link.disabled {
+    color: #6c757d;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+.menunavitem{
+    font-family: Montserrat;
+    color:#1b1b1b;
+    transition: .4s;
+}
+.menunavitem:hover{
     color:#ee2929;
     transition: .4s;
 }
