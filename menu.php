@@ -24,6 +24,11 @@
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
     <style>
+        .repeating-bg {
+            background-image: url(img/ninja.png);
+            background-repeat: repeat;
+        }
+
         .top-link {
             transition: all .25s ease-in-out;
             position: fixed;
@@ -73,7 +78,7 @@
     <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
 </head>
-<body>
+<body class="repeating-bg">
 <!-- Header -->
 <?php include("views/nav_pages.html")?>
 <br>
