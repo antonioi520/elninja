@@ -115,9 +115,12 @@
             <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false" style="margin-left: 0px;">Etc.</a>
         </div>
     </nav>
-
     <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
+            <center>
+                <br><br>
+                <h3 style="font-weight: bolder; color: black">All Items</h3>
+            </center>
             <div class="menu menu-row menu-wrap menu-center" id="allDiv" style="margin-top: 40px;">
                 <div class="appetizers">
                     <h2 style="font-weight: bolder;">APERITIVOS/APPETIZERS</h2>
