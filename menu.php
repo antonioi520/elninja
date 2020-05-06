@@ -37,13 +37,13 @@
             cursor: pointer;
             align-items: center;
             justify-content: center;
-            margin: 0 3em 3em 0;
+            margin: 0 2em 2em 0;
             border-radius: 50%;
             padding: .25em;
             width: 40px;
             height: 40px;
             background-color: #f7f7f7;
-            border: 1.5px solid red;
+            border: 2px solid red;
         }
         .top-link.show {
             visibility: visible;
