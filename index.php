@@ -10,7 +10,7 @@
 <?php include("views/header.html") ?>
 
 <link href="css/mobile.css" rel="stylesheet">
-
+<link href="css/fadein.css" rel="stylesheet">
 <body>
 <!-- Header -->
 
@@ -21,14 +21,14 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(15%);object-fit: cover;">
-                <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter: brightness(25%) grayscale(80%);object-fit: cover;">
+                <div class="carousel-caption d-md-block" id="hero" style="top:25%;">
                     <center>
-                        <h1 class="headertext" style="margin-bottom: 0">Welcome To</h1><br>
-                        <h1 class="headertext shadow">EL NINJA RESTAURANT</H1>
+                        <h1 class="headertext animated fadeInDown"" style="margin-bottom: 0">Welcome To</h1><br>
+<!--                        <h1 class="headertext shadow">EL NINJA</H1>-->
                     </center>
                     <center>
-                        <img src="img/logo_ninja.png" class="imglogohead">
+                        <img src="img/logo_ninja.png" class="imglogohead" style="margin-bottom: 30px;margin-top: -15px;">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
@@ -55,6 +55,8 @@
         <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
     </center>
 </div>
+
+
 
 <!--==========================
   About Section
@@ -97,6 +99,100 @@
         </div>
     </div>
 </section>
+
+<section id="about" class="section-intro" style="display:block;background-color: #f3f2ee">
+    <div class="content-intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <!-- Block1 -->
+                    <div class="blo1">
+                        <div class="wrap-pic-blo1 hov-img-zoom">
+                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-1.jpg" alt="IMG-INTRO" class="introimg"></a>
+                        </div>
+
+                        <div class="wrap-text-blo1">
+                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                                    Our Services
+                                </h4></a>
+
+                            <p class="introNormaltext">
+                                Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros.
+                            </p>
+
+                            <a href="#" class="introLearn" style="text-decoration: none;">
+                                Learn More
+                                <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 p-t-30">
+                    <!-- Block1 -->
+                    <div class="blo1">
+                        <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
+                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-2.jpg" alt="IMG-INTRO" class="introimg"></a>
+                        </div>
+
+                        <div class="wrap-text-blo1 p-t-35">
+                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                                    Our Events
+                                </h4></a>
+
+                            <p class="introNormaltext">
+                                Aliquam eget aliquam magna, quis posuere risus ac justo ipsum nibh urna
+                            </p>
+
+                            <a href="#" class="introLearn" style="text-decoration: none;">
+                                Learn More
+                                <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 p-t-30">
+                    <!-- Block1 -->
+                    <div class="blo1">
+                        <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
+                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-3.jpg" alt="IMG-INTRO" class="introimg"></a>
+                        </div>
+
+                        <div class="wrap-text-blo1 p-t-35">
+                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                                    Our Gallery
+                                </h4></a>
+
+                            <p class="introNormaltext">
+                                Sed ornare ligula eget tortor tempor, quis porta tellus dictum.
+                            </p>
+
+                            <a href="#" class="introLearn" style="text-decoration: none;">
+                                Learn More
+                                <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--<section id="scrollparallax">-->
+<!--    <div class="container wow fadeInUp">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-8">-->
+<!---->
+<!--            </div>-->
+<!---->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+
 <!--images in middle -->
 <!--section id="middleImages">
     <div class="wrapper" id="iphone">
@@ -129,7 +225,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider" style="background-color: red;"></div>
+                <div class="section-title-divider" style="background-color: #ee2929;"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>
         </div>
@@ -162,7 +258,7 @@
                         </div>
 
                         <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
-                        <div class="text-center"><button disabled type="submit" style="background-color: red;">Disabled</button></div>
+                        <div class="text-center"><button disabled type="submit" style="background-color: #ee2929;">Disabled</button></div>
 
                     </form>
                 </div>
@@ -172,18 +268,18 @@
                 <div class="info">
                     <br id="content-mobile">
                     <div>
-                        <i class="fas fa-phone" style="color: red;"></i><h4 style="padding-left:1.6em;">Phone</h4>
+                        <i class="fas fa-phone" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Phone</h4>
                         <p>(401) 467-2581</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="far fa-calendar-alt" style="color: red;"></i><h4 style="padding-left:1.6em;">Hours</h4>
+                        <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
                         <strong>Fri:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12pm-12am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="fas fa-location-arrow" style="color: red;"></i><h4 style="padding-left:1.6em;">Location</h4>
+                        <i class="fas fa-location-arrow" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Location</h4>
                         <p>1007 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
@@ -267,6 +363,14 @@
         }
     }
 </script>
-
+<script>
+    $(window).scroll(function() {
+        if ($(window).scrollTop() >= 1) {
+            $('.bg-blackish').css('background-color', 'rgba(0,0,0,.6)');
+        } else {
+            $('.bg-blackish').css('background', 'transparent');
+        }
+    });
+</script>
 </body>
 </html>

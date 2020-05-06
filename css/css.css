@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Kaushan%20Script');
-
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
+@font-face {
+    font-family: Courgette-Regular;
+    src: url('../fonts/courgette/Courgette-Regular.ttf');
+}
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/poppins/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf');
+}
 @font-face {
     font-family: 'Kaushan Script';
     src: url('https://fonts.googleapis.com/css?family=Kaushan%20Script'); /* IE9 Compat Modes */
@@ -11,13 +25,13 @@
 .shadow
 {
     text-shadow:
-            1px 1px 0 red,
-            3px 2px 0 red
+            1px 1px 0 #ee2929,
+            3px 2px 0 #ee2929
 
 
 }
 .imglogohead{
-    height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-9em;margin-bottom:10px;"
+    height:45%;width: 45%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-1em;margin-bottom:10px;"
 }
 body {
     background: #f7f7f7;
@@ -29,25 +43,30 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", sans-serif;
-    font-weight: 400;
+    font-family: Poppins;
+    font-weight: 200;
     margin: 0 0 1em 0;
     padding: 0;
 }
 p {
-    font-family: "Helvetica", sans-serif;
+    font-family: Montserrat;
     font-weight: 400;
-    margin: 0 0 1em 0;
-    padding: 0;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
 }
 .nav-item a{
+    font-family: Montserrat-Regular;
     transition: 0.5s;
     color:white;
+    font-size: 15px;
     font-weight: bold;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.15em;
+    padding:2px;
 }
 .nav-item a:hover{
-    color:red;
+    color:#ee2929;
     transition: 0.5s;
 }
 .nav-item li a{
@@ -85,8 +104,8 @@ p {
     z-index: 2;
 }
 .bg-blackish{
-
-    background-color:rgba(0, 0, 0, 0.3);
+    transition: .7s;
+    background-color:rgba(0, 0, 0, 0);
     opacity: 1;
 }
 
@@ -97,10 +116,10 @@ p {
 }
 
 .headertext{
-    font-family: "Lucida Bright", serif;
-// font-weight: 600;
+    font-family: Courgette;
+    font-weight: 700;
     text-align: center;
-    font-size: 5.625em;
+    font-size: 3.625em;
 // z-index:0;
     /*position: absolute;*/
     /*top: 17%;*/
@@ -132,31 +151,33 @@ p {
     /*left: 44.7%;*/
 }
 .iconcolor{
-    margin-top: 15%;
-    font-size: 1.875em;
+    margin-top: 18%;
+    font-size: 1.3em;
     color: white;
     opacity: .9;
 
 }
 .circleborder{
-    min-width: 3em;
-    min-height: 3em;
+    min-width: 35px;
+    min-height: 35px;
     border-radius: 50%;
-    border: solid white;
+    background-color: whitesmoke;
+    border: 2px solid #ff9628;
     opacity: .9;
     transition: 0.5s;
 }
 .circleborder i{
     transition: 0.5s;
+    color:#ee2929;
 }
 .circleborder:hover{
-    color:red;
-    border: solid white;
-    background-color: white;
+    color:whitesmoke;
+    border: 2px solid #ff9628;
+    background-color: #ee2929;
     transition: 0.5s;
 }
 .circleborder:hover i{
-    color:red;
+    color:whitesmoke;
     transition: 0.5s;
 }
 
@@ -171,26 +192,29 @@ p {
     transition: 0.5s;
 // position:absolute;
 //line-height: 1.1em;
-    max-height: 5.5em;
+    max-height: 2.5em;
     padding: .5em;
-    max-width: 20em;
-    width: 20em;
-    border: 0.188em solid white;
+    max-width: 8em;
+    width: 8em;
+    border: 2px solid #ff9628;
 //background-color: rgb(106,134,79);
-    opacity: .9;
+   background-color: whitesmoke;
     /*left: 38.5%;*/
     /*margin-top:-15%;*/
-    border-radius: 0.313em;
+    border-radius: 10px;
+
 }
 #headerHours{
+    font-family: Montserrat;
     transition: 0.5s;
-    color:white;
-    padding-top: 0.5em;
+    color:#ee2929;
+    font-size: 15px;
+    margin-top: 1px;
 }
 #box:hover{
     text-decoration: none;
-    border: 0.188em solid red;
-    background-color: red;
+    border: 2px solid #ff9628;
+    background-color: #ee2929;
     transition: 0.5s;
 }
 #box:hover #headerHours{
@@ -210,8 +234,8 @@ p {
 }
 #ingredientBox:hover{
     transition: 0.5s;
-    border: 0.188em solid red;
-    background-color: red;
+    border: 0.188em solid #ee2929;
+    background-color: #ee2929;
     text-decoration: none;
 }
 #ingredientBoxText{
@@ -230,19 +254,19 @@ p {
     z-index: 1;
     height:3.750em;
     width: 12.500em;
-    border: 0.188em solid red;
+    border: 0.188em solid #ee2929;
     opacity: .9;
     border-radius: 0.313em;
 }
 #menuBox:hover{
     transition: 0.5s;
-    border: 0.188em solid red;
-    background-color: red;
+    border: 0.188em solid #ee2929;
+    background-color: #ee2929;
     text-decoration: none;
 }
 #menuBoxText{
     padding-top:5%;
-    color:red;
+    color:#ee2929;
     padding-left:8%;
 }
 #menuBoxText:hover{
@@ -292,8 +316,8 @@ p {
 }
 
 #contact .form #errormessage {
-    color: red;
-    border: 0.063em solid red;
+    color: #ee2929;
+    border: 0.063em solid #ee2929;
     display: none;
     text-align: center;
     padding: 0.938em;
@@ -306,7 +330,7 @@ p {
 }
 
 #contact .form .validation {
-    color: red;
+    color: #ee2929;
     display: none;
     margin: 0 0 1.250em;
     font-weight: 400;
@@ -373,7 +397,7 @@ p {
 .red-title-divider {
     width: 6.250em;
     height: 0.188em;
-    background: red;
+    background: #ee2929;
     margin: 0 auto;
     margin-bottom: 1.250em;
 }
@@ -409,8 +433,8 @@ p {
 
 }
 .circleborder2{
-    min-width: 3em;
-    min-height: 3em;
+    min-width: 40px;
+    min-height: 40px;
     border-radius: 50%;
     border: solid white;
     opacity: .9;
@@ -770,13 +794,69 @@ and (-webkit-device-pixel-ratio : 3) {
 
 .footerLinks a:hover{
     text-decoration: none;
-    color:red;
+    color:#ee2929;
 }
 
 
 input.invalid {
-    border-color: red;
+    border-color: #ee2929;
 }
 textarea.invalid {
-    border-color: red;
+    border-color: #ee2929;
+}
+
+.headertext1{
+    font-family: Courgette;
+    font-size: 60px;
+}
+
+
+    #scrollparallax {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/Events/MAR-ElNinjaValentinesDay-20.jpg') fixed center center;
+    background-size: cover;
+    padding: 80px 0;
+}
+.introimg{
+    height:219px;
+    width:370px;
+    border-radius: 5%;
+    object-fit: cover;
+}
+.introText{
+    padding-top: 35px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 22px;
+    color: #333333;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    transition: .4s;
+}
+.introText:hover{
+    text-decoration: none;
+    color:#ee2929;
+    transition: .4s;
+}
+.introNormaltext{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.introLearn{
+    transition: .4s;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 12px;
+    color: #222222;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.introLearn:hover{
+    color:#ee2929;
+    transition: .4s;
 }
