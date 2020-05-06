@@ -121,7 +121,7 @@
                 </p>
                 <br>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check out our Website:</h3>
-                <a href="https://www.TheBomesTheatre.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
+                <a href="https://www.TheBomesTheatre.com" id="menuBox" target="_blank" style="width: 250px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
             </div>
         </div>
     </div>
