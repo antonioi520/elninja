@@ -97,6 +97,19 @@
         </div>
     </div>
 </section>
+
+<section id="scrollparallax">
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-8">
+
+            </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
 <!--images in middle -->
 <!--section id="middleImages">
     <div class="wrapper" id="iphone">

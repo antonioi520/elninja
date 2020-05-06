@@ -43,8 +43,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", sans-serif;
-    font-weight: 400;
+    font-family: Poppins;
+    font-weight: 200;
     margin: 0 0 1em 0;
     padding: 0;
 }
@@ -807,6 +807,10 @@ textarea.invalid {
     font-family: Courgette;
     font-size: 60px;
 }
-.headertext2{
 
+
+#scrollparallax {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/Events/MAR-ElNinjaValentinesDay-20.jpg') fixed center center;
+    background-size: cover;
+    padding: 80px 0;
 }
