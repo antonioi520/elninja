@@ -23,7 +23,47 @@
     <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
-
+    <style>
+        .repeating-bg {
+            background-image: url(img/ninja_space.png);
+            background-repeat: space;
+        }
+        .top-link {
+            transition: all .25s ease-in-out;
+            position: fixed;
+            bottom: -10px;
+            right: -10px;
+            display: inline-flex;
+            cursor: pointer;
+            align-items: center;
+            justify-content: center;
+            margin: 0 2em 2em 0;
+            border-radius: 50%;
+            padding: .25em;
+            width: 40px;
+            height: 40px;
+            background-color: #f7f7f7;
+            border: 2px solid red;
+        }
+        .top-link.show {
+            visibility: visible;
+            opacity: 1;
+        }
+        .top-link.hide {
+            visibility: hidden;
+            opacity: 0;
+        }
+        .top-link:hover {
+            background-color: #f7f7f7;
+            transform: scale(1.15);
+        }
+        /*@media (hover: hover) {
+            .top-link:hover {
+                background-color: #f7f7f7;
+                transform: scale(1.2);
+            }}
+        }*/
+    </style>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -36,12 +76,9 @@
     <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
     <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
-
 </head>
-<body>
+<body class="repeating-bg">
 <!-- Header -->
-
-
 <?php include("views/nav_pages.html")?>
 <br>
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
@@ -57,23 +94,33 @@
             </div>
         </div>
     </div>
-
-
 </div>
 
 <div class="container">
-    <nav>
+    <nav id="content-desktop896">
         <div class="nav nav-tabs" id="nav-tab" role="tablist">
             <a class="nav-item nav-link active menunavitem" id="nav-all-tab" data-toggle="tab" href="#nav-all" role="tab" aria-controls="nav-all" aria-selected="true" style="margin-left:355px;">All</a>
             <a class="nav-item nav-link menunavitem" id="nav-app-tab" data-toggle="tab" href="#nav-app" role="tab" aria-controls="nav-app" aria-selected="false">Appetizers</a>
             <a class="nav-item nav-link menunavitem" id="nav-rolls-tab" data-toggle="tab" href="#nav-rolls" role="tab" aria-controls="nav-rolls" aria-selected="false">Rolls</a>
             <a class="nav-item nav-link menunavitem" id="nav-entrees-tab" data-toggle="tab" href="#nav-entrees" role="tab" aria-controls="nav-entrees" aria-selected="false">Entrees</a>
             <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false">Etc.</a>
-
+        </div>
+    </nav>
+    <nav id="content-mobile896">
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-item nav-link active menunavitem" id="nav-all-tab" data-toggle="tab" href="#nav-all" role="tab" aria-controls="nav-all" aria-selected="true" style="margin-left: 0px;">All</a>
+            <a class="nav-item nav-link menunavitem" id="nav-app-tab" data-toggle="tab" href="#nav-app" role="tab" aria-controls="nav-app" aria-selected="false" style="margin-left: 0px;">Appetizers</a>
+            <a class="nav-item nav-link menunavitem" id="nav-rolls-tab" data-toggle="tab" href="#nav-rolls" role="tab" aria-controls="nav-rolls" aria-selected="false" style="margin-left: 0px;">Rolls</a>
+            <a class="nav-item nav-link menunavitem" id="nav-entrees-tab" data-toggle="tab" href="#nav-entrees" role="tab" aria-controls="nav-entrees" aria-selected="false" style="margin-left: 0px;">Entrees</a>
+            <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false" style="margin-left: 0px;">Etc.</a>
         </div>
     </nav>
     <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
+            <center>
+                <br><br>
+                <h3 style="font-weight: bolder; color: black">All Items</h3>
+            </center>
             <div class="menu menu-row menu-wrap menu-center" id="allDiv" style="margin-top: 40px;">
                 <div class="appetizers">
                     <h2 style="font-weight: bolder;">APERITIVOS/APPETIZERS</h2>
@@ -97,7 +144,7 @@
                         <p class="menu-item-description" style="color:black">Nuestra famosa canoa de plátano maduro rellena de camarones en salsa Especial del Ninja.<br> Our famous sweet plantain canoes stuffed with shrimps topped by Ninja's Special Sauce.</p>
                     </div>
                     <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKO OCTOPUS SKEWERS
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI OCTOPUS SKEWERS
                         <span class="menu-item-price" style="float:right;color:black"> $15</span>
                         </span>
                         <p class="menu-item-description" style="color:black">Pinchos de pulpo a la plancha marinado en teriyaki de ajo.<br> Grilled baby octopus skewers with a garlic teriyaki marinade.</p>
@@ -657,7 +704,7 @@
                         <p class="menu-item-description" style="color:black">Nuestra famosa canoa de plátano maduro rellena de camarones en salsa Especial del Ninja.<br> Our famous sweet plantain canoes stuffed with shrimps topped by Ninja's Special Sauce.</p>
                     </div>
                     <div class="menu-item2">
-                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKO OCTOPUS SKEWERS
+                    <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI OCTOPUS SKEWERS
                         <span class="menu-item-price" style="float:right;color:black"> $15</span>
                         </span>
                         <p class="menu-item-description" style="color:black">Pinchos de pulpo a la plancha marinado en teriyaki de ajo.<br> Grilled baby octopus skewers with a garlic teriyaki marinade.</p>
@@ -1217,11 +1264,43 @@
 <br>
 <br>
 <?php include("views/footer.html")?>
-<a href="#" class="back-to-top" style="color: red;"><i class="fa fa-chevron-up"></i></a>
 
+<a class="top-link hide" href="" id="js-top">
+    <img src="img/arrow.png" style="width: 65%; height: 55%;">
+</a>
+<script>
+    const scrollToTopButton = document.getElementById('js-top');
+
+    const scrollFunc = () => {
+        let y = window.scrollY;
+
+        if (y > 0) {
+            scrollToTopButton.className = "top-link show";
+        } else {
+            scrollToTopButton.className = "top-link hide";
+        }
+    };
+
+    window.addEventListener("scroll", scrollFunc);
+
+    const scrollToTop = () => {
+        const c = document.documentElement.scrollTop || document.body.scrollTop;
+
+        if (c > 0) {
+            window.requestAnimationFrame(scrollToTop);
+            window.scrollTo(0, c - c / 10);
+        }
+    };
+
+    scrollToTopButton.onclick = function(e) {
+        e.preventDefault();
+        scrollToTop();
+    }
+</script>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
+</html>

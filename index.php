@@ -47,14 +47,14 @@
     </div>
 </div>
 
-<br><br>
+<!--br><br>
 
-<div>
+<!--div>
     <center>
         <img id="content-desktop896" style="max-width: 30%; max-height:30%;" src="img/comingsoon.jpg">
         <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
     </center>
-</div>
+</div-->
 
 
 
@@ -73,25 +73,24 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/elninja.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/elninja.jpg" alt="" style="height:612px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/elninja.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/elninja.jpg" alt="" style="height:612px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
                 <p class="about-text">
-                    El Ninja Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
-                    boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
+                    El Ninja Restaurant is a Latin fusion sushi restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
+                    headed by world-class chef El Ninja and a talented staff, that uses only the finest ingredients!
                 </p>
                 <p class="about-text">
-                    Services provided at El Ninja Restaurant include an array of Dominican/Latin cuisine, events and
-                    live concerts. We go out of our way to ensure that your time spent at El Ninja Restaurant is
-                    memorable and of the highest quality!
+                    We provide an array of services including Japanese/Latin cuisine, events and
+                    chef specials. El Ninja Restaurant serves traditional Japanese cuisine, alongside Japanese/Latin fusion dishes that will blow you away!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.441479542669!2d-71.41606578456141!3d41.797249079228706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f8915b52b9f%3A0xabd739480c18098c!2s1007%20Broad%20St%2C%20Providence%2C%20RI%2002905!5e0!3m2!1sen!2sus!4v1588373414872!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%;" allowfullscreen=></iframe>
@@ -100,7 +99,7 @@
     </div>
 </section>
 
-<section id="about" class="section-intro" style="display:block;background-color: #f3f2ee">
+<section id="about" class="section-intro" style="display:block;background-color: #FFE7E7"> <!--f3f2ee og color-->
     <div class="content-intro">
         <div class="container">
             <div class="row">
@@ -108,21 +107,22 @@
                     <!-- Block1 -->
                     <div class="blo1">
                         <div class="wrap-pic-blo1 hov-img-zoom">
-                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-12.jpg" alt="IMG-INTRO" class="introimg"></a>
+                            <a href="services"><img src="img/FoodDrink/ElNinjaFood-12.jpg" alt="IMG-INTRO" class="introimg"></a>
                         </div>
 
                         <div class="wrap-text-blo1">
-                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                            <a href="services" style="text-decoration: none;"><h4 class="introText">
                                     Our Services
                                 </h4></a>
 
                             <p class="introNormaltext">
-                                Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros.
+                                Take a look at some of the services we provide at El Ninja Restaurant.
                             </p>
 
-                            <a href="#" class="introLearn" style="text-decoration: none;">
+                            <a href="services" class="introLearn" style="text-decoration: none;">
                                 Learn More
                                 <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                                <br id="content-mobile896"><br id="content-mobile896">
                             </a>
                         </div>
                     </div>
@@ -132,21 +132,22 @@
                     <!-- Block1 -->
                     <div class="blo1">
                         <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
-                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-17.jpg" alt="IMG-INTRO" class="introimg"></a>
+                            <a href="events"><img src="img/FoodDrink/ElNinjaFood-17.jpg" alt="IMG-INTRO" class="introimg"></a>
                         </div>
 
                         <div class="wrap-text-blo1 p-t-35">
-                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                            <a href="events" style="text-decoration: none;"><h4 class="introText">
                                     Our Events
                                 </h4></a>
 
                             <p class="introNormaltext">
-                                Aliquam eget aliquam magna, quis posuere risus ac justo ipsum nibh urna
+                                Interested in coming to an event? Check out our page for a list upcoming events.
                             </p>
 
-                            <a href="#" class="introLearn" style="text-decoration: none;">
+                            <a href="events" class="introLearn" style="text-decoration: none;">
                                 Learn More
                                 <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                                <br id="content-mobile896"><br id="content-mobile896">
                             </a>
                         </div>
                     </div>
@@ -156,19 +157,19 @@
                     <!-- Block1 -->
                     <div class="blo1">
                         <div class="wrap-pic-blo1 bo-rad-10 hov-img-zoom">
-                            <a href="#"><img src="img/FoodDrink/ElNinjaFood-18.jpg" alt="IMG-INTRO" class="introimg"></a>
+                            <a href="gallery"><img src="img/FoodDrink/ElNinjaFood-18.jpg" alt="IMG-INTRO" class="introimg"></a>
                         </div>
 
                         <div class="wrap-text-blo1 p-t-35">
-                            <a href="#" style="text-decoration: none;"><h4 class="introText">
+                            <a href="gallery" style="text-decoration: none;"><h4 class="introText">
                                     Our Gallery
                                 </h4></a>
 
                             <p class="introNormaltext">
-                                Sed ornare ligula eget tortor tempor, quis porta tellus dictum.
+                                Explore our image gallery full of food, events and the restaurant itself.
                             </p>
 
-                            <a href="#" class="introLearn" style="text-decoration: none;">
+                            <a href="gallery" class="introLearn" style="text-decoration: none;">
                                 Learn More
                                 <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
                             </a>
@@ -226,7 +227,7 @@
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929;"></div>
-                <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
+                <p class="section-description">Send us a message and we'll get back to you as soon as we can!</p>
             </div>
         </div>
 
@@ -304,22 +305,14 @@
             url: "send_email.php",
             data: frm.serialize(),
             success: function (data) {
-                //alert('Your message has been sent, thank you!');
-               // $("#sendmessage").show();
-                //$("#myForm")[0].reset();
-               // grecaptcha.reset();
-                //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
                 return false;
             },
             error: function()
             {
                 $("#errormessage").show();
-                //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
                 return false;
             }
         });
-
-        // apparently success/error are deprecated, try .done() and .fail() next
 
         ev.preventDefault();
     });
@@ -349,9 +342,7 @@
             //captcha validated and got response code
             $("#sendmessage").show();
             $("#errormessage").hide();
-           // $("#myForm")[0].reset();
             grecaptcha.reset();
-            //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
             return false;
         }else{
             $("#myForm")[0].reset();
