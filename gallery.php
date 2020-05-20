@@ -152,7 +152,7 @@
     <br>
 
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior</h2>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Interior</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
@@ -232,7 +232,7 @@
 
     <br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Staff</h2>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Staff</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
