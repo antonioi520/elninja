@@ -84,12 +84,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/s1.JPG" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/s1.JPG" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -100,27 +100,23 @@
                     Be sure to ask your server about the chef's recommendation for the day!
                 </p>
 
-                <br>
-
                 <h2 class="about-title" style="margin-bottom: 10px;">Weekly Specials</h2>
                 <p class="about-text" style="padding-left:2px;">
                     Don't forget to ask staff about the weekly special next time you dine with us!
                 </p>
-
-                <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">À La Carte</h2>
                 <p class="about-text" style="padding-left:2px;">
                     Come in and order your food à la carte.
                 </p>
 
-                <br>
-
                 <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
                 <p class="about-text" style="padding-left:3px;">
                     Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
                     pick it up on location at 1017 Broad Street Providence, RI 02905.
                 </p>
+
+                <br>
 
                 <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
 
@@ -157,12 +153,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                    <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
