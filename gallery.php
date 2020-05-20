@@ -415,7 +415,7 @@
 
             <!-- Caption text -->
             <div class="caption-container" style="height: 25px;">
-                <p id="caption"></p>
+                <p id="caption" style="color:white;"></p>
             </div>
 
         </div>
@@ -629,12 +629,13 @@
 
             <!-- Caption text -->
             <div class="caption-container" style="height: 25px;">
-                <p id="caption2"></p>
+                <p id="caption2 style="color:white;""></p>
             </div>
         </div>
     </div>
 
     <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
+    <?php include("views/Gallery/Modals/Ninja_Weekend_Modal.html") ?>
 
     <script>
         var coll = document.getElementsByClassName("collapsible");
@@ -660,6 +661,14 @@
 
         function closeEventModal() {
             document.getElementById("eventModal").style.display = "none";
+        }
+
+        function openEventModalWeekend() {
+            document.getElementById("eventModalWeekend").style.display = "block";
+        }
+
+        function closeEventModalWeekend() {
+            document.getElementById("eventModalWeekend").style.display = "none";
         }
 
         function openFoodModal() {
@@ -705,6 +714,9 @@
         var eventSlideIndex = 1;
         showEventSlides(eventSlideIndex);
 
+        var eventSlideWeekendIndex = 1;
+        showEventSlidesWeekend(eventSlideWeekendIndex);
+
         var foodSlideIndex = 1;
         showFoodSlides(foodSlideIndex);
 
@@ -726,6 +738,14 @@
 
         function currentEventSlide(n) {
             showEventSlides(eventSlideIndex = n);
+        }
+
+        function plusEventSlidesWeekend(n) {
+            showEventSlidesWeekend(eventSlideWeekendIndex += n);
+        }
+
+        function currentEventSlidesWeekend(n) {
+            showEventSlidesWeekend(eventSlideWeekendIndex = n);
         }
 
         function plusFoodSlides(n) {
@@ -784,6 +804,24 @@
             slides[eventSlideIndex-1].style.display = "block";
             dots[eventSlideIndex-1].className += " active";
             captionText.innerHTML = dots[eventSlideIndex-1].alt;
+        }
+
+        function showEventSlidesWeekend(n) {
+            var i;
+            var slides = document.getElementsByClassName("eventSlidesWeekend");
+            var dots = document.getElementsByClassName("demo4");
+            var captionText = document.getElementById("caption4");
+            if (n > slides.length) {eventSlideWeekendIndex = 1}
+            if (n < 1) {eventSlideWeekendIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[eventSlideWeekendIndex-1].style.display = "block";
+            dots[eventSlideWeekendIndex-1].className += " active";
+            captionText.innerHTML = dots[eventSlideWeekendIndex-1].alt;
         }
 
         function showFoodSlides(n) {

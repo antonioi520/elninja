@@ -182,12 +182,12 @@
     color: white;
 }
 
-.demo, .demo2, .demo3 {
+.demo, .demo2, .demo3, .demo4 {
     opacity: 0.6;
 }
 
 .active,
-.demo:hover, .demo2:hover, .demo3:hover {
+.demo:hover, .demo2:hover, .demo3:hover, .demo4:hover {
     opacity: 1;
 }
 
