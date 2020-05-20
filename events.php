@@ -106,12 +106,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
                     <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1007 Broad Street, Providence, RI 02905</small>
+                        El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1007 Broad Street, Providence, RI 02905</small>
+                        El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
             <div class="col-md-3"></div>
