@@ -125,9 +125,9 @@
     </div>
 </section>
 
-</section>-->
+</section>
 <!--==========================
-  Subscrbe Section
+  Subscribe Section
   ============================-->
 <section id="subscribe">
     <div class="container wow fadeInUp">
