@@ -112,8 +112,8 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
-                    pick it up on location at 1017 Broad Street Providence, RI 02905.
+                    Give us a call at (401) 467-2581 and we'll prepare your order ahead of time for you! When it's ready,
+                    pick it up on location at 1007 Broad Street Providence, RI 02905.
                 </p>
 
                 <br>
