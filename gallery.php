@@ -250,7 +250,7 @@
                 <img id="galleryImg" src="img/StaffThumbs/s4.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(4)" class="hover-shadow cursor">
             </div>
         </div>
-    </div-->
+    </div>
 
     <br>
     <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
