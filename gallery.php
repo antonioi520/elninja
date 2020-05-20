@@ -301,6 +301,9 @@
     <?php include("views/Gallery/el_ninja_valentines.html") ?>
     <br>
 
+    <?php include("views/Gallery/el_ninja_weekend.html") ?>
+    <br>
+
     <div id="foodModal" class="modal">
         <span class="close cursor" onclick="closeFoodModal()">&times;</span>
         <div class="modal-content">
