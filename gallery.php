@@ -423,37 +423,37 @@
         <div class="modal-content">
 
             <div class="interiorSlides">
-                <div class="numbertext">1 / 20</div>
+                <div class="numbertext">1 / 7</div>
                 <img id="interiorImg" src="img/Interior/1.jpeg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">2 / 20</div>
+                <div class="numbertext">2 / 7</div>
                 <img id="interiorImg" src="img/Interior/2.jpeg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">3 / 20</div>
+                <div class="numbertext">3 / 7</div>
                 <img id="interiorImg" src="img/Interior/3.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">4 / 20</div>
+                <div class="numbertext">4 / 7</div>
                 <img id="interiorImg" src="img/Interior/4.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">5 / 20</div>
+                <div class="numbertext">5 / 7</div>
                 <img id="interiorImg" src="img/Interior/5.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">6 / 20</div>
+                <div class="numbertext">6 / 7</div>
                 <img id="interiorImg" src="img/Interior/6.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">7 / 20</div>
+                <div class="numbertext">7 / 7</div>
                 <img id="interiorImg" src="img/Interior/7.jpg" style="width:100%">
             </div>
 
