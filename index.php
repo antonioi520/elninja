@@ -21,7 +21,7 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter: brightness(25%) grayscale(80%);object-fit: cover;">
+                <img src="img/Interior/1.jpeg" class="d-block w-100" alt="..." style="height:59.375em;filter: brightness(25%) grayscale(80%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:25%;">
                     <center>
                         <h1 class="headertext animated fadeInDown" style="margin-bottom: 0">Welcome To</h1><br>
@@ -73,17 +73,17 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/elninja.jpg" alt="" style="height:612px;object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/s3.JPG" alt="" style="height:612px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/elninja.jpg" alt="" style="height:612px;object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/s3.JPG" alt="" style="height:612px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
-                <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
+                <h2 class="about-title" style="margin-bottom: 14px;">We provide incredible Latin/Japanese fusion dishes!</h2>
                 <p class="about-text">
                     El Ninja Restaurant is a Latin fusion sushi restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
                     headed by world-class chef El Ninja and a talented staff, that uses only the finest ingredients!
@@ -276,7 +276,7 @@
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
-                        <strong>Fri:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Fri:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
                         <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12pm-12am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
