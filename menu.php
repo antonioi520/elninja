@@ -98,37 +98,19 @@
 
 <div class="container">
     <div style="text-align: center;margin-bottom: 5px;">
-        <button type="button">English</button>
-        <button type="button">Spanish</button>
+        <button type="button" onclick="myFunction()">English</button>
+        <button type="button" onclick="myFunction1()">Spanish</button>
     </div>
 
 
-    <nav id="content-desktop896">
-        <div class="nav nav-tabs" id="nav-tab" role="tablist">
-            <a class="nav-item nav-link active menunavitem" id="nav-all-tab" data-toggle="tab" href="#nav-all" role="tab" aria-controls="nav-all" aria-selected="true" style="margin-left:355px;">All</a>
-            <a class="nav-item nav-link menunavitem" id="nav-app-tab" data-toggle="tab" href="#nav-app" role="tab" aria-controls="nav-app" aria-selected="false">Appetizers</a>
-            <a class="nav-item nav-link menunavitem" id="nav-rolls-tab" data-toggle="tab" href="#nav-rolls" role="tab" aria-controls="nav-rolls" aria-selected="false">Rolls</a>
-            <a class="nav-item nav-link menunavitem" id="nav-entrees-tab" data-toggle="tab" href="#nav-entrees" role="tab" aria-controls="nav-entrees" aria-selected="false">Entrees</a>
-            <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false">Etc.</a>
-        </div>
-    </nav>
-    <nav id="content-mobile896">
-        <div class="nav nav-tabs" id="nav-tab" role="tablist">
-            <a class="nav-item nav-link active menunavitem" id="nav-all-tab" data-toggle="tab" href="#nav-all" role="tab" aria-controls="nav-all" aria-selected="true" style="margin-left: 0px;">All</a>
-            <a class="nav-item nav-link menunavitem" id="nav-app-tab" data-toggle="tab" href="#nav-app" role="tab" aria-controls="nav-app" aria-selected="false" style="margin-left: 0px;">Appetizers</a>
-            <a class="nav-item nav-link menunavitem" id="nav-rolls-tab" data-toggle="tab" href="#nav-rolls" role="tab" aria-controls="nav-rolls" aria-selected="false" style="margin-left: 0px;">Rolls</a>
-            <a class="nav-item nav-link menunavitem" id="nav-entrees-tab" data-toggle="tab" href="#nav-entrees" role="tab" aria-controls="nav-entrees" aria-selected="false" style="margin-left: 0px;">Entrees</a>
-            <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false" style="margin-left: 0px;">Etc.</a>
-        </div>
-    </nav>
 
-
-
-    <div class="tab-content" id="nav-tabContent">
-        <div class="tab-content" id="nav-tabContent">
-            <?php include 'views/Menu/SpanishMenu.php' ?>
-        </div>
+    <div id="english">
+        <?php include 'views/Menu/EnglishMenu.php' ?>
     </div>
+    <div style="display:none" id="spanish">
+        <?php include 'views/Menu/SpanishMenu.php' ?>
+    </div>
+
 
 
 
@@ -147,11 +129,18 @@
 <a class="top-link hide" href="" id="js-top">
     <img src="img/arrow.png" style="width: 65%; height: 55%;">
 </a>
-<script>
-    const scrollToTopButton = document.getElementById('js-top');
 
-    const scrollFunc = () => {
-        let y = window.scrollY;
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script>
+    var scrollToTopButton = document.getElementById('js-top');
+
+    var scrollFunc = function scrollFunc() {
+        var y = window.scrollY;
 
         if (y > 0) {
             scrollToTopButton.className = "top-link show";
@@ -162,8 +151,8 @@
 
     window.addEventListener("scroll", scrollFunc);
 
-    const scrollToTop = () => {
-        const c = document.documentElement.scrollTop || document.body.scrollTop;
+    var scrollToTop = function scrollToTop() {
+        var c = document.documentElement.scrollTop || document.body.scrollTop;
 
         if (c > 0) {
             window.requestAnimationFrame(scrollToTop);
@@ -171,17 +160,29 @@
         }
     };
 
-    scrollToTopButton.onclick = function(e) {
+    scrollToTopButton.onclick = function (e) {
         e.preventDefault();
         scrollToTop();
+    };
+</script>
+<script>
+    function myFunction() {
+        var x = document.getElementById("english");
+        var y = document.getElementById("spanish");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+    }
+    function myFunction1() {
+        var x = document.getElementById("spanish");
+        var y = document.getElementById("english");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
     }
 </script>
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
 </body>
 </html>
