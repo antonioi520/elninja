@@ -126,7 +126,7 @@
 
     <div class="tab-content" id="nav-tabContent">
         <div class="tab-content" id="nav-tabContent">
-            <?php include 'views/Menu/EnglishMenu.php' ?>
+            <?php include 'views/Menu/SpanishMenu.php' ?>
         </div>
     </div>
 

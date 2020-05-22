@@ -409,7 +409,7 @@
             <div class="menu-item2">
                     <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> GARLIC MASHED POTATOES</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">TOSTONES
@@ -419,37 +419,37 @@
             <div class="menu-item2">
                     <span class="menu-item-title2">PURE DE PLATANO MADURO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> MADURO MASH</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">ARROZ BLANCO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> WHITE RICE</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">ARROZ CON HABICHUELA
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> RICE N' BEANS</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">PURÉ DE YUCA
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> YUCCA MASH</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">VEGETALES SALTEADO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> SAUTEED VEGGIES</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">PAPAS FRITAS
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> FRENCH FRIES</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">YUCAS FRTAS
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> YUCCA FRIES</span>
+                    </span>
             </div>
         </div>
         <div class="entrees">
@@ -500,14 +500,14 @@
                 <p class="menu-item-description2">Salami, queso frito y maduro.</p>
             </div>
             <div class="menu-item2">
-                    <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
+                    <span class="menu-item-title2">CHICKEN PANKO CON PAPAS FRITAS </span>
                     <span class="menu-item-price2"> $7</span>
-                    <br> CHICKEN PANKO CON PAPAS FRITAS </span>
+
             </div>
             <div class="menu-item2">
-                    <span class="menu-item-title2">CHEESEBURGER W/ FRIES
+                    <span class="menu-item-title2">HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
                     <span class="menu-item-price2"> $7</span>
-                    <br> HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
+
             </div>
         </div>
         <div class="entrees">
@@ -977,7 +977,7 @@
             <div class="menu-item2">
                     <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> GARLIC MASHED POTATOES</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">TOSTONES
@@ -987,37 +987,37 @@
             <div class="menu-item2">
                     <span class="menu-item-title2">PURE DE PLATANO MADURO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> MADURO MASH</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">ARROZ BLANCO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> WHITE RICE</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">ARROZ CON HABICHUELA
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> RICE N' BEANS</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">PURÉ DE YUCA
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> YUCCA MASH</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">VEGETALES SALTEADO
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> SAUTEED VEGGIES</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">PAPAS FRITAS
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> FRENCH FRIES</span>
+                    </span>
             </div>
             <div class="menu-item2">
                     <span class="menu-item-title2">YUCAS FRTAS
                     <span class="menu-item-price2"> $4-$6</span>
-                    <br> YUCCA FRIES</span>
+                    </span>
             </div>
         </div>
     </div>
@@ -1072,14 +1072,14 @@
                 <p class="menu-item-description2">Salami, queso frito y maduro.</p>
             </div>
             <div class="menu-item2">
-                    <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
-                    <span class="menu-item-price2"> $7</span>
-                    <br> CHICKEN PANKO CON PAPAS FRITAS </span>
+                <span class="menu-item-title2">CHICKEN PANKO CON PAPAS FRITAS </span>
+                <span class="menu-item-price2"> $7</span>
+
             </div>
             <div class="menu-item2">
-                    <span class="menu-item-title2">CHEESEBURGER W/ FRIES
-                    <span class="menu-item-price2"> $7</span>
-                    <br> HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
+                <span class="menu-item-title2">HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
+                <span class="menu-item-price2"> $7</span>
+
             </div>
         </div>
         <div class="entrees">
