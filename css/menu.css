@@ -46,6 +46,7 @@ p {
 .menu-lang-button {
     //font-family: "Trade Winds";
     border: 2.5px dashed #ee2929;
+    border-radius: 5px;
     line-height: 1.5em;
     max-height: 30em;
     margin: 1em;
