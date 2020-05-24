@@ -49,6 +49,8 @@ p {
     line-height: 1.5em;
     max-height: 30em;
     margin: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
     background-color: #f7f7f7;
     transition: transform .2s;
     outline: none;
