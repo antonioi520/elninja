@@ -1160,6 +1160,117 @@
                 </div>
             </div>
         </div>
+        <div class="tab-pane fade" id="nav-drinks" role="tabpanel" aria-labelledby="nav-drinks-tab">
+            <div class="menu menu-row menu-wrap menu-center" id="drinksDiv" style="margin-top: 40px;" >
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">CHOFAN</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">HAWAIIAN CHOFAN
+                            <span class="menu-item-price2"> $16</span>
+                            </span>
+                        <p class="menu-item-description2">Hawaiian style chofan brings smoked ham, shrimp, veggies, and pineapple.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA CHOFAN
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">SALADS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">KANI SALAD
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2">Mixed greens, kani, avocado, cucumber, onion, creamy ginger dressing.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">TROPICAL SALAD
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">WAKAME SALAD
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                        <p class="menu-item-description2">Japanese seaweed salad.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">KID'S MENU</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">DOMINICANO ROLL
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Salami, questo frito, maduro.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
+                            <span class="menu-item-price2"> $7</span>
 
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHEESEBURGER W/ FRIES
+                            <span class="menu-item-price2"> $7</span>
+
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">POSTRES/DESSERTS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">BANANA TEMPURA
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Fried banana tempura with vanilla ice cream.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">FLAN
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Our delicious sweetened egg custard, AKA creme carame.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHINOLA TRES LECHES
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Our passion fruit flavored tres leches cake with vanilla whipped cream.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">IMOCHI
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Japanese dessert with ice cream filling.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHOCOLATE MOUSSE
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Our multilayered triple chocolate mousse.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">SOUPS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">SOPA DE MARISCO
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Our savory broth of fresh seafood and veggies.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">MISO SOUP
+                            <span class="menu-item-price2"> $5</span>
+                            </span>
+                        <p class="menu-item-description2">Our traditional Japanese soup; Soybean broth with tofu, seaweed, and scallions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>

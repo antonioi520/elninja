@@ -252,6 +252,19 @@ p {
 }
 
 @media (max-width: 896px) {
+    #drinksDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #drinksDiv p {
+        font-size:15px;
+    }
+    #drinksDiv .menu-item2{
+        width:23em;
+    }
+}
+
+@media (max-width: 896px) {
     #entreeDiv h2 {
         font-size: 19px;
     //line-height: 40px;
@@ -290,6 +303,18 @@ p {
     }
 }
 
+@media (max-width: 375px) {
+    #drinksDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #drinksDiv p {
+        font-size:12px;
+    }
+    #drinksDiv .menu-item2{
+        width:20em;
+    }
+}
 @media (max-width: 375px) {
     #appsDiv h2 {
         font-size: 20px;
@@ -351,6 +376,19 @@ p {
         font-size:12px;
     }
     #allDiv .menu-item2{
+        width:18em;
+    }
+}
+
+@media (max-width: 320px) {
+    #drinksDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #drinksDiv p {
+        font-size:12px;
+    }
+    #drinksDiv .menu-item2{
         width:18em;
     }
 }
