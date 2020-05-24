@@ -1,19 +1,21 @@
-<nav id="content-desktop896">
-    <div class="nav nav-tabs" id="nav-tab1" role="tablist">
-        <a class="nav-item nav-link active menunavitem" id="nav-all-tab1" data-toggle="tab" href="#nav-all1" role="tab" aria-controls="nav-all1" aria-selected="true" style="margin-left:355px;">All</a>
-        <a class="nav-item nav-link menunavitem" id="nav-app-tab1" data-toggle="tab" href="#nav-app1" role="tab" aria-controls="nav-app1" aria-selected="false">Appetizers</a>
-        <a class="nav-item nav-link menunavitem" id="nav-rolls-tab1" data-toggle="tab" href="#nav-rolls1" role="tab" aria-controls="nav-rolls1" aria-selected="false">Rolls</a>
-        <a class="nav-item nav-link menunavitem" id="nav-entrees-tab1" data-toggle="tab" href="#nav-entrees1" role="tab" aria-controls="nav-entrees1" aria-selected="false">Entrees</a>
+<nav id="content-desktop896" class="justify-content-center">
+    <div class="nav nav-tabs justify-content-center" id="nav-tab1" role="tablist">
+        <a class="nav-item nav-link active menunavitem" id="nav-all-tab1" data-toggle="tab" href="#nav-all1" role="tab" aria-controls="nav-all1" aria-selected="true">Todas</a>
+        <a class="nav-item nav-link menunavitem" id="nav-app-tab1" data-toggle="tab" href="#nav-app1" role="tab" aria-controls="nav-app1" aria-selected="false">Aperitivos</a>
+        <a class="nav-item nav-link menunavitem" id="nav-rolls-tab1" data-toggle="tab" href="#nav-rolls1" role="tab" aria-controls="nav-rolls1" aria-selected="false">Rollos</a>
+        <a class="nav-item nav-link menunavitem" id="nav-entrees-tab1" data-toggle="tab" href="#nav-entrees1" role="tab" aria-controls="nav-entrees1" aria-selected="false">Platos Fuertes</a>
         <a class="nav-item nav-link menunavitem" id="nav-etc-tab1" data-toggle="tab" href="#nav-etc1" role="tab" aria-controls="nav-etc1" aria-selected="false">Etc.</a>
+        <a class="nav-item nav-link menunavitem" id="nav-dromls-tab1" data-toggle="tab" href="#nav-drinks1" role="tab" aria-controls="nav-drinks1" aria-selected="false">Bebidas</a>
     </div>
 </nav>
-<nav id="content-mobile896">
-    <div class="nav nav-tabs" id="nav-tab" role="tablist">
-        <a class="nav-item nav-link active menunavitem" id="nav-all-tab1" data-toggle="tab" href="#nav-all1" role="tab" aria-controls="nav-all1" aria-selected="true" style="margin-left: 0px;">All</a>
-        <a class="nav-item nav-link menunavitem" id="nav-app-tab1" data-toggle="tab" href="#nav-app1" role="tab" aria-controls="nav-app1" aria-selected="false" style="margin-left: 0px;">Appetizers</a>
-        <a class="nav-item nav-link menunavitem" id="nav-rolls-tab1" data-toggle="tab" href="#nav-rolls1" role="tab" aria-controls="nav-rolls1" aria-selected="false" style="margin-left: 0px;">Rolls</a>
-        <a class="nav-item nav-link menunavitem" id="nav-entrees-tab1" data-toggle="tab" href="#nav-entrees1" role="tab" aria-controls="nav-entrees1" aria-selected="false" style="margin-left: 0px;">Entrees</a>
+<nav id="content-mobile896" class="justify-content-center">
+    <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
+        <a class="nav-item nav-link active menunavitem" id="nav-all-tab1" data-toggle="tab" href="#nav-all1" role="tab" aria-controls="nav-all1" aria-selected="true" style="margin-left: 0px;">Todas</a>
+        <a class="nav-item nav-link menunavitem" id="nav-app-tab1" data-toggle="tab" href="#nav-app1" role="tab" aria-controls="nav-app1" aria-selected="false" style="margin-left: 0px;">Aperitivos</a>
+        <a class="nav-item nav-link menunavitem" id="nav-rolls-tab1" data-toggle="tab" href="#nav-rolls1" role="tab" aria-controls="nav-rolls1" aria-selected="false" style="margin-left: 0px;">Rollos</a>
+        <a class="nav-item nav-link menunavitem" id="nav-entrees-tab1" data-toggle="tab" href="#nav-entrees1" role="tab" aria-controls="nav-entrees1" aria-selected="false" style="margin-left: 0px;">Platos Fuertes</a>
         <a class="nav-item nav-link menunavitem" id="nav-etc-tab1" data-toggle="tab" href="#nav-etc1" role="tab" aria-controls="nav-etc1" aria-selected="false" style="margin-left: 0px;">Etc.</a>
+        <a class="nav-item nav-link menunavitem" id="nav-drinks-tab1" data-toggle="tab" href="#nav-drinks1" role="tab" aria-controls="nav-drinks1" aria-selected="false" style="margin-left: 0px;">Bebidas</a>
     </div>
 </nav>
 
@@ -25,7 +27,7 @@
         <div class="tab-pane fade show active" id="nav-all1" role="tabpanel" aria-labelledby="nav-all-tab1">
             <center>
                 <br><br>
-                <h3 style="font-weight: bolder; color: black">All Items</h3>
+                <h3 style="font-weight: bolder; color: black">Todos Los Artículos</h3>
             </center>
             <div class="menu menu-row menu-wrap menu-center" id="allDiv" style="margin-top: 40px;">
                 <div class="appetizers">
