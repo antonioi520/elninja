@@ -133,6 +133,7 @@ p {
 }
 
 .menu-item2:hover {
+    border: 2.5px solid #ee2929;
     transform: scale(1.03);
 }
 
