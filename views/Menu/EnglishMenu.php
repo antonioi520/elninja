@@ -27,7 +27,7 @@
         <div class="tab-pane fade show active" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
             <center>
                 <br><br>
-                <h3 style="font-weight: bolder; color: black">All Items</h3>
+                <h3 style="font-weight: bolder; color: black">All Food Items</h3>
             </center>
             <div class="menu menu-row menu-wrap menu-center" id="allDiv" style="margin-top: 40px;">
                 <div class="appetizers">
@@ -1163,111 +1163,317 @@
         <div class="tab-pane fade" id="nav-drinks" role="tabpanel" aria-labelledby="nav-drinks-tab">
             <div class="menu menu-row menu-wrap menu-center" id="drinksDiv" style="margin-top: 40px;" >
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">CHOFAN</h2>
+                    <h2 style="font-weight: bolder;">SPECIALTY DRINKS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">HAWAIIAN CHOFAN
-                            <span class="menu-item-price2"> $16</span>
-                            </span>
-                        <p class="menu-item-description2">Hawaiian style chofan brings smoked ham, shrimp, veggies, and pineapple.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">NINJA CHOFAN
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">SALADS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">KANI SALAD
+                            <span class="menu-item-title2">EL NINJA
                             <span class="menu-item-price2"> $12</span>
                             </span>
-                        <p class="menu-item-description2">Mixed greens, kani, avocado, cucumber, onion, creamy ginger dressing.</p>
+                        <p class="menu-item-description2">Buchanan, passion fruit purée, lime juice and simple syrup.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">TROPICAL SALAD
+                            <span class="menu-item-title2">MI ALMA PERFECT MARGARITA
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2">Patrón, cointreau and lime juice.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHINITO MOJITO
                             <span class="menu-item-price2"> $10</span>
                             </span>
-                        <p class="menu-item-description2">Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
+                        <p class="menu-item-description2">Brujal, ginger ale, lime, mint and simple syrup.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">WAKAME SALAD
+                            <span class="menu-item-title2">COCONUT MOJITO
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Coconut rum, light rum, coconut milk and club soda.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PASSION MOJITO
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Rum, passion fruit purée, lime juice and simple syrup.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">SAKE SHOTS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">TRADITIONAL SAKE BOMB
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Cold sake and Japanese/Sapporo beer.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">SKITTLE BOMB
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Red Bull, skittles and cointreau.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CORO SAKE
                             <span class="menu-item-price2"> $6</span>
                             </span>
-                        <p class="menu-item-description2">Japanese seaweed salad.</p>
+                        <p class="menu-item-description2">Corona, tequila silver, salt and lime.</p>
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">KID'S MENU</h2>
+                    <h2 style="font-weight: bolder;">COCKTAILS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">DOMINICANO ROLL
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">JAPANESE HIGHBALL
+                            <span class="menu-item-price2"> $12</span>
                             </span>
-                        <p class="menu-item-description2">Salami, questo frito, maduro.</p>
+                        <p class="menu-item-description2">Japanese Whiskey and soda water.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
-                            <span class="menu-item-price2"> $7</span>
-
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">CHEESEBURGER W/ FRIES
-                            <span class="menu-item-price2"> $7</span>
-
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">POSTRES/DESSERTS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">BANANA TEMPURA
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">THE SWIZZLE
+                            <span class="menu-item-price2"> $9</span>
                             </span>
-                        <p class="menu-item-description2">Fried banana tempura with vanilla ice cream.</p>
+                        <p class="menu-item-description2">Dark Rum, lime juice, falernum, mint and bitters.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">FLAN
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">SWIZZLE MIDORI SOUR
+                            <span class="menu-item-price2"> $9</span>
                             </span>
-                        <p class="menu-item-description2">Our delicious sweetened egg custard, AKA creme carame.</p>
+                        <p class="menu-item-description2">Midori, vodka, sour mix and lime.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">CHINOLA TRES LECHES
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">JAPANESE 75
+                            <span class="menu-item-price2"> $9</span>
                             </span>
-                        <p class="menu-item-description2">Our passion fruit flavored tres leches cake with vanilla whipped cream.</p>
+                        <p class="menu-item-description2">Gin, sparkling sake, lemon juice and simple syrup.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">IMOCHI
-                            <span class="menu-item-price2"> $7</span>
-                            </span>
-                        <p class="menu-item-description2">Japanese dessert with ice cream filling.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">CHOCOLATE MOUSSE
-                            <span class="menu-item-price2"> $7</span>
-                            </span>
-                        <p class="menu-item-description2">Our multilayered triple chocolate mousse.</p>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">SOUPS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">SOPA DE MARISCO
+                            <span class="menu-item-title2">MOSCOW RULE
                             <span class="menu-item-price2"> $10</span>
                             </span>
-                        <p class="menu-item-description2">Our savory broth of fresh seafood and veggies.</p>
+                        <p class="menu-item-description2">Vodka, lime juice and ginger beer.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">MISO SOUP
+                            <span class="menu-item-title2">WASABI BLOODY MARY
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Vodka, tomato juice, lemon juice, soy sauce, worcestershire sauce and wasabi.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHINOLA SEA BREEZE
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Vodka, chinola blend, grapefruit juice.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">BLUE BREEZE
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Vodka, Malibu rum, blue caracao, pineapple and lemonade.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PACIFIC SCORPION
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Coconut Vodka, pineapple juice, passion fruit, guava and watermelon blend.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">MARTINI</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CUCUMBER-TINI
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Gin, cucumber juice, simple syrup and wasabi.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">SAKE-TINI
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Gin, sake and ginger for garnish.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">WASABI-TINI
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Vodka, sake, ginger, olives and wasabi.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">WHITE WINE</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Bogle Phantom Chardonnay (California)
+                            <span class="menu-item-price2"> $52</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Chateau Ste Michelle Chardonnay <br> (Colombia Valley, Washington)
+                            <span class="menu-item-price2"> $40</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Bogle Chardonnay (California)
+                            <span class="menu-item-price2"> $36</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Fizz 56 d'Asti Moscato (Italy)
+                            <span class="menu-item-price2"> $56</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Mezzacorona Moscato (Italy)
+                            <span class="menu-item-price2"> $52</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Voga Moscato (Italy)
+                            <span class="menu-item-price2"> $40</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Santa Margherita Pinot Grigio (Italy)
+                            <span class="menu-item-price2"> $72</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Banfi Pinot Grigio San Angelo (Tuscany)
+                            <span class="menu-item-price2"> $58</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Mezzacorona Pinot Grigio (Italy)
+                            <span class="menu-item-price2"> $42</span>
+                            </span>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">RED WINE</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Chateau Ste Michelle Merlot (Columbia Valley)
+                            <span class="menu-item-price2"> $54</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Chateau Montelena Merlot (Napa Valley)
+                            <span class="menu-item-price2"> $148</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Emmolo Merlot by Caymus (Napa Valley)
+                            <span class="menu-item-price2"> $144</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Chateau Ste Michelle Cabernet Sauvignon <br> (Columbia Valley)
+                            <span class="menu-item-price2"> $54</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Caymus Cabernet Sauvignon (Napa Valley)
+                            <span class="menu-item-price2"> $144</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Josh Cellars California Cabernet Sauvignon <br> (California)
+                            <span class="menu-item-price2"> $40</span>
+                            </span>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">SPARKLINGS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Santa Margherita Prosecco di Valdobbiadene <br> Superiore Brut (Italy)
+                            <span class="menu-item-price2"> $78</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Mionetto Prosecco Brut
+                            <span class="menu-item-price2"> $72</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Villa Sandi Prosecco Fresco NV (Italy)
+                            <span class="menu-item-price2"> $48</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Luc Belaire Brut Gold Champagne (France)
+                            <span class="menu-item-price2"> $78</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moet and Chandon Nectar Imperial Rose
+                            <span class="menu-item-price2"> $175</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moet and Chandon Ice Imperial
+                            <span class="menu-item-price2"> $200</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moet and Chandon Imperial Brut
+                            <span class="menu-item-price2"> $175</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Armand de Brignac Ace of Spades <br> Gold Brut (Champagne Brut, France)
+                            <span class="menu-item-price2"> $750</span>
+                            </span>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">MARGARITAS/SANGRIAS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">STRAWBERRY PROSECCO MARGARITA
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2">Tequila silver, prosecco, lemonade, strawberries blend and lime.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">MARGRIA
+                            <span class="menu-item-price2"> $11</span>
+                            <p class="menu-item-description2">White wine, tequila, orange liqueur.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">GINGER PEACH SANGRIA
+                            <span class="menu-item-price2"> $12</span>
+                            <p class="menu-item-description2">White Wine, grand marnier, ginger juice, peaches, lemon and mint.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">BLUE CoronaRita
+                            <span class="menu-item-price2"> $12</span>
+                            <p class="menu-item-description2">Tequila, corona, blue curacao, sour mix and lime.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CoronaRita
+                            <span class="menu-item-price2"> $12</span>
+                            <p class="menu-item-description2">Tequila, corona, triple sec, sour mix and lime.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">BEERS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">JAPANESE
                             <span class="menu-item-price2"> $5</span>
                             </span>
-                        <p class="menu-item-description2">Our traditional Japanese soup; Soybean broth with tofu, seaweed, and scallions.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">IMPORTED
+                            <span class="menu-item-price2"> $4</span>
+                            </span>
+                        <p class="menu-item-description2">Corona, Corona Light, Heineken, Heineken Light, Presidente, Presidente Light, Modelo, Guiness.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">DOMESTIC
+                            <span class="menu-item-price2"> $3</span>
+                            </span>
+                        <p class="menu-item-description2">Bud Light, Budweiser, Coors Light, Ginger Beers.</p>
                     </div>
                 </div>
             </div>
