@@ -88,7 +88,7 @@
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="">
-                        <h1 class="menu-heading menuHeaderText animated fadeInDown" style="top:-10px;">Menu</h1>
+                        <h1 class="menu-heading menuHeaderText animated fadeInDown" style="top:-10px;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
