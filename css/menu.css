@@ -52,6 +52,8 @@ p {
     margin: 1em;
     padding-top: 0.3em;
     padding-bottom: 0.3em;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
     background-color: #f7f7f7;
     transition: transform .2s;
     outline: none;
@@ -63,22 +65,7 @@ p {
     transform: scale(1.1);
 }
 
-.menu-lang-button:after {
-    border: 2.5px solid #ee2929;
-    outline: none;
-}
-
-.menu-lang-button:active {
-    border: 2.5px solid #ee2929;
-    outline: none;
-}
-
-.menu-lang-button:active:after {
-    border: 2.5px solid #ee2929;
-    outline: none;
-}
-
-.menu-lang-button:focus {
+.menu-lang-button:after, .menu-lang-button:active, .menu-lang-button:active:after, .menu-lang-button:focus {
     border: 2.5px solid #ee2929;
     outline: none;
 }
