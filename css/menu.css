@@ -43,6 +43,43 @@ p {
     //font-family: "Trade Winds";
 }
 
+.menu-lang-button {
+    //font-family: "Trade Winds";
+    border: 2.5px dashed #ee2929;
+    line-height: 1.5em;
+    max-height: 30em;
+    margin: 1em;
+    background-color: #f7f7f7;
+    transition: transform .2s;
+    outline: none;
+}
+
+.menu-lang-button:hover {
+    border: 2.5px solid #ee2929;
+    outline: none;
+    transform: scale(1.1);
+}
+
+.menu-lang-button:after {
+    border: 2.5px solid #ee2929;
+    outline: none;
+}
+
+.menu-lang-button:active {
+    border: 2.5px solid #ee2929;
+    outline: none;
+}
+
+.menu-lang-button:active:after {
+    border: 2.5px solid #ee2929;
+    outline: none;
+}
+
+.menu-lang-button:focus {
+    border: 2.5px solid #ee2929;
+    outline: none;
+}
+
 .appetizers, .entrees {
     max-width: 35em;
 }
