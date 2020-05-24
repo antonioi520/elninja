@@ -1051,22 +1051,6 @@
         <div class="tab-pane fade" id="nav-etc1" role="tabpanel" aria-labelledby="nav-etc-tab1">
             <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="margin-top: 40px;" >
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">CHOFAN</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">HAWAIIAN CHOFAN
-                            <span class="menu-item-price2"> $16</span>
-                            </span>
-                        <p class="menu-item-description2">Con jamón ahumado, camarones, verdura y piña.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">NINJA CHOFAN
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Arroz frito del Ninja con plátano maduro, verduras, huevo. <br> <b>Su elección:</b> Pollo $4 - Camarones $6<br></p>
-                    </div>
-                </div>
-                <div class="entrees">
                     <h2 style="font-weight: bolder;">ENSALADAS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
@@ -1089,23 +1073,19 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">MENU DE NIÑOS</h2>
+                    <h2 style="font-weight: bolder;">CHOFAN</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">DOMINICANO ROLL
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">HAWAIIAN CHOFAN
+                            <span class="menu-item-price2"> $16</span>
                             </span>
-                        <p class="menu-item-description2">Salami, queso frito y maduro.</p>
+                        <p class="menu-item-description2">Con jamón ahumado, camarones, verdura y piña.</p>
                     </div>
                     <div class="menu-item2">
-                        <span class="menu-item-title2">CHICKEN PANKO CON PAPAS FRITAS </span>
-                        <span class="menu-item-price2"> $7</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
-                        <span class="menu-item-price2"> $7</span>
-
+                            <span class="menu-item-title2">NINJA CHOFAN
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Arroz frito del Ninja con plátano maduro, verduras, huevo. <br> <b>Su elección:</b> Pollo $4 - Camarones $6<br></p>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1140,6 +1120,26 @@
                             <span class="menu-item-price2"> $7</span>
                             </span>
                         <p class="menu-item-description2">Nuestro triple mousse de diferentes chocolates.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">MENU DE NIÑOS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">DOMINICANO ROLL
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Salami, queso frito y maduro.</p>
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">CHICKEN PANKO CON PAPAS FRITAS </span>
+                        <span class="menu-item-price2"> $7</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
+                        <span class="menu-item-price2"> $7</span>
+
                     </div>
                 </div>
                 <div class="entrees">

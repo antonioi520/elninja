@@ -1051,22 +1051,6 @@
         <div class="tab-pane fade" id="nav-etc" role="tabpanel" aria-labelledby="nav-etc-tab">
             <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="margin-top: 40px;" >
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">CHOFAN</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">HAWAIIAN CHOFAN
-                            <span class="menu-item-price2"> $16</span>
-                            </span>
-                        <p class="menu-item-description2">Hawaiian style chofan brings smoked ham, shrimp, veggies, and pineapple.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">NINJA CHOFAN
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
-                    </div>
-                </div>
-                <div class="entrees">
                     <h2 style="font-weight: bolder;">SALADS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
@@ -1089,23 +1073,19 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">KID'S MENU</h2>
+                    <h2 style="font-weight: bolder;">CHOFAN</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">DOMINICANO ROLL
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">HAWAIIAN CHOFAN
+                            <span class="menu-item-price2"> $16</span>
                             </span>
-                        <p class="menu-item-description2">Salami, questo frito, maduro.</p>
+                        <p class="menu-item-description2">Hawaiian style chofan brings smoked ham, shrimp, veggies, and pineapple.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
-                            <span class="menu-item-price2"> $7</span>
-
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">CHEESEBURGER W/ FRIES
-                            <span class="menu-item-price2"> $7</span>
-
+                            <span class="menu-item-title2">NINJA CHOFAN
+                            <span class="menu-item-price2"> $10</span>
+                            </span>
+                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1140,6 +1120,26 @@
                             <span class="menu-item-price2"> $7</span>
                             </span>
                         <p class="menu-item-description2">Our multilayered triple chocolate mousse.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">KID'S MENU</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">DOMINICANO ROLL
+                            <span class="menu-item-price2"> $7</span>
+                            </span>
+                        <p class="menu-item-description2">Salami, questo frito, maduro.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHICKEN PANKO W/ FRIES
+                            <span class="menu-item-price2"> $7</span>
+
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHEESEBURGER W/ FRIES
+                            <span class="menu-item-price2"> $7</span>
+
                     </div>
                 </div>
                 <div class="entrees">
