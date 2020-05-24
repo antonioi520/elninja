@@ -32,10 +32,15 @@
 }
 
 h2 {
+    font-family: "Trade Winds";
     font-size:2.0em;
     margin-bottom:0;
     text-align: center;
     color: black;
+}
+
+p {
+    //font-family: "Trade Winds";
 }
 
 .appetizers, .entrees {
@@ -66,11 +71,11 @@ h2 {
 }
 
 .menu {
-    font-family: Poppins;
+    font-family: "Trade Winds";
 }
 
 .menu-heading {
-    font-family:  'Kaushan Script', cursive;
+    font-family:  'Trade Winds';
     font-size: calc(2em + 3vw);
     margin-bottom: 0;
     text-align: center;
