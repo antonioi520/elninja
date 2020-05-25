@@ -99,7 +99,7 @@
     </div>
 </section>
 
-<section id="about" class="section-intro" style="display:block;background-color: #FFE7E7"> <!--f3f2ee og color-->
+<section id="about" class="section-intro" style="display:block;background-color: #fff0f0"> <!--f3f2ee og color-->
     <div class="content-intro">
         <div class="container">
             <div class="row">
