@@ -88,7 +88,7 @@
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="">
-                        <h1 class="menu-heading menuHeaderText animated fadeInDown" style="top:-10px;">Menu</h1>
+                        <h1 class="menu-heading menuHeaderText animated fadeInDown" style="top:-10px;">El Ninja Menu</h1>
                     </div>
                 </center>
             </div>
@@ -98,8 +98,8 @@
 
 <div class="container">
     <div style="text-align: center;margin-bottom: 5px;">
-        <button type="button" onclick="myFunction()">English</button>
-        <button type="button" onclick="myFunction1()">Spanish</button>
+        <button class="menu-lang-button" type="button" onclick="myFunction()">English</button>
+        <button class="menu-lang-button" type="button" onclick="myFunction1()">Español</button>
     </div>
 
 

@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kaushan%20Script');
 @import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
 @font-face {
@@ -22,12 +23,51 @@
     url('https://fonts.googleapis.com/css?family=Kaushan%20Script')  format('truetype'), /* Safari, Android, iOS */
     url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('svg'); /* Legacy iOS */
 }
+@font-face {
+    font-family: 'Trade Winds';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Trade Winds'), local('TradeWinds'), url(https://fonts.gstatic.com/s/tradewinds/v8/AYCPpXPpYNIIT7h8-QenM0Jt5vM.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
 h2 {
+    font-family: "Trade Winds";
     font-size:2.0em;
     margin-bottom:0;
     text-align: center;
     color: black;
+}
+
+p {
+    //font-family: "Trade Winds";
+}
+
+.menu-lang-button {
+    //font-family: "Trade Winds";
+    border: 2.5px dashed #ee2929;
+    border-radius: 5px;
+    line-height: 1.5em;
+    max-height: 30em;
+    margin: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+    background-color: #f7f7f7;
+    transition: transform .2s;
+    outline: none;
+}
+
+.menu-lang-button:hover {
+    border: 2.5px solid #ee2929;
+    outline: none;
+    transform: scale(1.1);
+}
+
+.menu-lang-button:after, .menu-lang-button:active, .menu-lang-button:active:after, .menu-lang-button:focus {
+    border: 2.5px solid #ee2929;
+    outline: none;
 }
 
 .appetizers, .entrees {
@@ -58,11 +98,11 @@ h2 {
 }
 
 .menu {
-    font-family: Poppins;
+    font-family: "Trade Winds";
 }
 
 .menu-heading {
-    font-family:  'Kaushan Script', cursive;
+    font-family:  'Trade Winds';
     font-size: calc(2em + 3vw);
     margin-bottom: 0;
     text-align: center;
@@ -93,6 +133,7 @@ h2 {
 }
 
 .menu-item2:hover {
+    border: 2.5px solid #ee2929;
     transform: scale(1.03);
 }
 
@@ -239,6 +280,19 @@ h2 {
 }
 
 @media (max-width: 896px) {
+    #drinksDiv h2 {
+        font-size: 19px;
+    //line-height: 40px;
+    }
+    #drinksDiv p {
+        font-size:15px;
+    }
+    #drinksDiv .menu-item2{
+        width:23em;
+    }
+}
+
+@media (max-width: 896px) {
     #entreeDiv h2 {
         font-size: 19px;
     //line-height: 40px;
@@ -277,6 +331,18 @@ h2 {
     }
 }
 
+@media (max-width: 375px) {
+    #drinksDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #drinksDiv p {
+        font-size:12px;
+    }
+    #drinksDiv .menu-item2{
+        width:20em;
+    }
+}
 @media (max-width: 375px) {
     #appsDiv h2 {
         font-size: 20px;
@@ -338,6 +404,19 @@ h2 {
         font-size:12px;
     }
     #allDiv .menu-item2{
+        width:18em;
+    }
+}
+
+@media (max-width: 320px) {
+    #drinksDiv h2 {
+        font-size: 20px;
+    //line-height: 40px;
+    }
+    #drinksDiv p {
+        font-size:12px;
+    }
+    #drinksDiv .menu-item2{
         width:18em;
     }
 }
