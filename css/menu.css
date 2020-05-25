@@ -63,11 +63,13 @@ p {
     border: 2.5px solid #ee2929;
     outline: none;
     transform: scale(1.1);
+
 }
 
 .menu-lang-button:after, .menu-lang-button:active, .menu-lang-button:active:after, .menu-lang-button:focus {
     border: 2.5px solid #ee2929;
     outline: none;
+
 }
 
 .appetizers, .entrees {
@@ -129,11 +131,11 @@ p {
     max-width: 30em;
     width: 30em;
     background-color: #f7f7f7;
-    transition: transform .2s;
+    transition: .3s;
 }
 
 .menu-item2:hover {
-    border: 2.5px solid #ee2929;
+    border: 2.5px solid #fbca67;
     transform: scale(1.03);
 }
 
@@ -527,3 +529,72 @@ p {
     }
 
 }
+
+.draw {
+    transition: color 0.25s;
+    //color:#f45e61;
+}
+.draw::before, .draw::after {
+    border: 2px solid transparent;
+    width: 0;
+    height: 0;
+}
+.draw::before {
+    top: 0;
+    left: 0;
+}
+.draw::after {
+    bottom: 0;
+    right: 0;
+}
+
+.draw:hover::before, .draw:hover::after {
+    width: 100%;
+    height: 100%;
+}
+.draw:hover::before {
+
+    transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
+}
+.draw:hover::after {
+
+    transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
+}
+.meet:hover {
+    color: #fbca67;
+}
+.meet::after {
+    top: 0;
+    left: 0;
+}
+.meet:hover::before {
+    border-top-color: #fbca67;
+    border-right-color: #fbca67;
+}
+.meet:hover::after {
+    border-bottom-color: #fbca67;
+    border-left-color: #fbca67;
+    transition: height 0.25s ease-out, width 0.25s ease-out 0.25s;
+}
+button {
+    background: none;
+    border: 0;
+    box-sizing: border-box;
+    margin: .25em;
+    padding: .25em .5em;
+    box-shadow: inset 0 0 0 2px #ee2929;
+    color: #ee2929;
+    font-size: inherit;
+    font-weight: 700;
+    position: relative;
+    vertical-align: middle;
+}
+button::before, button::after {
+    box-sizing: inherit;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+
