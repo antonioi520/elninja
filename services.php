@@ -74,9 +74,8 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Highlights</h1>
+                    <h1 class="" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 65px;color:black;margin-bottom: 10px;">Highlights</h1>
                 <center>
-                    <br>
                 <div class="red-title-divider"></div>
             </div>
         </div>
@@ -144,7 +143,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Catering</h1>
+                    <h1 class="" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 65px;color:black;margin-bottom: 10px;">Catering</h1>
                     <center>
                 <div class="red-title-divider"></div>
             </div>
