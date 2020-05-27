@@ -6,37 +6,7 @@
  * Time: 5:31 PM
  */
 ?>
-<style>
-    .top-link {
-        transition: all .25s ease-in-out;
-        position: fixed;
-        bottom: -10px;
-        right: -10px;
-        display: inline-flex;
-        cursor: pointer;
-        align-items: center;
-        justify-content: center;
-        margin: 0 2em 2em 0;
-        border-radius: 50%;
-        padding: .25em;
-        width: 40px;
-        height: 40px;
-        background-color: #f7f7f7;
-        border: 2px solid red;
-    }
-    .top-link.show {
-        visibility: visible;
-        opacity: 1;
-    }
-    .top-link.hide {
-        visibility: hidden;
-        opacity: 0;
-    }
-    .top-link:hover {
-        background-color: #f7f7f7;
-        transform: scale(1.15);
-    }
-</style>
+
 <?php include("views/header.html") ?>
 
 <link href="css/mobile.css" rel="stylesheet">
