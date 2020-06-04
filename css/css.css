@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Courgette');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds');
 @font-face {
     font-family: Courgette-Regular;
     src: url('../fonts/courgette/Courgette-Regular.ttf');
@@ -21,6 +22,13 @@
     url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('woff'), /* Modern Browsers */
     url('https://fonts.googleapis.com/css?family=Kaushan%20Script')  format('truetype'), /* Safari, Android, iOS */
     url('https://fonts.googleapis.com/css?family=Kaushan%20Script') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Trade Winds';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Trade Winds'), local('TradeWinds'), url(https://fonts.gstatic.com/s/tradewinds/v8/AYCPpXPpYNIIT7h8-QenM0Jt5vM.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 .shadow
 {
@@ -162,7 +170,8 @@ p {
     min-height: 35px;
     border-radius: 50%;
     background-color: whitesmoke;
-    border: 2px solid #ff9628;
+    border: 2px solid #fbca67;
+    //border: 2px solid #ff9628;
     opacity: .9;
     transition: 0.5s;
 }
@@ -172,7 +181,7 @@ p {
 }
 .circleborder:hover{
     color:whitesmoke;
-    border: 2px solid #ff9628;
+    border: 2px solid #fbca67;
     background-color: #ee2929;
     transition: 0.5s;
 }
@@ -196,7 +205,7 @@ p {
     padding: .5em;
     max-width: 8em;
     width: 8em;
-    border: 2px solid #ff9628;
+    border: 2px solid #fbca67;
 //background-color: rgb(106,134,79);
    background-color: whitesmoke;
     /*left: 38.5%;*/
@@ -213,7 +222,7 @@ p {
 }
 #box:hover{
     text-decoration: none;
-    border: 2px solid #ff9628;
+    border: 2px solid #fbca67;
     background-color: #ee2929;
     transition: 0.5s;
 }

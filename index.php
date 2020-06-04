@@ -65,8 +65,9 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
-                <div class="red-title-divider"></div>
+                <h3 class="section-title" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
+                <div class="red-title-divider" style="margin-top: -30px;"></div>
+                <br>
             </div>
         </div>
     </div>
@@ -225,8 +226,8 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Kaushan Script', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider" style="background-color: #ee2929;"></div>
+                <h3 class="section-title" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
+                <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
                 <p class="section-description">Send us a message and we'll get back to you as soon as we can!</p>
             </div>
         </div>
@@ -275,8 +276,8 @@
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Tue-Thur:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
-                        <strong>Fri:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
+                        <strong>Tue-Fri:</strong><p style="padding-left:0;"> 4pm-12am</p><br>
+                        <!--strong>Fri:</strong><p style="padding-left:0;"> 4pm-12am</p><br-->
                         <strong>Sat-Sun:</strong><p style="padding-left:0;"> 12pm-12am</p>
                     </div>
                     <div style="padding-top: 1.250em;">
@@ -294,7 +295,12 @@
 <!-- #footer -->
 <?php include("views/footer.html")?>
 
-<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+<div id="content-mobile896">
+    <a class="top-link hide" href="" id="js-top">
+        <img src="img/arrow.png" style="width: 65%; height: 55%;">
+    </a>
+</div>
+
 <?php include("views/includebottom.html") ?>
 
 <script type="text/javascript">
@@ -362,6 +368,35 @@
             $('.bg-blackish').css('background', 'transparent');
         }
     });
+</script>
+<script>
+    var scrollToTopButton = document.getElementById('js-top');
+
+    var scrollFunc = function scrollFunc() {
+        var y = window.scrollY;
+
+        if (y > 0) {
+            scrollToTopButton.className = "top-link show";
+        } else {
+            scrollToTopButton.className = "top-link hide";
+        }
+    };
+
+    window.addEventListener("scroll", scrollFunc);
+
+    var scrollToTop = function scrollToTop() {
+        var c = document.documentElement.scrollTop || document.body.scrollTop;
+
+        if (c > 0) {
+            window.requestAnimationFrame(scrollToTop);
+            window.scrollTo(0, c - c / 10);
+        }
+    };
+
+    scrollToTopButton.onclick = function (e) {
+        e.preventDefault();
+        scrollToTop();
+    };
 </script>
 </body>
 </html>

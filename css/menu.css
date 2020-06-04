@@ -63,13 +63,11 @@ p {
     border: 2.5px solid #ee2929;
     outline: none;
     transform: scale(1.1);
-
 }
 
 .menu-lang-button:after, .menu-lang-button:active, .menu-lang-button:active:after, .menu-lang-button:focus {
     border: 2.5px solid #ee2929;
     outline: none;
-
 }
 
 .appetizers, .entrees {
@@ -210,15 +208,14 @@ p {
     font-size: 70px;
     padding-bottom: 5px;
     line-height: 1.1em;
-
 }
 .menuHeaderImage{
     height:450px;
     width:450px;
     object-fit: contain;
     filter:brightness(90%);
-
 }
+
 @media (max-width: 896px) {
     #hero{
         //left:40px;
@@ -532,49 +529,65 @@ p {
 
 .draw {
     transition: color 0.25s;
+    outline: none;
     //color:#f45e61;
 }
 .draw::before, .draw::after {
     border: 2px solid transparent;
     width: 0;
     height: 0;
+    outline: none;
 }
 .draw::before {
     top: 0;
     left: 0;
+    outline: none;
 }
 .draw::after {
     bottom: 0;
     right: 0;
+    outline: none;
+}
+.draw:focus {
+    outline: none;
 }
 
 .draw:hover::before, .draw:hover::after {
     width: 100%;
     height: 100%;
+    outline: none;
 }
 .draw:hover::before {
-
+    outline: none;
     transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
 }
 .draw:hover::after {
-
+    outline: none;
     transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
 }
 .meet:hover {
     color: #fbca67;
+    outline: none;
 }
 .meet::after {
     top: 0;
     left: 0;
+    outline: none;
 }
 .meet:hover::before {
     border-top-color: #fbca67;
     border-right-color: #fbca67;
+    outline: none;
 }
 .meet:hover::after {
     border-bottom-color: #fbca67;
     border-left-color: #fbca67;
     transition: height 0.25s ease-out, width 0.25s ease-out 0.25s;
+    outline: none;
+}
+.meet:focus{
+    transform: scale(1.08);
+    outline: none;
 }
 button {
     background: none;
@@ -588,6 +601,7 @@ button {
     font-weight: 700;
     position: relative;
     vertical-align: middle;
+    outline: none;
 }
 button::before, button::after {
     box-sizing: inherit;
@@ -595,6 +609,7 @@ button::before, button::after {
     position: absolute;
     width: 100%;
     height: 100%;
+    outline: none;
 }
 
 
