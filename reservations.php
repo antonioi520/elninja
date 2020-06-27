@@ -92,7 +92,8 @@
                         </div>
                         <label for="phone">Phone Number</label> <label style="color: red;">*</label>
                         <div class="form-group">
-                            <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone Number - (XXX) XXX-XXXX" minlength="7"  required />
+                            <input type="tel" class="form-control" name="phone" id="phone" placeholder="XXX-XXX-XXXX" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+                                   required/>
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
