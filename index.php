@@ -37,11 +37,13 @@
                     </center>
                     <center>
                         <ul class="headericons justify-content-center">
-                            <li style="display: inline;padding:0.5em;"> <div id="test"><a href="#" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
+                            <li style="display: inline;padding:0.5em;"><div id="test"><a href="#" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
                             <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
-                    <img src="img/ninja_cutout.png" id="content-ipad" style="height: 350px; width: 260px; float: right; margin-top: -90px;">
+                    <a href="#bio">
+                        <img src="img/ninja_cutout.png" id="content-ipad" style="height: 350px; width: 260px; float: right; margin-top: -90px;">
+                    </a>
                 </div>
             </div>
         </div>
@@ -56,8 +58,6 @@
         <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
     </center>
 </div-->
-
-
 
 <!--==========================
   About Section
@@ -96,6 +96,45 @@
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.441479542669!2d-71.41606578456141!3d41.797249079228706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f8915b52b9f%3A0xabd739480c18098c!2s1007%20Broad%20St%2C%20Providence%2C%20RI%2002905!5e0!3m2!1sen!2sus!4v1588373414872!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%;" allowfullscreen=></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!--==========================
+  Bio Section
+  ============================-->
+<section id="bio">
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title" style="font-family: 'Poppins';letter-spacing: 0.05em;font-size: 3.125em;">Biography</h3>
+                <div class="red-title-divider" style="margin-top: -30px;"></div>
+                <br>
+            </div>
+        </div>
+    </div>
+
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-lg-12">
+                <p>Mitsuhisa Nishio, better known to the public as “El Ninja”, is a world-renowned chef who specializes in Asian-Latin fusion cuisine. Despite being of full Japanese descent, Chef Ninja was born and raised in Constanza - a lovely town in the Dominican Republic.
+                    <br><br>
+
+                    There is no doubt that Ninja takes pride in both of his co-cultures. This sense of pride is displayed through his art where he fuses traditional Japanese foods with the savory, full of taste ingredients of Dominican cuisine. Although the food of said cultures are so different, Chef Ninja has found a way to perfectly bridge the gap between his two nationalities through his eccentric dishes. What’s more Japanese-Dominican than a sushi roll with sweet plantains placed on top?
+                    <br> <br>
+
+                    When living in Constanza, Ninja’s mother taught him how to make a variety of traditional Japanese dishes. He learned much of what he knows about Japanese cuisine by cooking those same home made meals for his friends growing up. His culinary career officially began in New York when he was given the opportunity to create a menu for an Asian Latin bar and run the kitchen in 2003. As the years went on, Nishio continued to establish his name and food in the tri-state area; working for restaurants such as Mama Sushi, TAO, and Sushi Mambo to name a few. Fast forward to now, and everyone in New York knows about Ninja’s famous “Sushi Aplatanao”.
+                    <br> <br>
+
+                    After making a name for himself and leaving his mark on New York, Chef Ninja relocated to Miami for a few years where he created menus for a few businesses. During this time, the chef started attracting an incredible amount of virality and buzz on social media.  It is one thing for the people to love your food. It’s another for them to love you. Ninja’s charisma and persona won over the hearts of hundreds of thousands of people all over the world; garnering over 100,000 followers on Instagram in the span of a few months and millions of views on videos on YouTube and Facebook. He ultimately ended up moving back to NYC and in 2018 he set out on his “No Bulto” Tour. Ninja and his staff hit the road, taking his menu to food lovers all over the USA. North Carolina, California, Massachusetts, Rhode Island, Philadelphia, just to name a few.
+                    <br> <br>
+
+                    Despite not attending culinary school for his craft, Chef Ninja has elevated to heights that only few other chefs have reached. Not only has he established himself in his city of New York as “El Rey del Sushi Aplatanao” but he has also sold out venues city after city, month after month. He has been invited by Yankee Stadium to be their guest chef both 2011 and  2019. He has also done private events for the likes of artists such as Farruko, Anuel AA, and Ivy Queen.  In 2020, Chef Ninja opened his first restaurant El Ninja Latin Fusion/Sushi Restaurant in Providence, Rhode Island and plans to continue expanding his brand and imprint in the culinary world. It is without a doubt that he is truly “El Rey del Sushi Aplatanao”. No bulto.
+                    <br> <br>
+
+                </p>
             </div>
         </div>
     </div>
