@@ -102,11 +102,13 @@ p {
 }
 
 .menu-heading {
-    font-family:  'Trade Winds';
+    font-family:  'Poppins';
     font-size: calc(2em + 3vw);
     margin-bottom: 0;
     text-align: center;
     color: black;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 .menu-item {

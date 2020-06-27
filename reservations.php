@@ -27,7 +27,6 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
-    <link href="css/services.css" rel="stylesheet">
     <link href="css/mobile.css" rel="stylesheet">
     <link href="css/fadein.css" rel="stylesheet">
 
@@ -50,11 +49,10 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/Interior/7.jpg" alt="Second slide" style="height:600px;filter:brightness(50%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center"  id="hero">
-
+            <div class="carousel-caption d-md-block d-flex"  id="hero">
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText justify-content-center animated fadeInDown">Reservations</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Reservations</h1>
                     </div>
                 </center>
             </div>

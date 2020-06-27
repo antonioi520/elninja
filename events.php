@@ -54,7 +54,7 @@
 
                 <center>
                     <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText animated fadeInDown">Events</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Events</h1>
                     </div>
                 </center>
             </div>

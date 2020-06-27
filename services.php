@@ -54,7 +54,7 @@
 
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText animated fadeInDown">Services</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Services</h1>
                     </div>
                 </center>
             </div>

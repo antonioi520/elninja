@@ -27,7 +27,6 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
-    <link href="css/services.css" rel="stylesheet">
     <link href="css/mobile.css" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -52,7 +51,7 @@
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="">
-                        <h1 class="menu-heading menuHeaderText animated fadeInDown" style="top:-10px; font-size: 65px; margin-bottom: 0px;">The Bomes Theatre</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">The Bomes Theatre</h1>
                     </div>
                 </center>
             </div>

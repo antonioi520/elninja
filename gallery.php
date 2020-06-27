@@ -53,7 +53,7 @@
                 </center>-->
                 <center>
                     <div class="">
-                        <h1 class="menu-heading galleryHeaderText animated fadeInDown">Gallery</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Gallery</h1>
                     </div>
                 </center>
             </div>
