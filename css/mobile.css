@@ -54,7 +54,7 @@
     }
 }
 
-@media (max-width:1190px) {
+@media (max-width:1500px) {
 
     #content-ipad {
         display: none;
@@ -63,7 +63,7 @@
 
 @media (max-width:1023px) {
 
-    #content-ipad {
+    #content-ipad2 {
         display: block;
     }
 }
