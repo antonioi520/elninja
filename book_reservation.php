@@ -19,6 +19,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
         !isset($_POST['email']) ||
         !isset($_POST['phone']) ||
         !isset($_POST['event_type']) ||
+        !isset($_POST['other_type']) ||
         !isset($_POST['attendees']) ||
         !isset($_POST['date']) ||
         !isset($_POST['special_request']) ||
@@ -34,6 +35,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     $captcha = $_POST['captcha'];
     $phone = $_POST['phone'];
     $event_type = $_POST['event_type'];
+    $other_type = $_POST['other_type'];
     $attendees = $_POST['attendees'];
     $date = $_POST['date'];
     $hours_start = $_POST['hours_start'];
@@ -69,6 +71,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     $email_message .= "Email: " . clean_string($email_from) . "\n";
     $email_message .= "Phone: " . clean_string($phone) . "\n";
     $email_message .= "Event Type: " . clean_string($event_type) . "\n";
+    $email_message .= "Other Event Type: " . clean_string($other_type) . "\n";
     $email_message .= "Estimated Number of Attendees: " . clean_string($attendees) . "\n";
     $email_message .= "Event Date (YYYY-MM-DD): " . clean_string($date) . "\n";
     $email_message .= "Event Start Time: " . clean_string($hours_start_str) . "\n";

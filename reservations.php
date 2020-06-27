@@ -110,6 +110,10 @@
                             </select>
                             <div class="validation"></div>
                         </div>
+                        <label for="other_type">If Other, please specify.</label>
+                        <div class="form-group">
+                            <textarea class="form-control" name="other_type" rows="1"  placeholder="" minlength="0"></textarea>
+                        </div>
                         <div class="form-group">
                             <label for="attendees">Number of Guests</label> <label style="color: red;">*</label>
                             <input type="number" class="form-control" name="attendees" id="attendees" min="1" max="99" required />
