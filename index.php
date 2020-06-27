@@ -65,7 +65,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
+                <h3 class="section-title" style="font-family: 'Poppins';letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
                 <div class="red-title-divider" style="margin-top: -30px;"></div>
                 <br>
             </div>
@@ -226,7 +226,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
+                <h3 class="section-title" style="font-family: 'Poppins';letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
                 <p class="section-description">Send us a message and we'll get back to you as soon as we can!</p>
             </div>

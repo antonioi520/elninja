@@ -74,7 +74,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 65px;color:black;margin-bottom: 10px;">Highlights</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';letter-spacing: 0.05em;font-size: 3.125em;color:black;margin-bottom: 10px;">Highlights</h1>
                 <center>
                 <div class="red-title-divider"></div>
             </div>
@@ -143,7 +143,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 65px;color:black;margin-bottom: 10px;">Catering</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';letter-spacing: 0.05em;font-size: 3.125em;color:black;margin-bottom: 10px;">Catering</h1>
                     <center>
                 <div class="red-title-divider"></div>
             </div>
