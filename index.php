@@ -36,11 +36,12 @@
                         </a>
                     </center>
                     <center>
-                        <ul class="headericons">
+                        <ul class="headericons justify-content-center">
                             <li style="display: inline;padding:0.5em;"> <div id="test"><a href="#" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
                             <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
+                    <img src="img/ninja_cutout.png" id="content-ipad" style="height: 350px; width: 260px; float: right; margin-top: -90px;">
                 </div>
             </div>
         </div>

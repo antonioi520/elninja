@@ -61,9 +61,9 @@
     }
 }
 
-@media (max-width:1023px) {
+@media (max-width:1500px) {
 
-    #content-ipad2 {
+    #content-ipad {
         display: block;
     }
 }
