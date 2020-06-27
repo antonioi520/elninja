@@ -101,6 +101,7 @@
                             <select class="form-control" name="event_type" id="event_type">
                                 <option disabled selected hidden>Select your event type</option>
                                 <option>Dinner</option>
+                                <option>Lunch</option>
                                 <option>Birthday</option>
                                 <option>Wedding</option>
                                 <option>Anniversary</option>
