@@ -356,7 +356,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI STIR FRY
                                 <span class="menu-item-price" style="float:right;color:black"> </span>
                             </span>
-                        <p class="menu-item-description" style="color:black">Served with white jazmin rice. <br><b>Your Choice:</b> Beef $18 - Chicken $16 - Shrimp $18 - Tofu Teriyaki $16.</p>
+                        <p class="menu-item-description" style="color:black">Served with white jazmin rice. <br><b>Your Choice:</b> Beef - Chicken - Shrimp - Tofu Teriyaki.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PECHUGA A LA PLANCHA
@@ -491,7 +491,7 @@
                             <span class="menu-item-title2">NINJA CHOFAN
                             <span class="menu-item-price2"> </span>
                             </span>
-                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
+                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken - Shrimp</p>
                     </div>
                 </div>
                 <div class="entrees">
@@ -507,7 +507,7 @@
                             <span class="menu-item-title2">TROPICAL SALAD
                             <span class="menu-item-price2"> </span>
                             </span>
-                        <p class="menu-item-description2">Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
+                        <p class="menu-item-description2">Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef - Shrimp - Chicken</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">WAKAME SALAD
@@ -924,7 +924,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">TERIYAKI STIR FRY
                                 <span class="menu-item-price" style="float:right;color:black"> </span>
                             </span>
-                        <p class="menu-item-description" style="color:black">Served with white jazmin rice. <br><b>Your Choice:</b> Beef $18 - Chicken $16 - Shrimp $18 - Tofu Teriyaki $16.</p>
+                        <p class="menu-item-description" style="color:black">Served with white jazmin rice. <br><b>Your Choice:</b> Beef - Chicken - Shrimp - Tofu Teriyaki.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PECHUGA A LA PLANCHA
@@ -1063,7 +1063,7 @@
                             <span class="menu-item-title2">TROPICAL SALAD
                             <span class="menu-item-price2"> </span>
                             </span>
-                        <p class="menu-item-description2">Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef $6 - Shrimp $6 - Chicken $4</p>
+                        <p class="menu-item-description2">Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette. <br> <b>Your Choice:</b> Beef - Shrimp - Chicken</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">WAKAME SALAD
@@ -1085,7 +1085,7 @@
                             <span class="menu-item-title2">NINJA CHOFAN
                             <span class="menu-item-price2"> </span>
                             </span>
-                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken $4 - Shrimp $6</p>
+                        <p class="menu-item-description2">Ninja's fried rice with sweet plantain, veggies, egg. <br> <b>Your Choice:</b> Chicken - Shrimp</p>
                     </div>
                 </div>
                 <div class="entrees">
