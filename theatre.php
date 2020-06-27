@@ -60,7 +60,7 @@
 </div>
 <div class="container">
 <center>
-    <img src="img/logoT.png" style="height:250px;width:350px;object-fit: contain;">
+    <img src="img/logoT.png" class="justify-content-center" style="height:250px;width:320px;object-fit: contain;">
 </center>
 
 <hr style="margin-bottom:0px;">

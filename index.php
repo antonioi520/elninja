@@ -41,8 +41,8 @@
                             <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
-                    <a href="#bio">
-                        <img src="img/ninja_cutout.png" id="content-ipad" style="height: 350px; width: 260px; float: right; margin-top: -90px;">
+                    <a href="#bio" id="content-hide">
+                        <img src="img/ninja_cutout.png" id="content-hide" style="height: 350px; width: 260px; float: right; margin-top: -90px;">
                     </a>
                 </div>
             </div>

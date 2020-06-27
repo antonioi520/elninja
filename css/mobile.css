@@ -68,6 +68,14 @@
     }
 }
 
+@media (max-width:1550px) {
+
+    #content-hide {
+        display: none;
+    }
+}
+
+
 .responsiveCal {
 
     position: relative;

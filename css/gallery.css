@@ -23,8 +23,9 @@
 }
 
 .gallery-header {
-    font-family: "Trade Winds";
+    font-family: "Poppins";
     font-size: 36px;
+    font-weight: 700;
 }
 
 .wrapper {

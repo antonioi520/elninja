@@ -49,7 +49,7 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/Interior/7.jpg" alt="Second slide" style="height:600px;filter:brightness(50%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex"  id="hero">
+            <div class="carousel-caption justify-content-center d-md-block d-flex"  id="hero">
                 <center>
                     <div class="serviceHeaderBox">
                         <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Reservations</h1>
@@ -65,7 +65,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title justify-content-center" style="font-family: 'Poppins', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Make a Reservation</h3>
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 2.525em;">Make a Reservation</h1>
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
                 <center>
                     <p><label style="color: red;">*</label> = required field.</p>
