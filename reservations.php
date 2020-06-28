@@ -23,12 +23,19 @@
     <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
+    <style>
+        .repeating-bg {
+            background-image: url(img/ninja_space.png);
+            background-repeat: space;
+        }
+    </style>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
     <link href="css/mobile.css" rel="stylesheet">
     <link href="css/fadein.css" rel="stylesheet">
+    <link href="css/reservations.css" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
@@ -39,10 +46,8 @@
 
 
 </head>
-<body>
+<body class="repeating-bg">
 <!-- Header -->
-
-
 <?php include("views/nav_pages.html")?>
 <BR>
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
@@ -58,7 +63,6 @@
             </div>
         </div>
     </div>
-
 </div>
 
 <section id="contact">
