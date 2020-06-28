@@ -92,7 +92,7 @@
                 </p>
                 <p class="about-text">
                     We provide an array of services including Japanese/Latin cuisine, events and
-                    chef specials. El Ninja Restaurant serves traditional Japanese cuisine, alongside Japanese/Latin fusion dishes that will blow you away!
+                    takeout. El Ninja Restaurant serves traditional Japanese cuisine, alongside signature Japanese/Latin fusion dishes that will blow you away!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.441479542669!2d-71.41606578456141!3d41.797249079228706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f8915b52b9f%3A0xabd739480c18098c!2s1007%20Broad%20St%2C%20Providence%2C%20RI%2002905!5e0!3m2!1sen!2sus!4v1588373414872!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%;" allowfullscreen=></iframe>
