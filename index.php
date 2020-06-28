@@ -91,7 +91,7 @@
                     headed by world-class chef El Ninja and a talented staff, that uses only the finest ingredients!
                 </p>
                 <p class="about-text">
-                    We provide an array of services including Japanese/Latin cuisine, events and
+                    We provide an array of services including special events and
                     takeout. El Ninja Restaurant serves traditional Japanese cuisine, alongside signature Japanese/Latin fusion dishes that will blow you away!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
