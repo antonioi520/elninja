@@ -334,6 +334,23 @@ p {
     margin-bottom: 0.938em;
 }
 
+.big-heading {
+    font-family:  'Poppins';
+    font-size: calc(2em + 3vw);
+    margin-bottom: 0;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.bigHeaderText{
+    color:white;
+    font-size: 70px;
+    padding-bottom: 5px;
+    line-height: 1.1em;
+}
+
 #contact .form #sendmessage.show, #contact .form #errormessage.show, #contact .form .show {
     display: block;
 }
@@ -365,7 +382,7 @@ p {
     background: #25d8fc;
 }
 .section-title {
-    font-family: "Kaushan Script";
+    font-family: "Poppins";
     font-size: 2em;
     color: #111;
     text-transform: uppercase;
@@ -782,6 +799,13 @@ and (-webkit-device-pixel-ratio : 2) {
 and (-webkit-device-pixel-ratio : 3) {
     #iphone {
         max-width: 812px;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 320px) {
+    #iphone {
+        max-width: 320px;
         overflow: hidden;
     }
 }

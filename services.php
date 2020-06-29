@@ -54,7 +54,7 @@
 
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText animated fadeInDown">Services</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Services</h1>
                     </div>
                 </center>
             </div>
@@ -74,7 +74,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 65px;color:black;margin-bottom: 10px;">Highlights</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Highlights</h1>
                 <center>
                 <div class="red-title-divider"></div>
             </div>
@@ -143,7 +143,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Trade Winds';letter-spacing: 0.05em;font-size: 65px;color:black;margin-bottom: 10px;">Catering</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Catering</h1>
                     <center>
                 <div class="red-title-divider"></div>
             </div>

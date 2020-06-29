@@ -32,7 +32,7 @@
 }
 
 h2 {
-    font-family: "Trade Winds";
+    font-family: "Poppins";
     font-size:2.0em;
     margin-bottom:0;
     text-align: center;
@@ -98,15 +98,17 @@ p {
 }
 
 .menu {
-    font-family: "Trade Winds";
+    font-family: "Poppins";
 }
 
 .menu-heading {
-    font-family:  'Trade Winds';
+    font-family:  'Poppins';
     font-size: calc(2em + 3vw);
     margin-bottom: 0;
     text-align: center;
     color: black;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 .menu-item {

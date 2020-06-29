@@ -54,7 +54,7 @@
 
                 <center>
                     <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText animated fadeInDown">Events</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Events</h1>
                     </div>
                 </center>
             </div>
@@ -96,11 +96,11 @@
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Ninja Restaurant</h5>
                     <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
-                        Opening Soon!
+                        Grand Opening Soon!
                         <br><br>
-                        <strong>Date: TBA</strong><br>
-                        <strong>Start: TBA</strong><br>
-                        <strong>End: TBA</strong><br>
+                        <strong>Date: Thursday, July 16th</strong><br>
+                        <!--strong>Start: TBA</strong><br>
+                        <strong>End: TBA</strong><br-->
                         <br>
                     </p>
                 </div>
