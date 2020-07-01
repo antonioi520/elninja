@@ -6,7 +6,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     && isset($_POST['event_type']) && isset($_POST['attendees']) && isset($_POST['date'])
     && isset($_POST['hours_start']) && isset($_POST['special_request'])) {
 
-    $email_to = "younglubackup@gmail.com";
+    $email_to = "antonioi19961@gmail.com";
     $email_subject = "El Ninja Reservations - " . $_POST['name'];
 
     function died($error)
