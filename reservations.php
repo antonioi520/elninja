@@ -44,6 +44,8 @@
     <link rel="shortcut icon" href="img/logo_ninja.png" type="image/x-icon">
     <link rel="icon" href="img/logo_ninja.png" type="image/x-icon">
 
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 
 </head>
 <body class="repeating-bg">
@@ -81,7 +83,7 @@
             <div class="col-lg-3"></div>
             <div class="col-lg-6 col-lg-push-12" style="padding-bottom: 0.625em;">
                 <div class="form">
-                    <form action="" method="post" role="form" class="contactForm" id="myForm">
+                    <form action="book_reservation.php" method="post" role="form" class="contactForm" id="myForm">
                         <label for="name">First and Last Name</label> <label style="color: red;">*</label>
                         <div class="form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" minlength="2"  required />
