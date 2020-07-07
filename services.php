@@ -157,7 +157,7 @@
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title" style="margin-bottom: 10px;">The Bomes Theater</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">The Bomes Theatre</h2>
                 <p class="about-text">
                     The Bomes Theatre, on the south side of Providence is about to get new life, bringing you monthly performance events with all types of genres.
                 </p>
