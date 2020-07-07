@@ -98,8 +98,8 @@
 
 <div class="container">
     <div style="text-align: center;margin-bottom: 5px;">
-        <button class="draw meet" type="button" onclick="myFunction()">English</button>
-        <button class="draw meet" type="button" onclick="myFunction1()">Español</button>
+        <button class="draw meet lang-button" type="button" onclick="myFunction()">English</button>
+        <button class="draw meet lang-button" type="button" onclick="myFunction1()">Español</button>
     </div>
 
 
