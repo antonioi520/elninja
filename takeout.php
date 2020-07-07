@@ -63,7 +63,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">Take Out</h1>
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">TakeOut</h1>
                 <div class="section-title-divider" style="background-color: red;"></div>
                 <br id="content-mobile">
             </div>
