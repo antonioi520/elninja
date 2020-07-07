@@ -146,7 +146,7 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/s1.JPG" alt="" style="width:520px; height: auto; object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/s1.JPG" alt="" style="width:520px; height: 465px; object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -157,7 +157,7 @@
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title">The Bomes Theater</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">The Bomes Theater</h2>
                 <p class="about-text">
                     The Bomes Theatre, on the south side of Providence is about to get new life, bringing you monthly performance events with all types of genres.
                 </p>
@@ -168,7 +168,7 @@
 
                 <br> <br><br><br>
 
-                <h2 class="about-title">Mi Alma Restaurant</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Mi Alma Restaurant</h2>
                 <p class="about-text">
                     Mi Alma Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre, boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
                 </p>
