@@ -74,7 +74,7 @@
 <div class="container">
     <div class="row">
         <center>
-            <img src="img/coming-soon-sign.png" style="width: 70%; height: 80%; overflow:hidden;">
+            <img src="img/coming-soon-sign.png" style="width: 70%; height: 90%; overflow:hidden;">
         </center>
     </div>
 </div>

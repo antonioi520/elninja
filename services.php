@@ -74,7 +74,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Highlights</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Our Services</h1>
                 <center>
                 <div class="red-title-divider"></div>
             </div>
@@ -83,31 +83,23 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/s1.JPG" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px;height:330px;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/s1.JPG" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Chef's Recommendations</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Catering</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Be sure to ask your server about the chef's recommendation for the day!
+                    Call us at (401) 467-2581 to learn more about our catering services!
                 </p>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Weekly Specials</h2>
-                <p class="about-text" style="padding-left:2px;">
-                    Don't forget to ask staff about the weekly special next time you dine with us!
-                </p>
-
-                <h2 class="about-title" style="margin-bottom: 10px;">À La Carte</h2>
-                <p class="about-text" style="padding-left:2px;">
-                    Come in and order your food à la carte.
-                </p>
+                <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
                 <p class="about-text" style="padding-left:3px;">
@@ -117,12 +109,14 @@
 
                 <br>
 
-                <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
+                <a href="takeout" id="menuBox" style="width: 350px; height: 75px;"><h2 id="menuBoxText">View Takeout Page</h2></a>
 
             </div>
         </div>
     </div>
 </section>
+
+<br>
 
 </section>
 <!--==========================
@@ -143,7 +137,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Catering</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Partners</h1>
                     <center>
                 <div class="red-title-divider"></div>
             </div>
@@ -152,31 +146,36 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/s1.JPG" alt="" style="width:520px; height: auto; object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/s1.JPG" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title">Catering at the Bomes Theater</h2>
+                <h2 class="about-title">The Bomes Theater</h2>
                 <p class="about-text">
-                    At Mi Alma Restaurant, we provide an array of catering services for our customers.
-                    If you are looking to host an event at the Bomes Theater, we can also
-                    cater for your event there!
+                    The Bomes Theatre, on the south side of Providence is about to get new life, bringing you monthly performance events with all types of genres.
                 </p>
 
                 <br>
 
-                <h2 class="about-title">Catering for personal events</h2>
+                <a href="https://www.TheBomesTheatre.com" id="menuBox" target="_blank" style="width: 250px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
+
+                <br> <br><br><br>
+
+                <h2 class="about-title">Mi Alma Restaurant</h2>
                 <p class="about-text">
-                    Our catering services are not limited to just events hosted on location at the Bomes Theater, we also
-                    cater for various other events including weddings, banquets, family gatherings and parties.
+                    Mi Alma Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre, boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
                 </p>
+
+                <br>
+
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 250px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
 
                 <br id="content-desktop">
 
@@ -185,7 +184,7 @@
     </div>
 </section>
 
-<br id="content-desktop">
+<br>
 <?php include("views/footer.html")?>
 
 <!-- Optional JavaScript -->

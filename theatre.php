@@ -89,7 +89,7 @@
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;">The revitalization of the historic Bomes Theatre.</h2>
                 <p class="about-text">
-                    The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
+                    The Bomes Theatre, on the south side of Providence is about to get new life, bringing you monthly performance events with all types of genres.
 
                     We provide services for a variety of events, including weddings, birthdays, baby showers and more! Book an event with us and create memories that will last a lifetime.
                 </p>
