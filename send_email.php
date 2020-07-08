@@ -75,8 +75,4 @@ if(isset($_POST['email'])) {
 }
     ?>
      
-    <!-- include success html here -->
-     
-    Your message has been sent, thank you!
-     
 

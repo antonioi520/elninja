@@ -326,9 +326,7 @@
                             <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
                         </div>
 
-                        <!--div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div-->
-                        <div class="text-center"><button disabled type="submit" style="background-color: #ee2929;">Disabled</button></div>
-
+                        <div class="text-center"><button style="background-color: #ee2929;" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
                     </form>
                 </div>
             </div>

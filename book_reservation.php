@@ -88,9 +88,6 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     @mail($email_to2, $email_subject, $email_message, $headers);
 }
 ?>
- 
-<!-- include success html here -->
- 
-Your message has been sent, thank you!
+
  
 
