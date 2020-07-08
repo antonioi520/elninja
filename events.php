@@ -90,17 +90,20 @@
 
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="col-md-3"></div>
+            <!--div class="col-md-3"></div-->
             <div class="card" style="border-color: #ee2929">
-                <img class="card-img-top" src="img/comingsoon.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/grand_opening_eng.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Ninja Restaurant</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Grand Opening</h5>
                     <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
-                        Grand Opening Soon!
+                        For Reservations: <br>
+                        Chinito - (646) 484-0030 <br>
+                        Keiry - (401) 215-7824 <br>
+                        Ligia - (401) 639-2136
                         <br><br>
                         <strong>Date: Thursday, July 16th</strong><br>
-                        <!--strong>Start: TBA</strong><br>
-                        <strong>End: TBA</strong><br-->
+                        <strong>Start: 5pm</strong><br>
+                        <strong>End: 12am</strong><br>
                         <br>
                     </p>
                 </div>
@@ -114,7 +117,33 @@
                         El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="col-md-3"></div>
+            <div class="card" style="border-color: #ee2929">
+                <img class="card-img-top" src="img/grand_opening_spa.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Gran Apertura</h5>
+                    <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
+                        Para Reservaciones: <br>
+                        Chinito - (646) 484-0030 <br>
+                        Keiry - (401) 215-7824 <br>
+                        Ligia - (401) 639-2136
+                        <br><br>
+                        <strong>Date: Jueves, Julio 16th</strong><br>
+                        <strong>Start: 5pm</strong><br>
+                        <strong>End: 12am</strong><br>
+                        <br>
+                    </p>
+                </div>
+                <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                        El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
+                </div>
+
+                <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                        El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
+                </div>
+            </div>
+            <!--div class="col-md-3"></div-->
         </div>
     </div>
     <div class="col-md-6"></div>

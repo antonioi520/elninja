@@ -27,9 +27,8 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
-    <link href="css/gallery.css" rel="stylesheet">
     <link href="css/mobile.css" rel="stylesheet">
-    <link href="css/menu.css" rel="stylesheet">
+    <link href="css/services.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
@@ -51,8 +50,8 @@
             <img class="d-block w-100" src="img/Interior/6.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
-                    <div class="">
-                        <h1 class="menu-heading menuHeaderText animated fadeInDown" style="top:-10px;">Takeout</h1>
+                    <div class="serviceHeaderBox">
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Takeout</h1>
                     </div>
                 </center>
             </div>
@@ -60,12 +59,11 @@
     </div>
 </div>
 
-</div>
 <section id="about" style="padding-bottom:10px;">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="section-title" style="font-family: 'Poppins'; letter-spacing: 0.05em;font-size: 3.125em;">Take Out</h1>
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">TakeOut</h1>
                 <div class="section-title-divider" style="background-color: red;"></div>
                 <br id="content-mobile">
             </div>
@@ -73,9 +71,15 @@
     </div>
 </section>
 
-<center>
-    <img src="img/wip.png" style="width: 50%; height: 50%;">
-</center>
+<div class="container">
+    <div class="row">
+        <center>
+            <img src="img/coming-soon-sign.png" style="width: 70%; height: 90%; overflow:hidden;">
+        </center>
+    </div>
+</div>
+
+<br><br>
 
 <br>
 <?php include("views/footer.html")?>
