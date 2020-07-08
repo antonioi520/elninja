@@ -325,8 +325,9 @@
                             <!-- captcha-->
                             <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
                         </div>
-
                         <div class="text-center"><button style="background-color: #ee2929;" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                        <div id="sendmessage">Your request has been sent. Thank you!</div>
+                        <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     </form>
                 </div>
             </div>
