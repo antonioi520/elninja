@@ -41,10 +41,13 @@
                             <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
-                    <a href="#bio" id="content-hide">
-                        <img src="img/ninja_cutout.png" id="content-hide" style="height: 350px; width: 260px; float: right; margin-top: -90px;">
+                    <a href="#bio" class="" id="content-desktop896">
+                        <img src="img/ninja_cutout.png" class="ninjacutout" id="" style="">
                     </a>
                 </div>
+                <a href="#bio" class="" id="content-mobile896">
+                    <img src="img/ninja_cutout.png" class="ninjacutout" id="" style="">
+                </a>
             </div>
         </div>
     </div>
@@ -52,7 +55,7 @@
 
 <!--br><br>
 
-<!--div>
+<--div>
     <center>
         <img id="content-desktop896" style="max-width: 30%; max-height:30%;" src="img/comingsoon.jpg">
         <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
@@ -118,7 +121,7 @@
 
     <div class="container wow fadeInUp">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12" id="content-desktop896">
                 <p>Mitsuhisa Nishio, better known to the public as “El Ninja”, is a world-renowned chef who specializes in Asian-Latin fusion cuisine. Despite being of full Japanese descent, Chef Ninja was born and raised in Constanza - a lovely town in the Dominican Republic.
                     <br><br>
 
@@ -133,7 +136,30 @@
 
                     Despite not attending culinary school for his craft, Chef Ninja has elevated to heights that only few other chefs have reached. Not only has he established himself in his city of New York as “El Rey del Sushi Aplatanao” but he has also sold out venues city after city, month after month. He has been invited by Yankee Stadium to be their guest chef both 2011 and  2019. He has also done private events for the likes of artists such as Farruko, Anuel AA, and Ivy Queen.  In 2020, Chef Ninja opened his first restaurant <i><b>El Ninja Latin Fusion/Sushi Restaurant</b></i> in Providence, Rhode Island and plans to continue expanding his brand and imprint in the culinary world. It is without a doubt that he is truly “El Rey del Sushi Aplatanao”. No bulto.
                     <br> <br>
-                </p>
+              </p>
+
+            </div>
+            <div class="col-lg-12" id="content-mobile896">
+                <p>Mitsuhisa Nishio, better known to the public as “El Ninja”, is a world-renowned chef who specializes in Asian-Latin fusion cuisine. Despite being of full Japanese descent, Chef Ninja was born and raised in Constanza - a lovely town in the Dominican Republic.<span id="dots">...</span><span id="more">
+                    <br><br>
+
+                    There is no doubt that Ninja takes pride in both of his co-cultures. This sense of pride is displayed through his art where he fuses traditional Japanese foods with the savory, full of taste ingredients of Dominican cuisine. Although the food of said cultures are so different, Chef Ninja has found a way to perfectly bridge the gap between his two nationalities through his eccentric dishes. What’s more Japanese-Dominican than a sushi roll with sweet plantains placed on top?
+                    <br> <br>
+
+                    When living in Constanza, Ninja’s mother taught him how to make a variety of traditional Japanese dishes. He learned much of what he knows about Japanese cuisine by cooking those same home made meals for his friends growing up. His culinary career officially began in New York when he was given the opportunity to create a menu for an Asian Latin bar and run the kitchen in 2003. As the years went on, Nishio continued to establish his name and food in the tri-state area; working for restaurants such as Mama Sushi, TAO, and Sushi Mambo to name a few. Fast forward to now, and everyone in New York knows about Ninja’s famous “Sushi Aplatanao”.
+                    <br> <br>
+
+                    After making a name for himself and leaving his mark on New York, Chef Ninja relocated to Miami for a few years where he created menus for a few businesses. During this time, the chef started attracting an incredible amount of virality and buzz on social media.  It is one thing for the people to love your food. It’s another for them to love you. Ninja’s charisma and persona won over the hearts of hundreds of thousands of people all over the world; garnering over 100,000 followers on Instagram in the span of a few months and millions of views on videos on YouTube and Facebook. He ultimately ended up moving back to NYC and in 2018 he set out on his “No Bulto” Tour. Ninja and his staff hit the road, taking his menu to food lovers all over the USA. North Carolina, California, Massachusetts, Rhode Island, Philadelphia, just to name a few.
+                    <br> <br>
+
+                    Despite not attending culinary school for his craft, Chef Ninja has elevated to heights that only few other chefs have reached. Not only has he established himself in his city of New York as “El Rey del Sushi Aplatanao” but he has also sold out venues city after city, month after month. He has been invited by Yankee Stadium to be their guest chef both 2011 and  2019. He has also done private events for the likes of artists such as Farruko, Anuel AA, and Ivy Queen.  In 2020, Chef Ninja opened his first restaurant <i><b>El Ninja Latin Fusion/Sushi Restaurant</b></i> in Providence, Rhode Island and plans to continue expanding his brand and imprint in the culinary world. It is without a doubt that he is truly “El Rey del Sushi Aplatanao”. No bulto.
+                    <br> <br>
+               </span><a id="readMore" href="#bio" onClick="ReadMoreFunction()" class="introLearn" style="text-decoration: none;">
+                        Read More
+                        <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+                        <br id="content-mobile896"><br id="content-mobile896">
+                    </a></p>
+
             </div>
         </div>
     </div>
@@ -439,6 +465,23 @@
         e.preventDefault();
         scrollToTop();
     };
+</script>
+<script>
+    function ReadMoreFunction() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("readMore");
+
+        if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more";
+            moreText.style.display = "none";
+        } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less";
+            moreText.style.display = "inline";
+        }
+    }
 </script>
 </body>
 </html>

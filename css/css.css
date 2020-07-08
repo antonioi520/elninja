@@ -64,6 +64,12 @@ p {
     color: #666666;
     margin: 0px;
 }
+.readMoreText{
+
+}
+a.pointer {
+    cursor: pointer;
+}
 .nav-item a{
     font-family: Montserrat-Regular;
     transition: 0.5s;
@@ -146,9 +152,17 @@ p {
     color:white;
 }
 .headerwrapper {
-    //position: relative;
+    position: relative;
     text-align: center;
     max-width: 100%;
+}
+#more {display: none;}
+.ninjacutout{
+    height: 350px;
+    width: 260px;
+    float: right;
+    margin-top: -61px;
+
 }
 .headericons{
     padding-top: 1em;
@@ -578,6 +592,12 @@ p {
     #hero #box{
         padding-right: 1em;
         width: 250px;
+    }
+
+    .ninjacutout{
+        position: absolute;
+        right:0;
+        bottom:0;
     }
 
 }
