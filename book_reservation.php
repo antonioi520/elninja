@@ -6,10 +6,9 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     && isset($_POST['event_type']) && isset($_POST['attendees']) && isset($_POST['date'])
     && isset($_POST['hours_start']) && isset($_POST['special_request'])) {
 
-    $email_to = "antonioi19961@gmail.com";
-    $email_to2 = "younglubackup@gmail.com";
-    //$email_to = "chinito@elninjari.com";
-    //$email_to2 = "ninja@elninjari.com";
+    $email_to = "chinito@elninjari.com";
+    $email_to2 = "ninja@elninjari.com";
+    $email_to3 = "younglubackup@gmail.com";
     $email_subject = "El Ninja Reservations - " . $_POST['name'];
 
     function died($error)
@@ -86,6 +85,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
         'X-Mailer: PHP/' . phpversion();
     @mail($email_to, $email_subject, $email_message, $headers);
     @mail($email_to2, $email_subject, $email_message, $headers);
+    @mail($email_to3, $email_subject, $email_message, $headers);
 }
 ?>
 

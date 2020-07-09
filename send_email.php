@@ -4,10 +4,9 @@
 <?php
 if(isset($_POST['email'])) {
 
-    $email_to = "antonioi19961@gmail.com";
-    $email_to2 = "younglubackup@gmail.com";
-    //$email_to = "chinito@elninjari.com";
-    //$email_to2 = "ninja@elninjari.com";
+    $email_to = "chinito@elninjari.com";
+    $email_to2 = "ninja@elninjari.com";
+    $email_to3 = "younglubackup@gmail.com";
     $email_subject = "El Ninja Restaurant - " . $_POST['subject'];
 
     function died($error)
@@ -72,6 +71,7 @@ if(isset($_POST['email'])) {
         'X-Mailer: PHP/' . phpversion();
     @mail($email_to, $email_subject, $email_message, $headers);
     @mail($email_to2, $email_subject, $email_message, $headers);
+    @mail($email_to3, $email_subject, $email_message, $headers);
 }
     ?>
      
