@@ -162,7 +162,27 @@ a.pointer {
     width: 260px;
     float: right;
     margin-top: -61px;
-
+    z-index: 11;
+}
+@media (max-width: 1920px){
+    .ninjacutout{
+        margin-top: -99px;
+    }
+}
+@media (max-width: 1700px){
+    .ninjacutout{
+        margin-top: -61px;
+    }
+}
+@media (max-width: 1400px){
+    .ninjacutout{
+        margin-top: -31px;
+    }
+}
+@media (max-width: 1200px){
+    .ninjacutout{
+        margin-top: -1px;
+    }
 }
 .headericons{
     padding-top: 1em;
