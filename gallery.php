@@ -1028,7 +1028,7 @@
 
             <!-- Caption text -->
             <div class="caption-container" style="height: 25px;">
-                <p id="captionmenu" style="color:white;""></p>
+                <p id="captionmenu" style="color:white;"></p>
             </div>
         </div>
     </div>
