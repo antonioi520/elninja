@@ -62,9 +62,6 @@
 
 </div>
 
-
-
-
 <div class="container">
 <!--    <h1 class="menu-heading">Gallery</h1>-->
     <center>
@@ -72,7 +69,7 @@
     </center>
     <br>
     <hr>
-    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Food</h2>
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Food & Drinks</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
     <div class="gallery-border">
@@ -146,11 +143,28 @@
             <div class="column">
                 <img id="galleryImg" src="img/FoodThumbs/ElNinjaFood-23.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(23)" class="hover-shadow cursor">
             </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ENR-Tasting-2.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(24)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ENR-Tasting-4.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(25)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ENR-Tasting-21.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(26)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ENR-Tasting-38.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(27)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ENR-Tasting-44.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(28)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/FoodThumbs/ENR-Tasting-46.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(29)" class="hover-shadow cursor">
+            </div>
         </div>
     </div>
 
     <br>
-
 
     <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Interior</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
@@ -177,6 +191,21 @@
             </div>
             <div class="column">
                 <img id="galleryImg" src="img/InteriorThumbs/7.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(7)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/InteriorThumbs/ENR-Tasting-3.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(8)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/InteriorThumbs/ENR-Tasting-5.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(9)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/InteriorThumbs/ENR-Tasting-6.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(10)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/InteriorThumbs/ENR-Tasting-9.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(11)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/InteriorThumbs/ENR-Tasting-11.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(12)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -411,6 +440,33 @@
             <div class="column">
                 <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-54.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(58)" class="hover-shadow cursor">
             </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-18.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(59)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-19.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(60)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-22.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(61)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-23.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(62)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-29.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(63)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-36.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(64)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-41.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(65)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-47.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(66)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-48.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(67)" class="hover-shadow cursor">
+            </div>
         </div>
     </div>
 
@@ -468,10 +524,10 @@
         </div>
     </div>
 
+    <!--br>
+    <!--?php include("views/Gallery/el_ninja_weekend.html") ?>
     <br>
-    <?php include("views/Gallery/el_ninja_weekend.html") ?>
-    <br>
-    <?php include("views/Gallery/el_ninja_valentines.html") ?>
+    <!--?php include("views/Gallery/el_ninja_valentines.html") ?-->
     <br>
 
     <div id="foodModal" class="modal">
@@ -479,105 +535,129 @@
         <div class="modal-content">
 
             <div class="foodSlides">
-                <div class="numbertext">1 / 23</div>
+                <div class="numbertext">1 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-1.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">2 / 23</div>
+                <div class="numbertext">2 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-2.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">3 / 23</div>
+                <div class="numbertext">3 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-3.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">4 / 23</div>
+                <div class="numbertext">4 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-4.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">5 / 23</div>
+                <div class="numbertext">5 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-5.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">6 / 23</div>
+                <div class="numbertext">6 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-6.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">7 / 23</div>
+                <div class="numbertext">7 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-7.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">8 / 23</div>
+                <div class="numbertext">8 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-8.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">9 / 23</div>
+                <div class="numbertext">9 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-9.jpg" style="width:100%" alt="">
             </div>
 
             <div class="foodSlides">
-                <div class="numbertext">10 / 23</div>
+                <div class="numbertext">10 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-10.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">11 / 23</div>
+                <div class="numbertext">11 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-11.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">12 / 23</div>
+                <div class="numbertext">12 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-12.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">13 / 23</div>
+                <div class="numbertext">13 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-13.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">14 / 23</div>
+                <div class="numbertext">14 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-14.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">15 / 23</div>
+                <div class="numbertext">15 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-15.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">16 / 23</div>
+                <div class="numbertext">16 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-16.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">17 / 23</div>
+                <div class="numbertext">17 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-17.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">18 / 23</div>
+                <div class="numbertext">18 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-18.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">19 / 23</div>
+                <div class="numbertext">19 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-19.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">20 / 23</div>
+                <div class="numbertext">20 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-20.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">21 / 23</div>
+                <div class="numbertext">21 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-21.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">22 / 23</div>
+                <div class="numbertext">22 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-22.jpg" style="width:100%" alt="">
             </div>
             <div class="foodSlides">
-                <div class="numbertext">23 / 23</div>
+                <div class="numbertext">23 / 29</div>
                 <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ElNinjaFood-23.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">24 / 29</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ENR-Tasting-2.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">25 / 29</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ENR-Tasting-4.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">26 / 29</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ENR-Tasting-21.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">27 / 29</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ENR-Tasting-38.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">28 / 29</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ENR-Tasting-44.jpg" style="width:100%" alt="">
+            </div>
+            <div class="foodSlides">
+                <div class="numbertext">29 / 29</div>
+                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/ENR-Tasting-46.jpg" style="width:100%" alt="">
             </div>
 
             <a class="prev" onclick="plusFoodSlides(-1)">&#10094;</a>
@@ -596,38 +676,58 @@
         <div class="modal-content">
 
             <div class="interiorSlides">
-                <div class="numbertext">1 / 7</div>
+                <div class="numbertext">1 / 12</div>
                 <img id="interiorImg" src="img/Interior/1.jpeg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">2 / 7</div>
+                <div class="numbertext">2 / 12</div>
                 <img id="interiorImg" src="img/Interior/2.jpeg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">3 / 7</div>
+                <div class="numbertext">3 / 12</div>
                 <img id="interiorImg" src="img/Interior/3.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">4 / 7</div>
+                <div class="numbertext">4 / 12</div>
                 <img id="interiorImg" src="img/Interior/4.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">5 / 7</div>
+                <div class="numbertext">5 / 12</div>
                 <img id="interiorImg" src="img/Interior/5.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">6 / 7</div>
+                <div class="numbertext">6 / 12</div>
                 <img id="interiorImg" src="img/Interior/6.jpg" style="width:100%">
             </div>
 
             <div class="interiorSlides">
-                <div class="numbertext">7 / 7</div>
+                <div class="numbertext">7 / 12</div>
                 <img id="interiorImg" src="img/Interior/7.jpg" style="width:100%">
+            </div>
+            <div class="interiorSlides">
+                <div class="numbertext">8 / 12</div>
+                <img id="interiorImg" src="img/Interior/ENR-Tasting-3.jpg" style="width:100%">
+            </div>
+            <div class="interiorSlides">
+                <div class="numbertext">9 / 12</div>
+                <img id="interiorImg" src="img/Interior/ENR-Tasting-5.jpg" style="width:100%">
+            </div>
+            <div class="interiorSlides">
+                <div class="numbertext">10 / 12</div>
+                <img id="interiorImg" src="img/Interior/ENR-Tasting-6.jpg" style="width:100%">
+            </div>
+            <div class="interiorSlides">
+                <div class="numbertext">11 / 12</div>
+                <img id="interiorImg" src="img/Interior/ENR-Tasting-9.jpg" style="width:100%">
+            </div>
+            <div class="interiorSlides">
+                <div class="numbertext">12 / 12</div>
+                <img id="interiorImg" src="img/Interior/ENR-Tasting-11.jpg" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusInteriorSlides(-1)">&#10094;</a>
@@ -716,241 +816,278 @@
         <div class="modal-content">
 
             <div class="staffSlides">
-                <div class="numbertext">1 / 58</div>
+                <div class="numbertext">1 / 67</div>
                 <img id="staffImg" src="img/Staff/s1.JPG" style="width:100%">
             </div>
 
             <div class="staffSlides">
-                <div class="numbertext">2 / 58</div>
+                <div class="numbertext">2 / 67</div>
                 <img id="staffImg" src="img/Staff/s2.JPG" style="width:100%">
             </div>
 
             <div class="staffSlides">
-                <div class="numbertext">3 / 58</div>
+                <div class="numbertext">3 / 67</div>
                 <img id="staffImg" src="img/Staff/s3.JPG" style="width:100%">
             </div>
 
             <div class="staffSlides">
-                <div class="numbertext">4 / 58</div>
+                <div class="numbertext">4 / 67</div>
                 <img id="staffImg" src="img/Staff/s4.JPG" style="width:100%">
             </div>
 
             <div class="staffSlides">
-                <div class="numbertext">5 / 58</div>
+                <div class="numbertext">5 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-1.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">6 / 58</div>
+                <div class="numbertext">6 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-2.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">7 / 58</div>
+                <div class="numbertext">7 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-3.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">8 / 58</div>
+                <div class="numbertext">8 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-4.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">9 / 58</div>
+                <div class="numbertext">9 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-5.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">10 / 58</div>
+                <div class="numbertext">10 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-6.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">11 / 58</div>
+                <div class="numbertext">11 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-7.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">12 / 58</div>
+                <div class="numbertext">12 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-8.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">13 / 58</div>
+                <div class="numbertext">13 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-9.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">14 / 58</div>
+                <div class="numbertext">14 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-10.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">15 / 58</div>
+                <div class="numbertext">15 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-11.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">16 / 58</div>
+                <div class="numbertext">16 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-12.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">17 / 58</div>
+                <div class="numbertext">17 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-13.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">18 / 58</div>
+                <div class="numbertext">18 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-14.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">19 / 58</div>
+                <div class="numbertext">19 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-15.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">20 / 58</div>
+                <div class="numbertext">20 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-16.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">21 / 58</div>
+                <div class="numbertext">21 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-17.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">22 / 58</div>
+                <div class="numbertext">22 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-18.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">23 / 58</div>
+                <div class="numbertext">23 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-19.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">24 / 58</div>
+                <div class="numbertext">24 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-20.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">25 / 58</div>
+                <div class="numbertext">25 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-21.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">26 / 58</div>
+                <div class="numbertext">26 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-22.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">27 / 58</div>
+                <div class="numbertext">27 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-23.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">28 / 58</div>
+                <div class="numbertext">28 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-24.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">29 / 58</div>
+                <div class="numbertext">29 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-25.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">30 / 58</div>
+                <div class="numbertext">30 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-26.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">31 / 58</div>
+                <div class="numbertext">31 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-27.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">32 / 58</div>
+                <div class="numbertext">32 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-28.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">33 / 58</div>
+                <div class="numbertext">33 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-29.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">34 / 58</div>
+                <div class="numbertext">34 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-30.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">35 / 58</div>
+                <div class="numbertext">35 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-31.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">36 / 58</div>
+                <div class="numbertext">36 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-32.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">37 / 58</div>
+                <div class="numbertext">37 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-33.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">38 / 58</div>
+                <div class="numbertext">38 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-34.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">39 / 58</div>
+                <div class="numbertext">39 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-35.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">40 / 58</div>
+                <div class="numbertext">40 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-36.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">41 / 58</div>
+                <div class="numbertext">41 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-37.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">42 / 58</div>
+                <div class="numbertext">42 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-38.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">43 / 58</div>
+                <div class="numbertext">43 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-39.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">44 / 58</div>
+                <div class="numbertext">44 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-40.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">45 / 58</div>
+                <div class="numbertext">45 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-41.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">46 / 58</div>
+                <div class="numbertext">46 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-42.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">47 / 58</div>
+                <div class="numbertext">47 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-43.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">48 / 58</div>
+                <div class="numbertext">48 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-44.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">49 / 58</div>
+                <div class="numbertext">49 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-45.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">50 / 58</div>
+                <div class="numbertext">50 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-46.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">51 / 58</div>
+                <div class="numbertext">51 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-47.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">52 / 58</div>
+                <div class="numbertext">52 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-48.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">53 / 58</div>
+                <div class="numbertext">53 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-49.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">54 / 58</div>
+                <div class="numbertext">54 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-50.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">55 / 58</div>
+                <div class="numbertext">55 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-51.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">56 / 58</div>
+                <div class="numbertext">56 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-52.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">57 / 58</div>
+                <div class="numbertext">57 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-53.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">58 / 58</div>
+                <div class="numbertext">58 / 67</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-54.jpg" style="width:100%">
             </div>
+            <div class="staffSlides">
+                <div class="numbertext">59 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-18.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">60 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-19.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">61 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-22.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">62 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-23.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">63 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-29.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">64 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-36.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">65 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-41.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">66 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-47.jpg" style="width:100%">
+            </div>
+            <div class="staffSlides">
+                <div class="numbertext">67 / 67</div>
+                <img id="staffImg" src="img/Staff/ENR-Tasting-48.jpg" style="width:100%">
+            </div>
+
 
             <a class="prev" onclick="plusStaffSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusStaffSlides(1)">&#10095;</a>
