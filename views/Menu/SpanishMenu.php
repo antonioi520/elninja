@@ -427,7 +427,7 @@
                     <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
+                            <span class="menu-item-title2">PURÉ DE PAPA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
@@ -462,12 +462,12 @@
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">PAPAS FRITAS
+                            <span class="menu-item-title2">PAPA FRITA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">YUCAS FRTAS
+                            <span class="menu-item-title2">YUCA FRTA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
@@ -577,7 +577,7 @@
                             <span class="menu-item-title2">MISO SOUP
                             <span class="menu-item-price2"> $5</span>
                             </span>
-                        <p class="menu-item-description2">Nuestra sopa Japonesa tradicional; soybean, tofu, seaweed, cebolletas.</p>
+                        <p class="menu-item-description2">Nuestra sopa Japonesa tradicional; soybean, tofu.</p>
                     </div>
                 </div>
             </div>
@@ -1085,7 +1085,7 @@
                     <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
+                            <span class="menu-item-title2">PURÉ DE PAPA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
@@ -1120,12 +1120,12 @@
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">PAPAS FRITAS
+                            <span class="menu-item-title2">PAPA FRITA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">YUCAS FRTAS
+                            <span class="menu-item-title2">YUCA FRTA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
@@ -1143,7 +1143,7 @@
                             <span class="menu-item-title2">MISO SOUP
                             <span class="menu-item-price2"> $5</span>
                             </span>
-                        <p class="menu-item-description2">Nuestra sopa Japonesa tradicional; soybean, tofu, seaweed, cebolletas.</p>
+                        <p class="menu-item-description2">Nuestra sopa Japonesa tradicional; soybean, tofu.</p>
                     </div>
                 </div>
             </div>
