@@ -613,5 +613,52 @@ p {
     height: 100%;
     outline: none;
 }
+.lang-button1 {
+    background: none;
+    border: 0;
+    box-sizing: border-box;
+    margin: .25em;
+    padding: .25em .5em;
+    box-shadow: inset 0 0 0 2px black;
+    color: black;
+    font-size: inherit;
+    font-weight: 700;
+    position: relative;
+    vertical-align: middle;
+    outline: none;
+    width:100px;
+}
+.lang-button1::before, button::after {
+    box-sizing: inherit;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    outline: none;
+}
 
+.meet1:hover {
 
+    
+    outline: none;
+}
+.meet1::after {
+    top: 0;
+    left: 0;
+    outline: none;
+}
+.meet1:hover::before {
+    border-top-color: #fbca67;
+    border-right-color: #fbca67;
+    outline: none;
+}
+.meet1:hover::after {
+    border-bottom-color: #fbca67;
+    border-left-color: #fbca67;
+    transition: height 0.25s ease-out, width 0.25s ease-out 0.25s;
+    outline: none;
+}
+.meet1:focus{
+    transform: scale(1.08);
+    outline: none;
+}

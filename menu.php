@@ -97,18 +97,43 @@
 </div>
 
 <div class="container">
+
     <div style="text-align: center;margin-bottom: 5px;">
-        <button class="draw meet lang-button" type="button" onclick="myFunction()">English</button>
-        <button class="draw meet lang-button" type="button" onclick="myFunction1()">Español</button>
+        <button class=" meet1 lang-button1" type="button" onclick="Restaurant()">Restaurant</button>
+        <button class=" meet1 lang-button1" type="button" onclick="Takeout()">Takeout</button>
     </div>
 
+    <div id="restarauntMenu">
+        <div style="text-align: center;margin-bottom: 5px;">
+            <button class="draw meet lang-button" type="button" onclick="myFunction()">English</button>
+            <button class="draw meet lang-button" type="button" onclick="myFunction1()">Español</button>
+        </div>
 
-    <div id="english">
-        <?php include 'views/Menu/EnglishMenu.php' ?>
+
+        <div id="english">
+            <?php include 'views/Menu/EnglishMenu.php' ?>
+        </div>
+        <div style="display:none" id="spanish">
+            <?php include 'views/Menu/SpanishMenu.php' ?>
+        </div>
     </div>
-    <div style="display:none" id="spanish">
-        <?php include 'views/Menu/SpanishMenu.php' ?>
+
+    <div style="display:none" id="takeoutMenu">
+        <div style="text-align: center;margin-bottom: 5px;">
+            <button class="draw meet lang-button" type="button" onclick="myFunctionT()">English</button>
+            <button class="draw meet lang-button" type="button" onclick="myFunction1T()">Español</button>
+        </div>
+
+
+        <div id="englishT">
+            <?php include 'views/Menu/TakeoutMenu.php' ?>
+        </div>
+        <div style="display:none" id="spanishT">
+            <?php include 'views/Menu/TakeoutMenuSpanish.php' ?>
+        </div>
+
     </div>
+
 
 
     <br>
@@ -163,6 +188,23 @@
     };
 </script>
 <script>
+    function Restaurant() {
+        var x = document.getElementById("restarauntMenu");
+        var y = document.getElementById("takeoutMenu");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+    }
+    function Takeout() {
+        var x = document.getElementById("takeoutMenu");
+        var y = document.getElementById("restarauntMenu");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+    }
+
     function myFunction() {
         var x = document.getElementById("english");
         var y = document.getElementById("spanish");
@@ -179,6 +221,23 @@
             y.style.display = "none";
         }
     }
+    function myFunctionT() {
+        var x = document.getElementById("englishT");
+        var y = document.getElementById("spanishT");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+    }
+    function myFunction1T() {
+        var x = document.getElementById("spanishT");
+        var y = document.getElementById("englishT");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+    }
+
 </script>
 
 </body>
