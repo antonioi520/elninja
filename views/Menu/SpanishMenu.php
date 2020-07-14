@@ -1448,18 +1448,18 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">JAPANESE
-                            <span class="menu-item-price2"> $5</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">IMPORTED
-                            <span class="menu-item-price2"> $4</span>
+                            <span class="menu-item-price2"> $5</span>
                             </span>
                         <p class="menu-item-description2">Corona, Corona Light, Heineken, Heineken Light, Presidente, Presidente Light, Modelo, Guiness.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">DOMESTIC
-                            <span class="menu-item-price2"> $3</span>
+                            <span class="menu-item-price2"> $4</span>
                             </span>
                         <p class="menu-item-description2">Bud Light, Budweiser, Coors Light, Ginger Beers.</p>
                     </div>
