@@ -85,7 +85,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">VEGGIE TEMPURA
                                 <span class="menu-item-price" style="float:right;color:black"> $8</span>
                                 </span>
-                        <p class="menu-item-description" style="color:black">Verduras de temporada rebozadas y fritas.</p>
+                        <p class="menu-item-description" style="color:black">Vegetales de temporada rebozadas y fritas.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">EDAMAME
@@ -639,7 +639,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">VEGGIE TEMPURA
                                 <span class="menu-item-price" style="float:right;color:black"> $8</span>
                                 </span>
-                        <p class="menu-item-description" style="color:black">Verduras de temporada rebozadas y fritas.</p>
+                        <p class="menu-item-description" style="color:black">Vegetales de temporada rebozadas y fritas.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">EDAMAME
