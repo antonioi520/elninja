@@ -1373,26 +1373,6 @@
                     <h2 style="font-weight: bolder;">SPARKLINGS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Santa Margherita Prosecco di Valdobbiadene <br> Superiore Brut (Italy)
-                            <span class="menu-item-price2"> $78</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Mionetto Prosecco Brut
-                            <span class="menu-item-price2"> $72</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Villa Sandi Prosecco Fresco NV (Italy)
-                            <span class="menu-item-price2"> $48</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Luc Belaire Brut Gold Champagne (France)
-                            <span class="menu-item-price2"> $78</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
                             <span class="menu-item-title2">Moet and Chandon Nectar Imperial Rose
                             <span class="menu-item-price2"> $175</span>
                             </span>
@@ -1405,11 +1385,6 @@
                     <div class="menu-item2">
                             <span class="menu-item-title2">Moet and Chandon Imperial Brut
                             <span class="menu-item-price2"> $175</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Armand de Brignac Ace of Spades <br> Gold Brut (Champagne Brut, France)
-                            <span class="menu-item-price2"> $750</span>
                             </span>
                     </div>
                 </div>
