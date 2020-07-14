@@ -103,15 +103,12 @@
     </div>
 
 
-
     <div id="english">
         <?php include 'views/Menu/EnglishMenu.php' ?>
     </div>
     <div style="display:none" id="spanish">
         <?php include 'views/Menu/SpanishMenu.php' ?>
     </div>
-
-
 
 
     <br>
