@@ -1151,59 +1151,67 @@
         <div class="tab-pane fade" id="nav-drinks1" role="tabpanel" aria-labelledby="nav-drinks-tab1">
             <div class="menu menu-row menu-wrap menu-center" id="drinksDiv" style="margin-top: 40px;" >
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">SPECIALTY DRINKS</h2>
+                    <h2 style="font-weight: bolder;">NINJA'S MOJITOS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">EL NINJA
+                            <span class="menu-item-title2">PITCHERS
+                            <span class="menu-item-price2"> $32/$28</span>
+                            </span>
+                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $28</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">REGULAR
                             <span class="menu-item-price2"> $12</span>
-                            </span>
-                        <p class="menu-item-description2">Buchanan, passion fruit purée, lime juice and simple syrup.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">MI ALMA PERFECT MARGARITA
+                            <span class="menu-item-title2">COCONUT
                             <span class="menu-item-price2"> $12</span>
-                            </span>
-                        <p class="menu-item-description2">Patrón, cointreau and lime juice.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">CHINITO MOJITO
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Brujal, ginger ale, lime, mint and simple syrup.</p>
+                            <span class="menu-item-title2">GUAVA
+                            <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">COCONUT MOJITO
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Coconut rum, light rum, coconut milk and club soda.</p>
+                            <span class="menu-item-title2">STRAWBERRY
+                            <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">PASSION MOJITO
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Rum, passion fruit purée, lime juice and simple syrup.</p>
+                            <span class="menu-item-title2">CHINOLA
+                            <span class="menu-item-price2"> $12</span>
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">SAKE SHOTS</h2>
+                    <h2 style="font-weight: bolder;">NINJARITAS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">TRADITIONAL SAKE BOMB
-                            <span class="menu-item-price2"> $7</span>
+                            <span class="menu-item-title2">PITCHERS
+                            <span class="menu-item-price2"> $32/$28</span>
                             </span>
-                        <p class="menu-item-description2">Cold sake and Japanese/Sapporo beer.</p>
+                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $28</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">SKITTLE BOMB
-                            <span class="menu-item-price2"> $7</span>
-                            </span>
-                        <p class="menu-item-description2">Red Bull, skittles and cointreau.</p>
+                            <span class="menu-item-title2">REGULAR
+                            <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">CORO SAKE
-                            <span class="menu-item-price2"> $6</span>
-                            </span>
-                        <p class="menu-item-description2">Corona, tequila silver, salt and lime.</p>
+                            <span class="menu-item-title2">LA ROJA (STRAWBERRY)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">AZUL (BLUE CARACAO)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">AMBER (GUAVA)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">VEIDE (MANGO)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">AMARILLO (PASSION FRUIT)
+                            <span class="menu-item-price2"> $12</span>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1259,25 +1267,31 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">MARTINI</h2>
+                    <h2 style="font-weight: bolder;">JUICES</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">CUCUMBER-TINI
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Gin, cucumber juice, simple syrup and wasabi.</p>
+                            <span class="menu-item-title2">VIRGIN NINJA PUNCH
+                            <span class="menu-item-price2"> $7</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">SAKE-TINI
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Gin, sake and ginger for garnish.</p>
+                            <span class="menu-item-title2">CHINOLA
+                            <span class="menu-item-price2"> $6</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">WASABI-TINI
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Vodka, sake, ginger, olives and wasabi.</p>
+                            <span class="menu-item-title2">LIMONADA
+                            <span class="menu-item-price2"> $6</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">MORIR SOÑANDO
+                            <span class="menu-item-price2"> $6</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">MANGO
+                            <span class="menu-item-price2"> $6</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">GUAVA
+                            <span class="menu-item-price2"> $6</span>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1325,7 +1339,7 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">RED WINE</h2>
+                    <h2 style="font-weight: bolder;">RED WINE (BY THE BOTTLE)</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">Chateau Ste Michelle Merlot (Columbia Valley)
@@ -1338,7 +1352,7 @@
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Chateau Ste Michelle Cabernet Sauvignon <br> (Columbia Valley)
+                            <span class="menu-item-title2">Chateau Ste Michelle Cabernet Sauvignon<br> (Columbia Valley)
                             <span class="menu-item-price2"> $54</span>
                             </span>
                     </div>
