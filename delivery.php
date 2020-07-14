@@ -51,7 +51,7 @@
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Takeout</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Delivery</h1>
                     </div>
                 </center>
             </div>
@@ -63,7 +63,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">TakeOut</h1>
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">Delivery</h1>
                 <div class="section-title-divider" style="background-color: red;"></div>
                 <br id="content-mobile">
             </div>
