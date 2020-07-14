@@ -1287,7 +1287,7 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">WHITE WINE</h2>
+                    <h2 style="font-weight: bolder;">WHITE WINE (BY THE BOTTLE)</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">Bogle Phantom Chardonnay (California)
@@ -1297,11 +1297,6 @@
                     <div class="menu-item2">
                             <span class="menu-item-title2">Chateau Ste Michelle Chardonnay <br> (Colombia Valley, Washington)
                             <span class="menu-item-price2"> $40</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Bogle Chardonnay (California)
-                            <span class="menu-item-price2"> $36</span>
                             </span>
                     </div>
                     <div class="menu-item2">
@@ -1315,18 +1310,8 @@
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Voga Moscato (Italy)
-                            <span class="menu-item-price2"> $40</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
                             <span class="menu-item-title2">Santa Margherita Pinot Grigio (Italy)
                             <span class="menu-item-price2"> $72</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Banfi Pinot Grigio San Angelo (Tuscany)
-                            <span class="menu-item-price2"> $58</span>
                             </span>
                     </div>
                     <div class="menu-item2">
@@ -1336,16 +1321,21 @@
                     </div>
                 </div>
                 <div class="entrees">
+                    <h2 style="font-weight: bolder;">WHITE WINE (BY THE GLASS)</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">House White
+                            <span class="menu-item-price2"> $8</span>
+                            </span>
+                        <p class="menu-item-description2">Pinot Grigio <br>Chardonay <br>Moscato <br>Rose</p>
+                    </div>
+                </div>
+                <div class="entrees">
                     <h2 style="font-weight: bolder;">RED WINE</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">Chateau Ste Michelle Merlot (Columbia Valley)
                             <span class="menu-item-price2"> $54</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Chateau Montelena Merlot (Napa Valley)
-                            <span class="menu-item-price2"> $148</span>
                             </span>
                     </div>
                     <div class="menu-item2">
@@ -1363,29 +1353,15 @@
                             <span class="menu-item-price2"> $144</span>
                             </span>
                     </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Josh Cellars California Cabernet Sauvignon <br> (California)
-                            <span class="menu-item-price2"> $40</span>
-                            </span>
-                    </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">SPARKLINGS</h2>
+                    <h2 style="font-weight: bolder;">RED WINE (BY THE GLASS)</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Moet and Chandon Nectar Imperial Rose
-                            <span class="menu-item-price2"> $175</span>
+                            <span class="menu-item-title2">House Red
+                            <span class="menu-item-price2"> $8</span>
                             </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Moet and Chandon Ice Imperial
-                            <span class="menu-item-price2"> $200</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Moet and Chandon Imperial Brut
-                            <span class="menu-item-price2"> $175</span>
-                            </span>
+                        <p class="menu-item-description2">Garnacha <br>Merlot <br>Cabernet Sauvignon</p>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1405,6 +1381,25 @@
                             <span class="menu-item-title2">GINGER PEACH SANGRIA
                             <span class="menu-item-price2"> $12</span>
                             <p class="menu-item-description2">White Wine, grand marnier, ginger juice, peaches, lemon and mint.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">SPARKLINGS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moet and Chandon Nectar Imperial Rose
+                            <span class="menu-item-price2"> $175</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moet and Chandon Ice Imperial
+                            <span class="menu-item-price2"> $200</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moet and Chandon Imperial Brut
+                            <span class="menu-item-price2"> $175</span>
+                            </span>
                     </div>
                 </div>
                 <div class="entrees">
