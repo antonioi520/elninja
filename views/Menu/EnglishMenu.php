@@ -1389,33 +1389,22 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">MARGARITAS/SANGRIAS</h2>
+                    <h2 style="font-weight: bolder;">SANGRIAS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">STRAWBERRY PROSECCO MARGARITA
-                            <span class="menu-item-price2"> $12</span>
+                            <span class="menu-item-title2">PITCHERS
+                            <span class="menu-item-price2"> $32/$20</span>
                             </span>
-                        <p class="menu-item-description2">Tequila silver, prosecco, lemonade, strawberries blend and lime.</p>
+                        <p class="menu-item-description2">Full Pitcher - $32, 1/2 Pitcher - $20.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">MARGRIA
-                            <span class="menu-item-price2"> $11</span>
-                            <p class="menu-item-description2">White wine, tequila, orange liqueur.</p>
+                            <span class="menu-item-title2">RED/WHITE
+                            <span class="menu-item-price2"> $10</span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">GINGER PEACH SANGRIA
                             <span class="menu-item-price2"> $12</span>
                             <p class="menu-item-description2">White Wine, grand marnier, ginger juice, peaches, lemon and mint.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">BLUE CoronaRita
-                            <span class="menu-item-price2"> $12</span>
-                            <p class="menu-item-description2">Tequila, corona, blue curacao, sour mix and lime.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">CoronaRita
-                            <span class="menu-item-price2"> $12</span>
-                            <p class="menu-item-description2">Tequila, corona, triple sec, sour mix and lime.</p>
                     </div>
                 </div>
                 <div class="entrees">
