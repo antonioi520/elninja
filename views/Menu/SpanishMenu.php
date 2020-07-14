@@ -396,7 +396,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">TOMAHAWK 2:2
                                 <span class="menu-item-price" style="float:right;color:black"> $100</span>
                                 </span>
-                        <p class="menu-item-description" style="color:black">Nuestro Tomahawk de 32 onzas para dos. Acompañado con papas horneadas, verduras chinas, mazorca de maíz y teriyaki con ajo.</p>
+                        <p class="menu-item-description" style="color:black">Nuestro Tomahawk de 32 onzas para dos. Acompañado con papas horneadas, vegetales, mazorca de maíz y teriyaki con ajo.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">HANGER STEAK
@@ -408,7 +408,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">SALMON A LA ISLA
                                 <span class="menu-item-price" style="float:right;color:black"> $22</span>
                                 </span>
-                        <p class="menu-item-description" style="color:black">Salmón a la parilla con salsa asiática sobre puré de ajo y espárragos.</p>
+                        <p class="menu-item-description" style="color:black">Salmón a la parilla con salsa asiática sobre puré de papa y espárragos.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
@@ -958,7 +958,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">TOMAHAWK 2:2
                                 <span class="menu-item-price" style="float:right;color:black"> $100</span>
                                 </span>
-                        <p class="menu-item-description" style="color:black">Nuestro Tomahawk de 32 onzas para dos. Acompañado con papas horneadas, verduras chinas, mazorca de maíz y teriyaki con ajo.</p>
+                        <p class="menu-item-description" style="color:black">Nuestro Tomahawk de 32 onzas para dos. Acompañado con papas horneadas, vegetales, mazorca de maíz y teriyaki con ajo.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">HANGER STEAK
@@ -970,7 +970,7 @@
                             <span class="menu-item-title" style="color:black;font-weight: bolder">SALMON A LA ISLA
                                 <span class="menu-item-price" style="float:right;color:black"> $22</span>
                                 </span>
-                        <p class="menu-item-description" style="color:black">Salmón a la parilla con salsa asiática sobre puré de ajo y espárragos.</p>
+                        <p class="menu-item-description" style="color:black">Salmón a la parilla con salsa asiática sobre puré de papa y espárragos.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
