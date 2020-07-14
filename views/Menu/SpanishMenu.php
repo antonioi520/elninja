@@ -1207,61 +1207,55 @@
                     </div>
                 </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">COCKTAILS</h2>
+                    <h2 style="font-weight: bolder;">SPECIALTY COCKTAILS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">JAPANESE HIGHBALL
+                            <span class="menu-item-title2">NINJA PUNCH
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Jack Daniels, Peach Snapps, guava, passion fruit, blackberry & strawberry.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">FOKIN NINJA
+                            <span class="menu-item-price2"> $16</span>
+                            </span>
+                        <p class="menu-item-description2">Hennesy, Grand Marnier, passion fruit.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">JAPANESE LOVER
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Buchanan, blood orange, lime juice.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">LADY IN RED
                             <span class="menu-item-price2"> $12</span>
                             </span>
-                        <p class="menu-item-description2">Japanese Whiskey and soda water.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">THE SWIZZLE
-                            <span class="menu-item-price2"> $9</span>
-                            </span>
-                        <p class="menu-item-description2">Dark Rum, lime juice, falernum, mint and bitters.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">SWIZZLE MIDORI SOUR
-                            <span class="menu-item-price2"> $9</span>
-                            </span>
-                        <p class="menu-item-description2">Midori, vodka, sour mix and lime.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">JAPANESE 75
-                            <span class="menu-item-price2"> $9</span>
-                            </span>
-                        <p class="menu-item-description2">Gin, sparkling sake, lemon juice and simple syrup.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">MOSCOW RULE
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Vodka, lime juice and ginger beer.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">WASABI BLOODY MARY
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Vodka, tomato juice, lemon juice, soy sauce, worcestershire sauce and wasabi.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">CHINOLA SEA BREEZE
-                            <span class="menu-item-price2"> $10</span>
-                            </span>
-                        <p class="menu-item-description2">Vodka, chinola blend, grapefruit juice.</p>
+                        <p class="menu-item-description2">Gin, lime juice & strawberry.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">BLUE BREEZE
                             <span class="menu-item-price2"> $10</span>
                             </span>
-                        <p class="menu-item-description2">Vodka, Malibu rum, blue caracao, pineapple and lemonade.</p>
+                        <p class="menu-item-description2">Vodka, Malibu rum, blue curacao, pineapple.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">PACIFIC SCORPION
+                            <span class="menu-item-title2">VENENOSA
                             <span class="menu-item-price2"> $14</span>
                             </span>
-                        <p class="menu-item-description2">Coconut Vodka, pineapple juice, passion fruit, guava and watermelon blend.</p>
+                        <p class="menu-item-description2">Jack Apple, Midori, lime juice & cinammon infused syrup.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">HAPPY ENDING
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Vodka, Peach Ciroc, lime juice & rosemary infused syrup.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">HENNY COLADA
+                            <span class="menu-item-price2"> $15</span>
+                            </span>
+                        <p class="menu-item-description2">Hennesy, rum, coconut cream & pineapple juice.</p>
                     </div>
                 </div>
                 <div class="entrees">
