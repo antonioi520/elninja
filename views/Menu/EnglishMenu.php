@@ -422,59 +422,53 @@
                                 </span>
                         <p class="menu-item-description" style="color:black">A whole fresh lobster stuffed with a fresh variety of seafood, topped by Salsa de Coco with garlic mashed potatoes.</p>
                     </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title" style="color:black;font-weight: bolder">RISOTTO DOMINICANO
-                                <span class="menu-item-price" style="float:right;color:black"> $22</span>
-                                </span>
-                        <p class="menu-item-description" style="color:black">Con guandules y coco y camarones picante.</p>
-                    </div>
                 </div>
                 <div class="entrees">
                     <h2 style="font-weight: bolder;">SIDES</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">GARLIC MASHED POTATOES</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">TOSTONES
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">MADURO MASH</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">WHITE RICE</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">RICE N' BEANS</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">YUCCA MASH</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">SAUTEED VEGGIES</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">FRENCH FRIES</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">YUCCA FRIES</span>
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
 
                     </div>
                 </div>
@@ -549,7 +543,7 @@
                             <span class="menu-item-title2">FLAN
                             <span class="menu-item-price2"> $7</span>
                             </span>
-                        <p class="menu-item-description2">Our delicious sweetened egg custard, AKA creme carame.</p>
+                        <p class="menu-item-description2">Our delicious sweetened egg custard, AKA creme caramel.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">CHINOLA TRES LECHES
@@ -990,61 +984,6 @@
                                 </span>
                         <p class="menu-item-description" style="color:black">A whole fresh lobster stuffed with a fresh variety of seafood, topped by Salsa de Coco with garlic mashed potatoes.</p>
                     </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title" style="color:black;font-weight: bolder">RISOTTO DOMINICANO
-                                <span class="menu-item-price" style="float:right;color:black"> $22</span>
-                                </span>
-                        <p class="menu-item-description" style="color:black">Con guandules y coco y camarones picante.</p>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">SIDES</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">GARLIC MASHED POTATOES</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">TOSTONES
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">MADURO MASH</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">WHITE RICE</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">RICE N' BEANS</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">YUCCA MASH</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">SAUTEED VEGGIES</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">FRENCH FRIES</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
-                    <div class="menu-item2">
-                        <span class="menu-item-title2">YUCCA FRIES</span>
-                        <span class="menu-item-price2"> $4-$6</span>
-
-                    </div>
                 </div>
             </div>
         </div>
@@ -1101,7 +1040,7 @@
                             <span class="menu-item-title2">FLAN
                             <span class="menu-item-price2"> $7</span>
                             </span>
-                        <p class="menu-item-description2">Our delicious sweetened egg custard, AKA creme carame.</p>
+                        <p class="menu-item-description2">Our delicious sweetened egg custard, AKA creme caramel.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">CHINOLA TRES LECHES
@@ -1139,6 +1078,55 @@
                     <div class="menu-item2">
                             <span class="menu-item-title2">CHEESEBURGER W/ FRIES
                             <span class="menu-item-price2"> $7</span>
+
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">SIDES</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">GARLIC MASHED POTATOES</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">TOSTONES
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">MADURO MASH</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">WHITE RICE</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">RICE N' BEANS</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">YUCCA MASH</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">SAUTEED VEGGIES</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">FRENCH FRIES</span>
+                        <span class="menu-item-price2"> $6</span>
+
+                    </div>
+                    <div class="menu-item2">
+                        <span class="menu-item-title2">YUCCA FRIES</span>
+                        <span class="menu-item-price2"> $6</span>
 
                     </div>
                 </div>

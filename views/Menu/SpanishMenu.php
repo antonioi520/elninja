@@ -422,59 +422,53 @@
                                 </span>
                         <p class="menu-item-description" style="color:black">Langosta fresca rellena de mariscos mixto con Salsa de Coco por arriba. Servica con puré de ajo.</p>
                     </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title" style="color:black;font-weight: bolder">RISOTTO DOMINICANO
-                                <span class="menu-item-price" style="float:right;color:black"> $22</span>
-                                </span>
-                        <p class="menu-item-description" style="color:black">Con guandules y coco y camarones picante.</p>
-                    </div>
                 </div>
                 <div class="entrees">
                     <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">TOSTONES
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PURE DE PLATANO MADURO
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">ARROZ BLANCO
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">ARROZ CON HABICHUELA
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PURÉ DE YUCA
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">VEGETALES SALTEADO
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PAPAS FRITAS
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">YUCAS FRTAS
-                            <span class="menu-item-price2"> $4-$6</span>
+                            <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
                 </div>
@@ -990,61 +984,6 @@
                                 </span>
                         <p class="menu-item-description" style="color:black">Langosta fresca rellena de mariscos mixto con Salsa de Coco por arriba. Servica con puré de ajo.</p>
                     </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title" style="color:black;font-weight: bolder">RISOTTO DOMINICANO
-                                <span class="menu-item-price" style="float:right;color:black"> $22</span>
-                                </span>
-                        <p class="menu-item-description" style="color:black">Con guandules y coco y camarones picante.</p>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">TOSTONES
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">PURE DE PLATANO MADURO
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">ARROZ BLANCO
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">ARROZ CON HABICHUELA
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">PURÉ DE YUCA
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">VEGETALES SALTEADO
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">PAPAS FRITAS
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">YUCAS FRTAS
-                            <span class="menu-item-price2"> $4-$6</span>
-                            </span>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1140,6 +1079,55 @@
                         <span class="menu-item-title2">HAMBURGUESA CON QUESO Y PAPAS FRITAS</span>
                         <span class="menu-item-price2"> $7</span>
 
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">ACOMPAÑAMIENTOS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PURÉ DE PAPAS CON AJO
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">TOSTONES
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PURE DE PLATANO MADURO
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">ARROZ BLANCO
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">ARROZ CON HABICHUELA
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PURÉ DE YUCA
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">VEGETALES SALTEADO
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PAPAS FRITAS
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">YUCAS FRTAS
+                            <span class="menu-item-price2"> $6</span>
+                            </span>
                     </div>
                 </div>
                 <div class="entrees">
