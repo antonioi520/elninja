@@ -1155,9 +1155,9 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PITCHERS
-                            <span class="menu-item-price2"> $32/$28</span>
+                            <span class="menu-item-price2"> $32/$20</span>
                             </span>
-                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $28</p>
+                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $20</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">REGULAR
@@ -1185,9 +1185,9 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PITCHERS
-                            <span class="menu-item-price2"> $32/$28</span>
+                            <span class="menu-item-price2"> $32/$20</span>
                             </span>
-                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $28</p>
+                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $20</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">REGULAR
