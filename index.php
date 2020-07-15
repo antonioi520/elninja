@@ -42,11 +42,11 @@
                         </ul>
                     </center>
                     <a href="#bio" class="" id="content-desktop896">
-                        <img src="img/ninja_cutout.png" class="ninjacutout" id="" style="">
+                        <img src="img/ninja_cutout2.png" class="ninjacutout" id="" style="">
                     </a>
                 </div>
                 <a href="#bio" class="" id="content-mobile896">
-                    <img src="img/ninja_cutout.png" class="ninjacutout" id="" style="">
+                    <img src="img/ninja_cutout2.png" class="ninjacutout" id="" style="">
                 </a>
             </div>
         </div>
