@@ -84,6 +84,7 @@
             <div class="col-lg-3"></div>
             <div class="col-lg-6 col-lg-push-12" style="padding-bottom: 0.625em;">
                 <div class="form">
+                    <script src='https://www.google.com/recaptcha/api.js'></script>
                     <form action="book_reservation.php" method="post" role="form" class="contactForm" id="myForm">
                         <label for="name">First and Last Name</label> <label style="color: red;">*</label>
                         <div class="form-group">
@@ -141,13 +142,15 @@
                         <div class="form-group">
                             <textarea class="form-control" name="special_request" rows="5"  placeholder="" minlength="0"></textarea>
                         </div>
-                        <div class="form-group">
-                            <!-- captcha-->
-                            <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
-                        </div>
 
-                        <div class="text-center"><button style="background-color: #ee2929" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                            <!-- captcha-->
+                            <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="captcha_filled"
+                                 data-expired-callback="captcha_expired"></div>
+
+                        <p class="show-tt" data-toggle="tooltip" title="Complete the reCAPTCHA to login." data-placement="bottom">
+                        <div class="text-center"><button style="background-color: #ee2929" id="submitButtonn" value="Submit" type="submit">Submit</button></div>
                         <hr>
+
                         <div id="sendmessage">Your request has been sent. Thank you!</div>
                         <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     </form>
@@ -200,24 +203,24 @@
         })
     })
 </script>
-<script>
-    function recaptchaCallbackSubmit(){
-        //var response = grecaptcha.getResponse().length;
-        if(grecaptcha.getResponse().length > 0){
-            //captcha validated and got response code
-            $("#sendmessage").show();
-            $("#errormessage").hide();
-            // $("#myForm")[0].reset();
-            grecaptcha.reset();
-            return false;
-        }else{
-            //$("#myForm")[0].reset();
-            grecaptcha.reset();
-            $("#errormessage").show();
-            $("#sendmessage").hide();
 
-            return false;
-        }
+<script>
+    //prevent submit and show tooltip until captch is complete.
+    let submit = false;
+    $("#submitButtonn").prop('disabled', true);
+
+    function captcha_filled() {
+        submit = true;
+        $("#submitButtonn").prop('disabled', false);
+        $(".show-tt").tooltip('destroy');
+    }
+    function captcha_expired() {
+        submit = false;
+        $("#submitButtonn").prop('disabled', true);
+        showTooltip();
+    }
+    function showTooltip () {
+        $(".show-tt").tooltip('show');
     }
 </script>
 

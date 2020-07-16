@@ -1,7 +1,6 @@
-<?php session_start(); ?>
-<!-- the captcha needs the above line -->
-
-<?php
+<?php session_start();
+//<!-- the captcha needs the above line -->
+ob_start();
 if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     && isset($_POST['event_type']) && isset($_POST['attendees']) && isset($_POST['date'])
     && isset($_POST['hours_start']) && isset($_POST['special_request'])) {
@@ -9,6 +8,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     $email_to = "chinito@elninjari.com";
     $email_to2 = "ninja@elninjari.com";
     $email_to3 = "younglubackup@gmail.com";
+    $email_to4 = $_POST['email'];
     $email_subject = "El Ninja Reservations - " . $_POST['name'];
 
     function died($error)
@@ -29,6 +29,24 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
         !isset($_POST['hours_start_str'])
     ) {
         died('One or more of your entries appears to be invalid, please try again.');
+    }
+    if(isset($_POST['g-recaptcha-response'])){
+        $captcha=$_POST['g-recaptcha-response'];
+    }
+    if(!$captcha){
+        died('fill in captcha');
+    }
+    $secretKey = "6LfyMaoUAAAAACmBHq2C7yEFHyV-AI5PAudn7RlC";
+    $ip = $_SERVER['REMOTE_ADDR'];
+    // post request to server
+    $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . urlencode($secretKey) .  '&response=' . urlencode($captcha);
+    $response = file_get_contents($url);
+    $responseKeys = json_decode($response,true);
+    // should return JSON with success as true
+    if($responseKeys["success"]) {
+        $success = 1;
+    } else {
+        died('spam detected');
     }
 
     $name = $_POST['name'];
@@ -60,6 +78,9 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     if (strlen($error_message) > 0) {
         died($error_message);
     }
+    if($success != 1){
+        died('Something went wrong, please try again.');
+    }
 
     $email_message = "Reservation Form details below.\n\n";
 
@@ -86,6 +107,10 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     @mail($email_to, $email_subject, $email_message, $headers);
     @mail($email_to2, $email_subject, $email_message, $headers);
     @mail($email_to3, $email_subject, $email_message, $headers);
+    @mail($email_to4, $email_subject, $email_message, $headers);
+
+    //  To redirect form on a particular page
+    header("Location: https://antonioisabella.com/sites/ninja/Confirmation");
 }
 ?>
 
