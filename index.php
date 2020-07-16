@@ -37,7 +37,7 @@
                     </center>
                     <center>
                         <ul class="headericons justify-content-center">
-                            <li style="display: inline;padding:0.5em;"><div id="test"><a href="httpsL//www.facebook.com/ElNinjaRI" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
+                            <li style="display: inline;padding:0.5em;"><div id="test"><a href="https://www.facebook.com/ElNinjaRI" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
                             <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/elninjari/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
