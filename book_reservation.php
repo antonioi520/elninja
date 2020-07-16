@@ -110,7 +110,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
     @mail($email_to4, $email_subject, $email_message, $headers);
 
     //  To redirect form on a particular page
-    header("Location: https://antonioisabella.com/sites/ninja/Confirmation");
+    header("Location: https://elninja.net/Confirmation");
 }
 ?>
 

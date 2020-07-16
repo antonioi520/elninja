@@ -72,7 +72,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 2.525em;">Thank you for reservation</h1>
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 2.525em;">Thank you for your reservation</h1>
                 <h2 class="" style="text-align: center;font-size: 25px;color:black">You will be emailed a copy of your reservation details</h2>
                 <div class="red-title-divider" style="width:300px;"></div>
             </div>
