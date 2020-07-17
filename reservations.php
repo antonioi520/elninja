@@ -76,6 +76,7 @@
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
                 <center>
                     <p><label style="color: red;">*</label> = required field.</p>
+                    <p><label style="color: red;">Note: We are closed on Tuesdays!</label></p> <br>
                 </center>
             </div>
         </div>
@@ -147,6 +148,7 @@
                             <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="captcha_filled"
                                  data-expired-callback="captcha_expired"></div>
 
+                        <br>
                         <p class="show-tt" data-toggle="tooltip" title="Complete the reCAPTCHA to login." data-placement="bottom">
                         <div class="text-center"><button style="background-color: #ee2929" id="submitButtonn" value="Submit" type="submit">Submit</button></div>
                         <hr>
