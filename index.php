@@ -42,7 +42,7 @@
                         </ul>
                     </center>
                     <a href="#bio" class="" id="content-desktop896">
-                        <img src="img/ninja_cutout2.png" class="ninjacutout" id="" style="">
+                        <img src="img/ninja_cutout2.png" class="ninjacutout" id="" style="" onmouseover="hover(this);" onmouseout="unhover(this);">
                     </a>
                 </div>
                 <a href="#bio" class="" id="content-mobile896">
@@ -480,6 +480,15 @@
             btnText.innerHTML = "Read less";
             moreText.style.display = "inline";
         }
+    }
+</script>
+<script>
+    function hover(element) {
+        element.setAttribute('src', 'img/ninja_cutout_glow2.png');
+    }
+
+    function unhover(element) {
+        element.setAttribute('src', 'img/ninja_cutout2.png');
     }
 </script>
 </body>
