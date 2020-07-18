@@ -73,7 +73,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="section-title" style="font-family: 'Poppins'; font-size: 2.525em;">Temporarily Unavailable!</h1>
-                <h2 class="" style="text-align: center;font-size: 25px;color:black">The reservations page is temporarily unavailable, as it is undergoing maintenance, thank you for your patience!</h2>
+                <h2 class="" style="text-align: center;font-size: 25px;color:black">The reservations page is temporarily unavailable, thank you for your patience!</h2>
                 <div class="red-title-divider" style="width:300px;"></div>
             </div>
         </div>
