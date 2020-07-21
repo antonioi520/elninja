@@ -76,7 +76,7 @@
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
                 <center>
                     <p><label style="color: red;">*</label> = required field.</p>
-                    <p><label style="color: red;">Note: We are closed on Tuesdays!</label></p> <br>
+                    <p><label style="color: red;">Note: We are closed on Mondays and Tuesdays!</label></p> <br>
                 </center>
             </div>
         </div>

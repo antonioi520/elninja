@@ -341,8 +341,8 @@
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
-                        <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Mon-Tues:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <!--strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br-->
                         <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 4pm-1am</p><br>
                         <strong>Sun:</strong><p style="padding-left:0;"> 12pm-11pm</p>
