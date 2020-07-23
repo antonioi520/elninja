@@ -7,7 +7,6 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
 
     $email_to = "chinito@elninjari.com";
     $email_to2 = "ninja@elninjari.com";
-    $email_to3 = "younglubackup@gmail.com";
     $email_to4 = $_POST['email'];
     $email_subject = "El Ninja Reservations - " . $_POST['name'];
 
@@ -106,7 +105,6 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone'])
         'X-Mailer: PHP/' . phpversion();
     @mail($email_to, $email_subject, $email_message, $headers);
     @mail($email_to2, $email_subject, $email_message, $headers);
-    @mail($email_to3, $email_subject, $email_message, $headers);
     @mail($email_to4, $email_subject, $email_message, $headers);
 
     //  To redirect form on a particular page

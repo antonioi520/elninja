@@ -42,7 +42,7 @@
                         </ul>
                     </center>
                     <a href="#bio" class="" id="content-desktop896">
-                        <img src="img/ninja_cutout2.png" class="ninjacutout" id="" style="">
+                        <img src="img/ninja_cutout2.png" class="ninjacutout" id="" style="" onmouseover="hover(this);" onmouseout="unhover(this);">
                     </a>
                 </div>
                 <a href="#bio" class="" id="content-mobile896">
@@ -295,7 +295,8 @@
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
-                <p class="section-description">Send us a message and we'll get back to you as soon as we can!</p>
+                <p class="section-description">Send us a message and we'll get back to you as soon as we can! <br>
+                    To reserve a table, check out the <a href="unavailable.php">Reservations</a> page! </p>
             </div>
         </div>
 
@@ -341,8 +342,8 @@
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
-                        <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Mon-Tues:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <!--strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br-->
                         <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 4pm-1am</p><br>
                         <strong>Sun:</strong><p style="padding-left:0;"> 12pm-11pm</p>
@@ -480,6 +481,15 @@
             btnText.innerHTML = "Read less";
             moreText.style.display = "inline";
         }
+    }
+</script>
+<script>
+    function hover(element) {
+        element.setAttribute('src', 'img/ninja_cutout_glow2.png');
+    }
+
+    function unhover(element) {
+        element.setAttribute('src', 'img/ninja_cutout2.png');
     }
 </script>
 </body>
