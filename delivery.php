@@ -60,13 +60,21 @@
     </div>
 </div>
 
+<div class="container">
+    <center>
+        <img src="img/logo_ninja.png" style="height:200px;width:300px;object-fit: contain;">
+    </center>
+
+    <hr style="margin-bottom:0px;">
+</div>
+
 <section id="about" style="padding-bottom:10px;">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">Delivery</h1>
-                <div class="section-title-divider" style="background-color: red;"></div>
-                <br id="content-mobile">
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">Delivery Apps</h1>
+                <div class="section-title-divider" style="background-color: red;margin-top: -40px;"></div>
+                <br>
             </div>
         </div>
     </div>
@@ -74,15 +82,95 @@
 
 <div class="container">
     <div class="row">
-        <center>
-            <img src="img/coming-soon-sign.png" style="width: 70%; height: 90%; overflow:hidden;">
-        </center>
+        <div class="col-md-6 about-content">
+            <h1 class="about-title" style="font-family: 'Poppins';font-size: 3.125em;font-weight:700;color:black;margin-bottom: 10px;">Grubhub</h1>
+
+            <div class="red-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+
+            <p class="about-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+            </p>
+
+            <br>
+            <a href="#" id="menuBox" style="width: 280px; height: 75px;"><h2 id="menuBoxText">View Grubhub</h2></a>
+        </div>
+
+        <div class="col-lg-6 about-img" id="content-desktop896">
+            <img src="img/grubhub.webp" style="width:600px;height:330px;margin-top: 10px;">
+        </div>
+
+        <div class="col-lg-6 about-img" id="content-mobile896">
+            <center>
+                <img src="img/grubhub.webp" style="width:100%;object-fit: scale-down;" id="aboutImg">
+            </center>
+        </div>
+    </div>
+
+    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896">
+
+    <div class="row">
+        <div class="col-lg-6 about-img" id="content-desktop896">
+            <img src="img/ubereats.png" alt="" style="width:540px;height:330px;" id="aboutImg">
+        </div>
+
+        <div class="col-md-6 about-content">
+            <h1 class="about-title" style="font-family: 'Poppins';font-size: 3.125em;font-weight:700;color:black;margin-bottom: 10px;">Uber Eats</h1>
+
+            <div class="red-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+
+            <p class="about-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+            </p>
+
+            <br>
+            <a href="#" id="menuBox" style="width: 285px; height: 75px;"><h2 id="menuBoxText">View Uber Eats</h2></a>
+
+            <br>
+
+            <div class="col-lg-6 about-img" id="content-mobile896">
+                <center>
+                    <img src="img/ubereats.png" alt="" style="width:108%;object-fit: scale-down;margin-left: -14px;" id="aboutImg">
+                </center>
+            </div>
+        </div>
     </div>
 </div>
 
-<br><br>
+<br id="content-desktop896">
+<br id="content-desktop896">
+<br id="content-desktop896">
+<br id="content-desktop896">
+<br id="content-desktop896">
 
-<br>
+<section id="subscribe-delivery">
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="img/imgheadersushi.png" style="text-align: center;display: block;margin:auto;">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" style="padding-bottom:10px;">
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">Delivery Menu</h1>
+                <div class="section-title-divider" style="background-color: red;margin-top: -40px;"></div>
+                <br>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+
+</div>
+
+<br id="content-desktop896"><br id="content-desktop896">
+
+<br id="content-desktop896">
 <?php include("views/footer.html")?>
 
 <!-- Optional JavaScript -->
