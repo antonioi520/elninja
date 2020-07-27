@@ -135,8 +135,16 @@
 
     </div>
 
+    <br><br>
+    <span class="menu-item-name">
+        <center>
+            IMPORTANTE: 15% de gratificación será agregado a los grupos de o más personas.
+            <br>
+            IMPORTANT: 15% of gratuity will be added to all parties of 6 or more.
+        </center>
+    </span>
 
-
+    <br>
     <br>
     <span class="menu-item-name">IMPORTANTE: Algunos artículos vienen crudos o parcialmente cocinados y pueden incrementar el riesgo de enfermedades por alimentos.
         Los consumidores que son especialmente vulnerables solo deben de comer carnes, mariscos y otras comidas de animales completamente cocinados.
