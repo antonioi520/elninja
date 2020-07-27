@@ -97,7 +97,7 @@
 .mySlides {
     display: none;
     object-fit: scale-down;
-    max-height: 800px;
+    max-height: 750px;
 }
 
 .cursor {
@@ -154,27 +154,27 @@
 #galleryImg {
     margin-bottom: 10px;
     object-fit: scale-down;
-    max-height: 800px;
+    max-height: 750px;
 }
 
 #menuImg {
     margin-bottom: 10px;
     object-fit: scale-down;
-    max-height: 800px;
+    max-height: 750px;
 }
 
 #interiorImg {
     margin-bottom: 10px;
     padding-top: 40px;
     object-fit: scale-down;
-    max-height: 800px;
+    max-height: 750px;
 }
 
 #staffImg {
     margin-bottom: 10px;
     padding-top: 35px;
     object-fit: scale-down;
-    max-height: 800px;
+    max-height: 750px;
 }
 
 .caption-container {

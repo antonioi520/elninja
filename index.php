@@ -53,15 +53,6 @@
     </div>
 </div>
 
-<!--br><br>
-
-<--div>
-    <center>
-        <img id="content-desktop896" style="max-width: 30%; max-height:30%;" src="img/comingsoon.jpg">
-        <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/comingsoon.jpg">
-    </center>
-</div-->
-
 <!--==========================
   About Section
   ============================-->
@@ -104,6 +95,17 @@
     </div>
 </section>
 
+<div class="container">
+    <center>
+        <div id="content-desktop896">
+            <img class="d-inline-block" id="content-desktop896" style="max-width: 40%; max-height:40%;" src="img/poster1.jpg">
+            <img class="d-inline-block" id="content-desktop896" style="max-width: 40%; max-height:40%;" src="img/poster2.jpg">
+        </div>
+        <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/poster2.jpg">
+    </center>
+</div>
+
+<br><br><br>
 
 <!--==========================
   Bio Section

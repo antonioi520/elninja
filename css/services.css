@@ -55,6 +55,12 @@ h1 {
     padding: 30px 0;
 }
 
+#subscribe-delivery {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/Interior/5.jpg) fixed center center;
+    background-size: cover;
+    padding: 30px 0;
+}
+
 #subscribe .subscribe-title {
     color: #fff;
     font-size: 28px;
