@@ -96,12 +96,12 @@
         </div>
 
         <div class="col-lg-6 about-img" id="content-desktop896">
-            <img src="img/grubhub.webp" style="width:600px;height:330px;margin-top: 10px;">
+            <img src="img/grubhub.jpg" style="width:600px;height:330px;margin-top: 10px;">
         </div>
 
         <div class="col-lg-6 about-img" id="content-mobile896">
             <center>
-                <img src="img/grubhub.webp" style="width:100%;object-fit: scale-down;" id="aboutImg">
+                <img src="img/grubhub.jpg" style="width:100%;object-fit: scale-down;" id="aboutImg">
             </center>
         </div>
     </div>
