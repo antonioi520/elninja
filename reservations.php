@@ -67,191 +67,37 @@
         </div>
     </div>
 </div>
+<div class="container">
+    <center>
+        <img src="img/logo_ninja.png" style="height:200px;width:300px;object-fit: contain;">
+    </center>
 
-<section id="contact">
+    <hr style="margin-bottom:0px;">
+</div>
+
+<section id="about" style="padding-bottom:10px;">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 2.525em;">Make a Reservation</h1>
-                <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
-                <center>
-                    <p><label style="color: red;">*</label> = required field.</p>
-                    <p><label style="color: red;">Note: We are closed on Mondays and Tuesdays!</label></p> <br>
-                </center>
+                <h1 class="section-title" style="font-family: 'Poppins'; font-size: 3.125em;">Submit your Reservation!</h1>
+                <div class="section-title-divider" style="background-color: red;margin-top: -40px;"></div>
+                <br>
             </div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-3"></div>
-            <div class="col-lg-6 col-lg-push-12" style="padding-bottom: 0.625em;">
-                <div class="form">
-                    <script src='https://www.google.com/recaptcha/api.js'></script>
-                    <form action="book_reservation.php" method="post" role="form" class="contactForm" id="myForm">
-                        <label for="name">First and Last Name</label> <label style="color: red;">*</label>
-                        <div class="form-group">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" minlength="2"  required />
-                            <div class="validation"></div>
-                        </div>
-                        <label for="email">Email Address</label> <label style="color: red;">*</label>
-                        <div class="form-group">
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"  required />
-                            <div class="validation"></div>
-                        </div>
-                        <label for="phone">Phone Number</label> <label style="color: red;">*</label>
-                        <div class="form-group">
-                            <input type="tel" class="form-control" name="phone" id="phone" placeholder="XXX-XXX-XXXX" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
-                                   required/>
-                            <div class="validation"></div>
-                        </div>
-                        <div class="form-group">
-                            <label for="event_type">Event Type</label> <label style="color: red;">*</label>
-                            <select class="form-control" name="event_type" id="event_type">
-                                <option disabled selected hidden>Select your event type</option>
-                                <option>Dinner</option>
-                                <option>Lunch</option>
-                                <option>Birthday</option>
-                                <option>Wedding</option>
-                                <option>Anniversary</option>
-                                <option>Holiday</option>
-                                <option>Other</option>
-                            </select>
-                            <div class="validation"></div>
-                        </div>
-                        <label for="other_type">If Other, please specify.</label>
-                        <div class="form-group">
-                            <textarea class="form-control" name="other_type" rows="1"  placeholder="" minlength="0"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <label for="attendees">Number of Guests</label> <label style="color: red;">*</label>
-                            <input type="number" class="form-control" name="attendees" id="attendees" min="1" max="99" required />
-                            <div class="validation"></div>
-                        </div>
-                        <div class="form-group">
-                            <label for="date">Date</label> <label style="color: red;">*</label>
-                            <input type="date" class="form-control" name="date" id="date" required />
-                            <div class="validation"></div>
-                        </div>
-                        <div class="form-group">
-                            <label for="hours_start">Time</label> <label style="color: red;">*</label>
-                            <input type="time" onchange="onTimeChangeStart()" class="form-control" name="hours_start" id="hours_start" required />
-                            <div class="validation"></div>
-                        </div>
-                        <div class="form-group">
-                            <input style="display: none" type="text" class="form-control" name="hours_start_str" id="hours_start_str" />
-                        </div>
-                        <label for="special_request">Special Requests (If Applicable)</label>
-                        <div class="form-group">
-                            <textarea class="form-control" name="special_request" rows="5"  placeholder="" minlength="0"></textarea>
-                        </div>
-
-                            <!-- captcha-->
-                            <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="captcha_filled"
-                                 data-expired-callback="captcha_expired"></div>
-
-                        <br>
-                        <p class="show-tt" data-toggle="tooltip" title="Complete the reCAPTCHA to login." data-placement="bottom">
-                        <div class="text-center"><button style="background-color: #ee2929" id="submitButtonn" value="Submit" type="submit">Submit</button></div>
-                        <hr>
-
-                        <div id="sendmessage">Your request has been sent. Thank you!</div>
-                        <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
-                    </form>
-                </div>
-            </div>
-            <div class="col-lg-3"></div>
         </div>
     </div>
 </section>
 
-<br id="content-desktop">
+<div class="container1">
+
+    <div class="center">
+        <script type='text/javascript' src='//www.opentable.com/widget/reservation/loader?rid=1081189&type=standard&theme=tall&iframe=true&domain=com&lang=en-US&newtab=false&ot_source=Restaurant%20website'></script>
+    </div>
+
+</div>
+<br><br>
 <?php include("views/footer.html")?>
 
-<script type="text/javascript">
-    var frm = $('#myForm');
-    frm.submit(function (ev) {
-        $.ajax({
-            type: frm.attr('method'),
-            url: "book_reservation.php",
-            data: frm.serialize(),
-            success: function (data) {
-                return false;
-            },
-            error: function()
-            {
-                $("#errormessage").show();
 
-                return false;
-            }
-        });
-
-        ev.preventDefault();
-    });
-</script>
-<script>
-    var invalidClassName = 'invalid'
-    var inputs = document.querySelectorAll('input, select, textarea')
-    inputs.forEach(function (input) {
-        // Add a css class on submit when the input is invalid.
-        input.addEventListener('invalid', function () {
-            input.classList.add(invalidClassName)
-        })
-
-        // Remove the class when the input becomes valid.
-        // 'input' will fire each time the user types
-        input.addEventListener('input', function () {
-            if (input.validity.valid) {
-                input.classList.remove(invalidClassName)
-            }
-        })
-    })
-</script>
-
-<script>
-    //prevent submit and show tooltip until captch is complete.
-    let submit = false;
-    $("#submitButtonn").prop('disabled', true);
-
-    function captcha_filled() {
-        submit = true;
-        $("#submitButtonn").prop('disabled', false);
-        $(".show-tt").tooltip('destroy');
-    }
-    function captcha_expired() {
-        submit = false;
-        $("#submitButtonn").prop('disabled', true);
-        showTooltip();
-    }
-    function showTooltip () {
-        $(".show-tt").tooltip('show');
-    }
-</script>
-
-<script>
-    var startElement = document.getElementById('hours_start');
-    var startStr = document.getElementById('hours_start_str');
-
-    function onTimeChangeStart() {
-        var timeSplit = startElement.value.split(':'),
-            hours,
-            minutes,
-            meridian;
-        hours = timeSplit[0];
-        minutes = timeSplit[1];
-        if (hours > 12) {
-            meridian = 'PM';
-            hours -= 12;
-        } else if (hours < 12) {
-            meridian = 'AM';
-            if (hours == 0) {
-                hours = 12;
-            }
-        } else {
-            meridian = 'PM';
-        }
-        startStr.value = (hours + ':' + minutes + ' ' + meridian);
-        //alert(startStr.value);
-    }
-</script>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
