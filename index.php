@@ -98,10 +98,9 @@
 <div class="container">
     <center>
         <div id="content-desktop896">
-            <img class="d-inline-block" id="content-desktop896" style="max-width: 40%; max-height:40%;" src="img/poster1.jpg">
-            <img class="d-inline-block" id="content-desktop896" style="max-width: 40%; max-height:40%;" src="img/poster2.jpg">
+            <img class="d-inline-block" id="content-desktop896" style="max-width: 40%; max-height:40%;" src="img/posterupdated.jpg">
         </div>
-        <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/poster2.jpg">
+        <img id="content-mobile896" style="max-width: 100%; max-height:100%;" src="img/posterupdated.jpg">
     </center>
 </div>
 
