@@ -24,6 +24,37 @@
     <title>El Ninja Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
+    <style>
+        .top-link {
+            transition: all .25s ease-in-out;
+            position: fixed;
+            bottom: -10px;
+            right: -10px;
+            display: inline-flex;
+            cursor: pointer;
+            align-items: center;
+            justify-content: center;
+            margin: 0 2em 2em 0;
+            border-radius: 50%;
+            padding: .25em;
+            width: 40px;
+            height: 40px;
+            background-color: #f7f7f7;
+            border: 2px solid red;
+        }
+        .top-link.show {
+            visibility: visible;
+            opacity: 1;
+        }
+        .top-link.hide {
+            visibility: hidden;
+            opacity: 0;
+        }
+        .top-link:hover {
+            background-color: #f7f7f7;
+            transform: scale(1.15);
+        }
+    </style>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -412,6 +443,10 @@
 <br id="content-desktop896">
 <?php include("views/footer.html")?>
 
+<a class="top-link hide" href="" id="js-top">
+    <img src="img/arrow.png" style="width: 65%; height: 55%;">
+</a>
+
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -419,3 +454,33 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 </html>
+
+<script>
+    var scrollToTopButton = document.getElementById('js-top');
+
+    var scrollFunc = function scrollFunc() {
+        var y = window.scrollY;
+
+        if (y > 0) {
+            scrollToTopButton.className = "top-link show";
+        } else {
+            scrollToTopButton.className = "top-link hide";
+        }
+    };
+
+    window.addEventListener("scroll", scrollFunc);
+
+    var scrollToTop = function scrollToTop() {
+        var c = document.documentElement.scrollTop || document.body.scrollTop;
+
+        if (c > 0) {
+            window.requestAnimationFrame(scrollToTop);
+            window.scrollTo(0, c - c / 10);
+        }
+    };
+
+    scrollToTopButton.onclick = function (e) {
+        e.preventDefault();
+        scrollToTop();
+    };
+</script>
