@@ -140,7 +140,7 @@
         <center>
             IMPORTANTE: 18% de gratificación será agregado a los grupos de o más personas.
             <br>
-            IMPORTANT: 18% of gratuity will be added to all parties of 6 or more.
+            IMPORTANT: 18% of gratuity will be added to all parties.
         </center>
     </span>
 
