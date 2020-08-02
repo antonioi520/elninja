@@ -138,7 +138,7 @@
     <br><br>
     <span class="menu-item-name">
         <center>
-            IMPORTANTE: 18% de gratificación será agregado a los grupos de o más personas.
+            IMPORTANTE: Se agregará 18% de propina a todas las partes.
             <br>
             IMPORTANT: 18% of gratuity will be added to all parties.
         </center>
