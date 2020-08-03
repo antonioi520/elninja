@@ -297,7 +297,7 @@
                 <h3 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
                 <p class="section-description">Send us a message and we'll get back to you as soon as we can! <br>
-                    To reserve a table, check out the <a href="unavailable.php">Reservations</a> page! </p>
+                    To reserve a table, check out the <a href="reservations">Reservations</a> page! </p>
             </div>
         </div>
 
@@ -347,7 +347,7 @@
                         <!--strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br-->
                         <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 4pm-1am</p><br>
-                        <strong>Sun:</strong><p style="padding-left:0;"> 12pm-11pm</p>
+                        <strong>Sun:</strong><p style="padding-left:0;"> 3pm-11pm</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Location</h4>

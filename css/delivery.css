@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/poppins/Poppins-Regular.ttf');
+}
+
+.delivery-body {
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: block;
+    color: rgb(92, 92, 92);
+    background-color: rgb(255, 255, 255);
+    border: 2.5px dashed #ee2929;
+}
+
+.delivery-section {
+    margin: 0 auto;
+}
+
+.delivery-section-title {
+    font-family: Poppins;
+    font-weight: 700;
+    display: block;
+    margin: 20px 0;
+    text-align: left;
+    color: #bf0000;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.70);
+}
+
+.delivery-item {
+    font-family: Poppins;
+    margin: 25px 0;
+    font-size: 18px;
+    color: black;
+}
+
+.delivery-item-name{
+    font-family: Poppins;
+    font-weight: bold;
+    color: black;
+}
+
+.delivery-dots{
+    border-bottom: 0.2em dotted rgb(255, 0, 0);
+}
+
+.delivery-item-description {
+    font-style: italic;
+    font-size: .9em;
+    line-height: 1.5em;
+    color: black;
+}
+
+.delivery-item-price{
+    float: right;
+    font-weight: bold;
+    font-family: Poppins;
+    margin-top: -22px;
+    color: #bf0000;
+    -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.80);
+}
