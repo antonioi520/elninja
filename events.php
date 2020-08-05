@@ -77,18 +77,19 @@
         <div class="red-title-divider" style="width:300px;"></div>
     </div>
 
-    <h2 style="text-align: center;color:black;margin-bottom: 5px;font-weight: 600">Special Events</h2>
-
-    <!--div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+    <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
         <center>
-            <iframe id="galleryVid" width="79%" height="430px" src="https://www.youtube.com/embed/CzvKBdZu98c?rel=0"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            </iframe>
+            <video width="480" height="272" controls>
+                <source src="vid/trailer.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
         </center>
-    </div-->
+    </div>
 
     <br>
 
+    <h2 style="text-align: center;color:black;margin-bottom: 5px;font-weight: 600">Special Events</h2>
+    <br>
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
             <!--div class="col-md-3"></div-->
@@ -145,6 +146,43 @@
                 </div>
             </div>
             <!--div class="col-md-3"></div-->
+        </div>
+    </div>
+
+    <br><br id="content-desktop896">
+
+    <h2 style="text-align: center;color:black;font-weight: 600">Recurring Events</h2>
+    <div class="container" style="">
+        <div class="col-md-6"></div>
+        <div class="row" id="normalDiv2">
+            <div class="card-deck" style="width:84%;margin:auto;">
+                <div class="col-md-3"></div>
+                <div class="card" style="border-color: #ee2929">
+                    <img class="card-img-top" src="img/sushi_takeout_only.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                    <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                        <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Sushi Take Out Only On Mondays</h5>
+                        <p class="card-text" style="background-color: #FFE7E7; color=black;padding-left:10px;padding-right:10px;">
+                            <strong>Call: (401) 467-2581</strong> <br>
+                            View our <a href="menu">Takeout menu!</a>
+                            <br><br>
+                            <strong>Date: Mondays</strong><br>
+                            <strong>Start: 3pm</strong><br>
+                            <strong>End: 10pm</strong><br>
+                            <br>
+                        </p>
+                    </div>
+                    <div id="content-desktop" class="card-footer" style="background-color: #ee2929;height:50px;">
+                        <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                            El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
+                    </div>
+
+                    <div id="content-mobile" class="card-footer" style="background-color: #ee2929;height:60px;">
+                        <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                            El Ninja Restaurant, 1007 Broad Street, Providence, RI 02905</small>
+                    </div>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
         </div>
     </div>
     <div class="col-md-6"></div>
