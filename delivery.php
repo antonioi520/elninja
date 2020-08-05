@@ -577,7 +577,7 @@
             <div class="delivery-dots"></div>
             <div class="delivery-item">
                 <div class="delivery-item-name">Mar y Tierra</div>
-                <div class="delivery-item-price">$40</div>
+                <div class="delivery-item-price">Market Price</div>
                 <div class="delivery-item-description">
                     Our signature surf and turf comes with churrasco and lobster tail accompanied by yucca mash, asparagus and shrimps in special Ninja sauce.
                 </div>
