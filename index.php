@@ -349,7 +349,7 @@
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 4pm-1am</p><br>
                         <strong>Sun:</strong><p style="padding-left:0;"> 3pm-11pm</p>
                         <br><br>
-                        <strong style="color: red;">*Sushi take out only on Monday!</strong>
+                        <strong style="color: red;">*Monday open for sushi take out only!</strong>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Location</h4>
