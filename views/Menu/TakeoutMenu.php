@@ -346,7 +346,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">MAR Y TIERRA
-                            <span class="menu-item-price2"> $38</span>
+                            <span class="menu-item-price2"> Market Price</span>
                             </span>
                         <p class="menu-item-description2">Our signature surf and turf comes with churrasco and lobster tail accompanied by yucca mash, asparagus and shrimps in special Ninja sauce.</p>
                     </div>
@@ -416,7 +416,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">LANGOSTA RELLENA
-                                <span class="menu-item-price" style="float:right;color:black"> $38</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">A whole fresh lobster stuffed with a fresh variety of seafood, topped by Salsa de Coco with garlic mashed potatoes.</p>
                     </div>
@@ -908,7 +908,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">MAR Y TIERRA
-                            <span class="menu-item-price2"> $38</span>
+                            <span class="menu-item-price2"> Market Price</span>
                             </span>
                         <p class="menu-item-description2">Our signature surf and turf comes with churrasco and lobster tail accompanied by yucca mash, asparagus and shrimps in special Ninja sauce.</p>
                     </div>
@@ -978,7 +978,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">LANGOSTA RELLENA
-                                <span class="menu-item-price" style="float:right;color:black"> $38</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">A whole fresh lobster stuffed with a fresh variety of seafood, topped by Salsa de Coco with garlic mashed potatoes.</p>
                     </div>
