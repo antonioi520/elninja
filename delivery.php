@@ -25,6 +25,10 @@
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
     <style>
+        .repeating-bg {
+            background-image: url(img/ninja_space.png);
+            background-repeat: space;
+        }
         .top-link {
             transition: all .25s ease-in-out;
             position: fixed;
@@ -197,7 +201,7 @@
 </section>
 
 <div class="container">
-    <div class="delivery-body">
+    <div class="delivery-body repeating-bg">
         <div class="delivery-section">
             <h2 class="delivery-section-title">APPETIZERS</h2>
             <div class="delivery-dots"></div>
