@@ -215,6 +215,83 @@
                     A trio of crispy rice baskets with a hint of sweet chili and fresh guacamole, full of ropa vieja, stewed chicken, and shrimp.
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Yola</div>
+                <div class="delivery-item-price">$17</div>
+                <div class="delivery-item-description">
+                    Our famous sweet plantain canoes stuffed with shrimps topped by Ninja’s Special Sauce.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Rock Shrimp</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Deep-fried shrimp covered with our spicy garlic aioli.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Kani Croquette</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Ninja’s crab cream croquettes with jalapeno, onion, mayo served with creamy cilantro aioli.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Edamame</div>
+                <div class="delivery-item-price">$7</div>
+                <div class="delivery-item-description">
+                    Steamed sea salted green pea pods.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Crispy Calamari</div>
+                <div class="delivery-item-price">$13</div>
+                <div class="delivery-item-description">
+                    Tempura fried calamari rings with creamy chipotle aioli.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Ceviche De Pulpo</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    Ceviche of octopus, lime juice, peppers and onions, cilantro, served with tostones.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Sweet ‘n Sour Chicharrón</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Dominican-style fried pork belly.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Ropa Vieja Empanadas</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    Our delicious fried flour pastries filled with shredded steak and mozzarella cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Kani Empanadas</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    Latin fried flour pastries filled with spicy Japanese kani and mozzarella cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Cuban Empanadas</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    A Cuban twist to our fried flour pastries filled with slow roasted pork, ham, and mozzarella cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Gyoza</div>
+                <div class="delivery-item-price">$8</div>
+                <div class="delivery-item-description">
+                    Japanese chicken teriyaki dumplings.
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
