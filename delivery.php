@@ -126,7 +126,7 @@
             <p class="about-text">
                 Download the Grubhub app on your phone using <a href="https://www.grubhub.com/mobile_home">this link!</a>
                 Alternatively, you can use the <a href="https://www.grubhub.com/">Grubhub website</a> to place a delivery order for El Ninja.
-                Click the button below to view El Ninja Restaurant in Grubhub and place an order!
+                Click on the button below to view El Ninja Restaurant in Grubhub and place an order!
             </p>
 
             <br>
@@ -161,7 +161,7 @@
                 <a href="https://play.google.com/store/apps/details?id=com.ubercab.eats&hl=en_US">Android</a> or
                 <a href="https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277">iPhone</a> here!
                 Alternatively, you can use the <a href="https://www.ubereats.com/">Uber Eats website</a> to place a delivery order for El Ninja.
-                Click the button below to view El Ninja Restaurant in Uber Eats and place an order!
+                Click on the button below to view El Ninja Restaurant in Uber Eats and place an order!
             </p>
 
             <br>
