@@ -271,6 +271,27 @@
                     Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Beef Tropical Salad</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shrimp Tropical Salad</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chicken Tropical Salad</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -302,6 +323,69 @@
                     Served with white jasmine rice.
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chicken Teriyaki Stir Fry</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shirmp Teriyaki Stir Fry</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Tofu Teriyaki Stir Fry</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Churrasco</div>
+                <div class="delivery-item-price">$27</div>
+                <div class="delivery-item-description">
+                    Our juicy, grilled skirt steak accompanied by Asian chimichurri and yucca mash.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Pollo Ninja</div>
+                <div class="delivery-item-price">$20</div>
+                <div class="delivery-item-description">
+                    Chicken breast stuffed with Dominican sausage and mozzarella cheese served with maduro mash and white bacon sauce.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Pechuga a la Plancha</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    A traditional grilled chicken breast served with tostones.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Hanger Steak</div>
+                <div class="delivery-item-price">$22</div>
+                <div class="delivery-item-description">
+                    Our cut of Hanger Steak comes with a mushroom demi-glace and yucca fries.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Salmon a la Isla </div>
+                <div class="delivery-item-price">$24</div>
+                <div class="delivery-item-description">
+                    Perfectly grilled salmon with Asian creole sauce over garlic mashed potatoes and asparagus.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Pescado Relleno</div>
+                <div class="delivery-item-price">$28</div>
+                <div class="delivery-item-description">
+                    Crispy red snapper filled with maduro mash topped by bacalao and our famous Ninja’s Special Sauce.
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -319,6 +403,20 @@
                 <div class="delivery-item-price">$10</div>
                 <div class="delivery-item-description">
                     Ninja’s fried rice with sweet plantain, veggies, egg.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chicken Ninja Chofan</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Ninja’s fried rice with chicken, sweet plantain, veggies, egg.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shrimp Ninja Chofan</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Ninja’s fried rice with shrimp, sweet plantain, veggies, egg.
                 </div>
             </div>
         </div>
