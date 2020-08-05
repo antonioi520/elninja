@@ -130,7 +130,7 @@
             </p>
 
             <br>
-            <a href="#" id="menuBox" style="width: 315px; height: 75px;"><h2 id="menuBoxText">View in Grubhub</h2></a>
+            <a href="https://www.grubhub.com/restaurant/el-ninja-restaurant-1007-broad-st-providence/2286392" target="_blank" id="menuBox" style="width: 315px; height: 75px;"><h2 id="menuBoxText">View in Grubhub</h2></a>
         </div>
 
         <div class="col-lg-6 about-img" id="content-desktop896">
@@ -165,7 +165,7 @@
             </p>
 
             <br>
-            <a href="#" id="menuBox" style="width: 320px; height: 75px;"><h2 id="menuBoxText">View in Uber Eats</h2></a>
+            <a href="https://www.ubereats.com/providence/food-delivery/el-ninja-restaurant/zUUOdDlkQfm2CVsvURRPTA" target="_blank" id="menuBox" style="width: 320px; height: 75px;"><h2 id="menuBoxText">View in Uber Eats</h2></a>
 
             <br>
 
