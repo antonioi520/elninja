@@ -296,7 +296,7 @@
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
-                <p class="section-description">Send us a message and we'll get back to you as soon as we can! <br>
+                <p class="section-description">Send us a message and we'll get back to you as soon as we can! <br id="content-desktop896">
                     To reserve a table, check out the <a href="reservations">Reservations</a> page! </p>
             </div>
         </div>
