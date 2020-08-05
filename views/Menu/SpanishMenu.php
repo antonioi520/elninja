@@ -348,7 +348,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">MAR Y TIERRA
-                            <span class="menu-item-price2"> $38</span>
+                            <span class="menu-item-price2"> Market Price</span>
                             </span>
                         <p class="menu-item-description2">Con churrasco, cola de langosta y camarones en salsa Ninja. Acompañado de puré de yuca y espárragos.</p>
                     </div>
@@ -418,7 +418,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">LANGOSTA RELLENA
-                                <span class="menu-item-price" style="float:right;color:black"> $38</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Langosta fresca rellena de mariscos mixto con Salsa de Coco por arriba. Servica con puré de ajo.</p>
                     </div>
@@ -910,7 +910,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">MAR Y TIERRA
-                            <span class="menu-item-price2"> $38</span>
+                            <span class="menu-item-price2"> Market Price</span>
                             </span>
                         <p class="menu-item-description2">Con churrasco, cola de langosta y camarones en salsa Ninja. Acompañado de puré de yuca y espárragos.</p>
                     </div>
@@ -980,7 +980,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">LANGOSTA RELLENA
-                                <span class="menu-item-price" style="float:right;color:black"> $38</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Langosta fresca rellena de mariscos mixto con Salsa de Coco por arriba. Servica con puré de ajo.</p>
                     </div>

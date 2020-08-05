@@ -25,6 +25,10 @@
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
     <style>
+        .repeating-bg {
+            background-image: url(img/ninja_space.png);
+            background-repeat: space;
+        }
         .top-link {
             transition: all .25s ease-in-out;
             position: fixed;
@@ -120,11 +124,13 @@
             <div class="red-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
 
             <p class="about-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+                Download the Grubhub app on your phone using <a href="https://www.grubhub.com/mobile_home">this link!</a>
+                Alternatively, you can use the <a href="https://www.grubhub.com/">Grubhub website</a> to place an order for delivery from El Ninja.
+                Click on the button below to view El Ninja Restaurant in Grubhub and place an order!
             </p>
 
             <br>
-            <a href="#" id="menuBox" style="width: 280px; height: 75px;"><h2 id="menuBoxText">View Grubhub</h2></a>
+            <a href="https://www.grubhub.com/restaurant/el-ninja-restaurant-1007-broad-st-providence/2286392" target="_blank" id="menuBox" style="width: 315px; height: 75px;"><h2 id="menuBoxText">View in Grubhub</h2></a>
         </div>
 
         <div class="col-lg-6 about-img" id="content-desktop896">
@@ -151,11 +157,15 @@
             <div class="red-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
 
             <p class="about-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+                Download the Uber Eats app for
+                <a href="https://play.google.com/store/apps/details?id=com.ubercab.eats&hl=en_US">Android</a> or
+                <a href="https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277">iPhone</a> here!
+                Alternatively, you can use the <a href="https://www.ubereats.com/">Uber Eats website</a> to place an order for delivery from El Ninja.
+                Click on the button below to view El Ninja Restaurant in Uber Eats and place an order!
             </p>
 
             <br>
-            <a href="#" id="menuBox" style="width: 285px; height: 75px;"><h2 id="menuBoxText">View Uber Eats</h2></a>
+            <a href="https://www.ubereats.com/providence/food-delivery/el-ninja-restaurant/zUUOdDlkQfm2CVsvURRPTA" target="_blank" id="menuBox" style="width: 320px; height: 75px;"><h2 id="menuBoxText">View in Uber Eats</h2></a>
 
             <br>
 
@@ -197,7 +207,7 @@
 </section>
 
 <div class="container">
-    <div class="delivery-body">
+    <div class="delivery-body repeating-bg">
         <div class="delivery-section">
             <h2 class="delivery-section-title">APPETIZERS</h2>
             <div class="delivery-dots"></div>
@@ -213,6 +223,83 @@
                 <div class="delivery-item-price">$15</div>
                 <div class="delivery-item-description">
                     A trio of crispy rice baskets with a hint of sweet chili and fresh guacamole, full of ropa vieja, stewed chicken, and shrimp.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Yola</div>
+                <div class="delivery-item-price">$17</div>
+                <div class="delivery-item-description">
+                    Our famous sweet plantain canoes stuffed with shrimps topped by Ninja’s Special Sauce.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Rock Shrimp</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Deep-fried shrimp covered with our spicy garlic aioli.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Kani Croquette</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Ninja’s crab cream croquettes with jalapeno, onion, mayo served with creamy cilantro aioli.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Edamame</div>
+                <div class="delivery-item-price">$7</div>
+                <div class="delivery-item-description">
+                    Steamed sea salted green pea pods.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Crispy Calamari</div>
+                <div class="delivery-item-price">$13</div>
+                <div class="delivery-item-description">
+                    Tempura fried calamari rings with creamy chipotle aioli.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Ceviche De Pulpo</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    Ceviche of octopus, lime juice, peppers and onions, cilantro, served with tostones.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Sweet ‘n Sour Chicharrón</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Dominican-style fried pork belly.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Ropa Vieja Empanadas</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    Our delicious fried flour pastries filled with shredded steak and mozzarella cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Kani Empanadas</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    Latin fried flour pastries filled with spicy Japanese kani and mozzarella cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Cuban Empanadas</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    A Cuban twist to our fried flour pastries filled with slow roasted pork, ham, and mozzarella cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Gyoza</div>
+                <div class="delivery-item-price">$8</div>
+                <div class="delivery-item-description">
+                    Japanese chicken teriyaki dumplings.
                 </div>
             </div>
         </div>
@@ -231,6 +318,94 @@
                 <div class="delivery-item-name">Eel Avocado</div>
                 <div class="delivery-item-price">$9</div>
                 <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Spicy Tuna</div>
+                <div class="delivery-item-price">$9</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Philadelphia</div>
+                <div class="delivery-item-price">$9</div>
+                <div class="delivery-item-description">
+                    Salmon, cucumber, cream cheese.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Spicy Salmon</div>
+                <div class="delivery-item-price">$8</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shrimp Tempura</div>
+                <div class="delivery-item-price">$9</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Hamachi Roll</div>
+                <div class="delivery-item-price">$9</div>
+                <div class="delivery-item-description">
+                    Spicy yellowtail.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Rainbow Roll</div>
+                <div class="delivery-item-price">$13</div>
+                <div class="delivery-item-description">
+                    Kani, cucumber, avocado (yellowtail, tuna, salmon).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Okinawa Roll</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Kani, cucumber, cream cheese (maduro, guacamole, crab meat).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Aloha Roll</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Spicy tuna, kani (avocado, pineapple salsa).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Sakura Roll</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Salmon, cucumber (smoked salmon, avocado, tobiko).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Samurai Roll</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Kani salad, cucumber (tuna, avocado, salmon, wakame, tobiko).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Dragon Roll</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Shrimp tempura, eel, avocado.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Hana Roll</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Tuna tartar, cucumber, avocado, mango, jalapeno.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Black Rose Roll</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Spicy tuna, smoked salmon, avocado (deep fried, pico de gallo).
                 </div>
             </div>
         </div>
@@ -252,6 +427,97 @@
                     Shrimp tempura, queso frito, maduro, guacamole (ropa vieja).
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Bavaro Beach Roll</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Salmon tempura, cream cheese, bacon, maduro, avocado.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">El Ninja Roll</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Chicken tempura, bacon, cream cheese, maduro, guacamole (chicken teriyaki).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">La Chapi</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Chicken tempura, bacon, cream cheese, maduro, guacamole (chicharron).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Taki Taki Roll</div>
+                <div class="delivery-item-price">$15</div>
+                <div class="delivery-item-description">
+                    Churrasco, bacon, cream cheese, maduro, avocado.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Candela Roll</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    Shrimp tempura, cream cheese, avocado (spicy chilli shrimp).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">No Bulto Roll</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Grilled chicken, steak, cream cheese, maduro, guacamole, pico de gallo.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">El Patio Roll</div>
+                <div class="delivery-item-price">$12</div>
+                <div class="delivery-item-description">
+                    Longaniza, queso frito, maduro.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Geisha Roll</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    Shrimp tempura, bacon, mozzarella, maduro (deep fried).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Volcano Roll</div>
+                <div class="delivery-item-price">$17</div>
+                <div class="delivery-item-description">
+                    Shrimp tempura, cream cheese, avocado (spicy kani).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Mi Alma Roll</div>
+                <div class="delivery-item-price">$17</div>
+                <div class="delivery-item-description">
+                    Shrimp tempura, cream cheese, maduro, avocado (crab meat).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">La Romana Roll</div>
+                <div class="delivery-item-price">$17</div>
+                <div class="delivery-item-description">
+                    Salmon tempura, cream cheese, maduro, avocado (bacalao).
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Constanza Roll</div>
+                <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    Asparagus tempura, Japanese sweet potato, maduro, guacamole, pico de gallo.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Capotillo Roll</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Chicken tempura, queso frito, maduro, guacamole (longaniza guisada).
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -267,6 +533,27 @@
             <div class="delivery-item">
                 <div class="delivery-item-name">Tropical Salad</div>
                 <div class="delivery-item-price">$10</div>
+                <div class="delivery-item-description">
+                    Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Beef Tropical Salad</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shrimp Tropical Salad</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chicken Tropical Salad</div>
+                <div class="delivery-item-price">$14</div>
                 <div class="delivery-item-description">
                     Mixed greens, mango, feta cheese, walnuts, onion, cherry tomatoes, bell peppers, avocado, Asian balsamic vinaigrette.
                 </div>
@@ -290,7 +577,7 @@
             <div class="delivery-dots"></div>
             <div class="delivery-item">
                 <div class="delivery-item-name">Mar y Tierra</div>
-                <div class="delivery-item-price">$40</div>
+                <div class="delivery-item-price">Market Price</div>
                 <div class="delivery-item-description">
                     Our signature surf and turf comes with churrasco and lobster tail accompanied by yucca mash, asparagus and shrimps in special Ninja sauce.
                 </div>
@@ -300,6 +587,69 @@
                 <div class="delivery-item-price">$18</div>
                 <div class="delivery-item-description">
                     Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chicken Teriyaki Stir Fry</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shirmp Teriyaki Stir Fry</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Tofu Teriyaki Stir Fry</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Served with white jasmine rice.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Churrasco</div>
+                <div class="delivery-item-price">$27</div>
+                <div class="delivery-item-description">
+                    Our juicy, grilled skirt steak accompanied by Asian chimichurri and yucca mash.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Pollo Ninja</div>
+                <div class="delivery-item-price">$20</div>
+                <div class="delivery-item-description">
+                    Chicken breast stuffed with Dominican sausage and mozzarella cheese served with maduro mash and white bacon sauce.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Pechuga a la Plancha</div>
+                <div class="delivery-item-price">$18</div>
+                <div class="delivery-item-description">
+                    A traditional grilled chicken breast served with tostones.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Hanger Steak</div>
+                <div class="delivery-item-price">$22</div>
+                <div class="delivery-item-description">
+                    Our cut of Hanger Steak comes with a mushroom demi-glace and yucca fries.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Salmon a la Isla </div>
+                <div class="delivery-item-price">$24</div>
+                <div class="delivery-item-description">
+                    Perfectly grilled salmon with Asian creole sauce over garlic mashed potatoes and asparagus.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Pescado Relleno</div>
+                <div class="delivery-item-price">$28</div>
+                <div class="delivery-item-description">
+                    Crispy red snapper filled with maduro mash topped by bacalao and our famous Ninja’s Special Sauce.
                 </div>
             </div>
         </div>
@@ -321,6 +671,20 @@
                     Ninja’s fried rice with sweet plantain, veggies, egg.
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chicken Ninja Chofan</div>
+                <div class="delivery-item-price">$14</div>
+                <div class="delivery-item-description">
+                    Ninja’s fried rice with chicken, sweet plantain, veggies, egg.
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Shrimp Ninja Chofan</div>
+                <div class="delivery-item-price">$16</div>
+                <div class="delivery-item-description">
+                    Ninja’s fried rice with shrimp, sweet plantain, veggies, egg.
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -335,6 +699,12 @@
             </div>
             <div class="delivery-item">
                 <div class="delivery-item-name">Chicken Panko w/ Fries</div>
+                <div class="delivery-item-price">$8</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Cheeseburger w/ Fries</div>
                 <div class="delivery-item-price">$8</div>
                 <div class="delivery-item-description">
                 </div>
@@ -358,6 +728,13 @@
                     Our passion fruit flavored tres leches cake with a cloud of vanilla whipped cream.
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chocolate Mousse</div>
+                <div class="delivery-item-price">$7</div>
+                <div class="delivery-item-description">
+                    Our multilayered triple chocolate mousse .
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -375,6 +752,48 @@
                 <div class="delivery-item-description">
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Maduro Mash</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">White Rice</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Rice N' Beans</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Yucca Mash</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Sauteed Veggies</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">French Fries</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Yucca Fries</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -387,8 +806,26 @@
                 </div>
             </div>
             <div class="delivery-item">
-                <div class="delivery-item-name">Chinola Sauce </div>
+                <div class="delivery-item-name">Chinola Sauce</div>
                 <div class="delivery-item-price">$1</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Spicy Mayo</div>
+                <div class="delivery-item-price">$1</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Eel Sauce</div>
+                <div class="delivery-item-price">$2</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Bacon Sauce</div>
+                <div class="delivery-item-price">$2</div>
                 <div class="delivery-item-description">
                 </div>
             </div>
@@ -409,6 +846,36 @@
                 <div class="delivery-item-description">
                 </div>
             </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Chinola</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Guava</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Mango</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Lemonade</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Strawberry</div>
+                <div class="delivery-item-price">$6</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
         </div>
 
         <div class="delivery-section">
@@ -422,6 +889,24 @@
             </div>
             <div class="delivery-item">
                 <div class="delivery-item-name">Sprite</div>
+                <div class="delivery-item-price">$2</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Gingerale</div>
+                <div class="delivery-item-price">$2</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Diet Coke</div>
+                <div class="delivery-item-price">$2</div>
+                <div class="delivery-item-description">
+                </div>
+            </div>
+            <div class="delivery-item">
+                <div class="delivery-item-name">Sunkist</div>
                 <div class="delivery-item-price">$2</div>
                 <div class="delivery-item-description">
                 </div>

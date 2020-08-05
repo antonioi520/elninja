@@ -296,7 +296,7 @@
             <div class="col-md-12">
                 <h3 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider" style="background-color: #ee2929; margin-top: -30px;"></div>
-                <p class="section-description">Send us a message and we'll get back to you as soon as we can! <br>
+                <p class="section-description">Send us a message and we'll get back to you as soon as we can! <br id="content-desktop896">
                     To reserve a table, check out the <a href="reservations">Reservations</a> page! </p>
             </div>
         </div>
@@ -343,18 +343,20 @@
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon-Tues:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <!--strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br-->
+                        <strong>Mon:</strong><p style="padding-left:0;"> 3pm-10pm<span style="color: red; font-weight: 600">*</span></p> <br>
+                        <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 4pm-1am</p><br>
                         <strong>Sun:</strong><p style="padding-left:0;"> 3pm-11pm</p>
+                        <br><br>
+                        <strong style="color: red;">*Sushi take out only on Monday!</strong>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Location</h4>
                         <p>1007 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
-
+                    <br>
                 </div>
             </div>
 
