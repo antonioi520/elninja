@@ -138,9 +138,11 @@
     <br><br>
     <span class="menu-item-name">
         <center>
-            IMPORTANTE: Se agregará 18% de propina a todas las partes.
+            IMPORTANTE: el 15% de la propina se agregará a las fiestas hasta el 5 y el 20% de la propina se agregará a las fiestas de 6 o más.
+            <br><br>
+            IMPORTANT: 15% of gratuity will be added to all parties of 5 or more.
             <br>
-            IMPORTANT: 18% of gratuity will be added to all parties.
+            IMPORTANT: 20% of gratuity will be added to all parties of 6 or more.
         </center>
     </span>
 
@@ -151,7 +153,8 @@
         Por favor notifíquemos inmediatamente de cualquier alergia que usted tenga.
         <br> <br>
         IMPORTANT: Some items come raw or partially cooked and may increase the risk of foodborne illness. Consumers who are especially
-        vulnerable should only eat meat, seafood and other fully cooked animal foods. Please notify us immediately of any allergies you have.</span>
+        vulnerable should only eat meat, seafood and other fully cooked animal foods. Please notify us immediately of any allergies you have.
+    </span>
 </div>
 <br>
 <br>
