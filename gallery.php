@@ -705,6 +705,7 @@
 
     <br>
     <?php include("views/Gallery/el_ninja_tasting.html") ?>
+    <?php include("views/Gallery/el_ninja_opening.html") ?>
     <!--br>
     <!--?php include("views/Gallery/el_ninja_weekend.html") ?>
     <br>
@@ -1584,6 +1585,7 @@
 
     <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
     <?php include("views/Gallery/Modals/Tasting_Modal.html") ?>
+    <?php include("views/Gallery/Modals/Grand_Opening_Modal.html") ?>
     <?php include("views/Gallery/Modals/Ninja_Weekend_Modal.html") ?>
 
     <script>
@@ -1618,6 +1620,14 @@
 
         function closeTastingModal() {
             document.getElementById("tastingModal").style.display = "none";
+        }
+
+        function openOpeningModal() {
+            document.getElementById("openingModal").style.display = "block";
+        }
+
+        function closeOpeningModal() {
+            document.getElementById("openingModal").style.display = "none";
         }
 
         function openEventModalWeekend() {
@@ -1674,6 +1684,9 @@
         var tastingSlideIndex = 1;
         showTastingSlides(tastingSlideIndex);
 
+        var openingSlideIndex = 1;
+        showOpeningSlides(openingSlideIndex);
+
         var eventSlideWeekendIndex = 1;
         showEventSlidesWeekend(eventSlideWeekendIndex);
 
@@ -1706,6 +1719,14 @@
 
         function currentTastingSlide(n) {
             showTastingSlides(tastingSlideIndex = n);
+        }
+
+        function plusOpeningSlides(n) {
+            showOpeningSlides(openingSlideIndex += n);
+        }
+
+        function currentOpeningSlide(n) {
+            showOpeningSlides(openingSlideIndex = n);
         }
 
         function plusEventSlidesWeekend(n) {
@@ -1790,6 +1811,24 @@
             slides[tastingSlideIndex-1].style.display = "block";
             dots[tastingSlideIndex-1].className += " active";
             captionText.innerHTML = dots[tastingSlideIndex-1].alt;
+        }
+
+        function showOpeningSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("openingSlides");
+            var dots = document.getElementsByClassName("demoOpening");
+            var captionText = document.getElementById("captionOpening");
+            if (n > slides.length) {openingSlideIndex = 1}
+            if (n < 1) {openingSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[openingSlideIndex-1].style.display = "block";
+            dots[openingSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[openingSlideIndex-1].alt;
         }
 
         function showEventSlidesWeekend(n) {
