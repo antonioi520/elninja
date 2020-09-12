@@ -1293,7 +1293,7 @@
                             <span class="menu-item-price2"> $6</span>
                     </div>
                 </div>
-                <div class="entrees">
+                <!--div class="entrees">
                     <h2 style="font-weight: bolder;">WHITE WINE (BY THE BOTTLE)</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
@@ -1408,7 +1408,7 @@
                             <span class="menu-item-price2"> $175</span>
                             </span>
                     </div>
-                </div>
+                </div-->
                 <div class="entrees">
                     <h2 style="font-weight: bolder;">BEERS</h2>
                     <div class="red-title-divider"></div>
