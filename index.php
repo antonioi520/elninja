@@ -343,13 +343,13 @@
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon:</strong><p style="padding-left:0;"> 3pm-10pm<span style="color: red; font-weight: 600">*</span></p> <br>
+                        <strong>Mon:</strong><p style="padding-left:0;"> Closed</p> <br>
                         <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 5pm-12am</p><br>
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 4pm-1am</p><br>
                         <strong>Sun:</strong><p style="padding-left:0;"> 3pm-11pm</p>
-                        <br><br>
-                        <strong style="color: red;">*Monday open for sushi take out only!</strong>
+                        <br>
+                        <!--strong style="color: red;">*Monday open for sushi take out only!</strong-->
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Location</h4>

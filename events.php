@@ -149,7 +149,7 @@
         </div>
     </div>
 
-    <br><br id="content-desktop896">
+    <!--br><br id="content-desktop896">
 
     <h2 style="text-align: center;color:black;font-weight: 600">Recurring Events</h2>
     <div class="container" style="">
@@ -187,7 +187,7 @@
         </div>
     </div>
     <div class="col-md-6"></div>
-</div>
+</div-->
 <div class="col-md-6"></div>
 </div>
 
