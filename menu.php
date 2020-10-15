@@ -138,9 +138,9 @@
     <br><br>
     <span class="menu-item-name">
         <center>
-            IMPORTANTE: el 15% de la propina se agregará a las fiestas.
+            IMPORTANTE: el 18% de la propina se agregará a las fiestas.
             <br>
-            IMPORTANT: 15% of gratuity will be added to all parties.
+            IMPORTANT: 18% of gratuity will be added to all parties.
         </center>
     </span>
 
