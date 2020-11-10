@@ -345,9 +345,10 @@
                         <i class="far fa-calendar-alt" style="color: #ee2929;"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon:</strong><p style="padding-left:0;"> Closed</p> <br>
                         <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 5pm-10pm</p><br>
-                        <strong>Fri-Sat:</strong><p style="padding-left:0;"> 3pm-10:30pm</p><br>
-                        <strong>Sun:</strong><p style="padding-left:0;"> 1pm-9pm</p>
+                        <strong>Wed-Thurs:</strong><p style="padding-left:0;"> 4pm-10pm</p><br>
+                        <strong>Fri:</strong><p style="padding-left:0;"> 4pm-10:30pm</p><br>
+                        <strong>Sat:</strong><p style="padding-left:0;"> 3pm-10:30pm</p><br>
+                        <strong>Sun:</strong><p style="padding-left:0;"> 12pm-9pm</p>
                         <br>
                         <!--strong style="color: red;">*Monday open for sushi take out only!</strong-->
                     </div>
