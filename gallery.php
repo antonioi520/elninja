@@ -47,7 +47,7 @@
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="img/Interior/3.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
+            <img class="d-block w-100" src="img/Interior/ENR-Tasting-73%20-%20Copy.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                <!-- <center>
                     <img src="img/logo.png" class="galleryHeaderImage">
@@ -649,7 +649,7 @@
         </div>
     </div>
 
-    <br>
+    <!--br>
     <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
@@ -701,7 +701,7 @@
                 <img id="galleryImg" src="img/MenuThumbs/Menu%20Drinks-3.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(15)" class="hover-shadow cursor">
             </div>
         </div>
-    </div>
+    </div-->
 
     <br>
     <?php include("views/Gallery/el_ninja_tasting.html") ?>
