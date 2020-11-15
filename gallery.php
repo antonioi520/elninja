@@ -47,7 +47,7 @@
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="img/Interior/3.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
+            <img class="d-block w-100" src="img/Interior/ENR-Tasting-73%20-%20Copy.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
             <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
                <!-- <center>
                     <img src="img/logo.png" class="galleryHeaderImage">
@@ -428,228 +428,94 @@
                 <img id="galleryImg" src="img/StaffThumbs/s1.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/s2.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/s3.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/s3.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-4.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-1.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-14.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-2.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-20.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-3.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-25.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-4.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-26.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-5.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-28.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(8)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-6.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(9)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-35.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(9)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-7.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(10)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-39.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(10)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-8.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(11)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-51.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(11)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-9.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(12)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-52.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(12)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-10.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(13)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-18.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(13)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-11.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(14)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-19.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(14)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-12.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(15)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-22.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(15)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-13.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(16)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-41.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(16)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-14.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(17)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-13.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(17)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-15.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(18)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-16.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(18)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-16.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(19)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-44.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(19)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-17.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(20)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-58.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(20)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-18.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(21)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-59.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(21)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-19.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(22)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-61.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(22)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-20.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(23)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-66.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(23)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-21.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(24)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-68.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(24)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-22.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(25)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-76.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(25)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-23.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(26)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-86.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(26)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-24.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(27)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-118.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(27)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-25.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(28)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-123.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(28)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-26.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(29)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-27.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(30)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-28.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(31)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-29.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(32)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-30.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(33)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-31.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(34)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-32.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(35)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-33.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(36)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-34.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(37)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-35.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(38)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-36.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(39)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-37.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(40)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-38.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(41)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-39.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(42)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-40.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(43)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-41.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(44)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-42.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(45)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-43.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(46)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-44.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(47)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-45.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(48)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-46.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(49)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-47.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(50)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-48.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(51)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-49.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(52)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-50.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(53)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-51.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(54)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-52.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(55)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-53.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(56)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/NinjaThumbs/ENR%20-%20Heeadshots%20&%20Photoshoot-54.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(57)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-18.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(58)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-19.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(59)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-22.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(60)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-41.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(61)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-13.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(62)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-16.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(63)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-44.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(64)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-58.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(65)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-59.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(66)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-61.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(67)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-66.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(68)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-68.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(69)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-76.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(70)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-86.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(71)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-118.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(72)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-123.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(73)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-139.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(74)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-139.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(29
+                )" class="hover-shadow cursor">
             </div>
         </div>
     </div>
 
-    <br>
+    <!--br>
     <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
@@ -701,7 +567,7 @@
                 <img id="galleryImg" src="img/MenuThumbs/Menu%20Drinks-3.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(15)" class="hover-shadow cursor">
             </div>
         </div>
-    </div>
+    </div-->
 
     <br>
     <?php include("views/Gallery/el_ninja_tasting.html") ?>
@@ -1206,299 +1072,119 @@
         <div class="modal-content">
 
             <div class="staffSlides">
-                <div class="numbertext">1 / 74</div>
+                <div class="numbertext">1 / 29</div>
                 <img id="staffImg" src="img/Staff/s1.JPG" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">2 / 74</div>
-                <img id="staffImg" src="img/Staff/s2.JPG" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">3 / 74</div>
+                <div class="numbertext">2 / 29</div>
                 <img id="staffImg" src="img/Staff/s3.JPG" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">4 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-1.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">5 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-2.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">6 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-3.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">7 / 74</div>
+                <div class="numbertext">3 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-4.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">8 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-5.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">9 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-6.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">10 / 97</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-7.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">11 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-8.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">12 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-9.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">13 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-10.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">14 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-11.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">15 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-12.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">16 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-13.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">17 / 74</div>
+                <div class="numbertext">4 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-14.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">18 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-15.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">19 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-16.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">20 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-17.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">21 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-18.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">22 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-19.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">23 / 74</div>
+                <div class="numbertext">5 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-20.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">24 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-21.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">25 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-22.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">26 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-23.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">27 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-24.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">28 / 74</div>
+                <div class="numbertext">6 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-25.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">29 / 74</div>
+                <div class="numbertext">7 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-26.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">30 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-27.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">31 / 74</div>
+                <div class="numbertext">8 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-28.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">32 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-29.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">33 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-30.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">34 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-31.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">35 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-32.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">36 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-33.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">37 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-34.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">38 / 74</div>
+                <div class="numbertext">9 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-35.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">39 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-36.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">40 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-37.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">41 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-38.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">42 / 74</div>
+                <div class="numbertext">10 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-39.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">43 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-40.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">44 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-41.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">45 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-42.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">46 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-43.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">47 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-44.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">48 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-45.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">49 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-46.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">50 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-47.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">51 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-48.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">52 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-49.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">53 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-50.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">54 / 74</div>
+                <div class="numbertext">11 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-51.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">55 / 74</div>
+                <div class="numbertext">12 / 29</div>
                 <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-52.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">56 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-53.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">57 / 74</div>
-                <img id="staffImg" src="img/Ninja/ENR%20-%20Heeadshots%20&%20Photoshoot-54.jpg" style="width:100%">
-            </div>
-            <div class="staffSlides">
-                <div class="numbertext">58 / 74</div>
+                <div class="numbertext">13 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-18.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">59 / 74</div>
+                <div class="numbertext">14 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-19.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">60 / 74</div>
+                <div class="numbertext">15 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-22.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">61 / 74</div>
+                <div class="numbertext">16 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-41.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">62 / 74</div>
+                <div class="numbertext">17 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-13.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">63 / 74</div>
+                <div class="numbertext">18 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-16.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">64 / 74</div>
+                <div class="numbertext">19 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-44.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">65 / 74</div>
+                <div class="numbertext">20 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-58.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">66 / 74</div>
+                <div class="numbertext">21 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-59.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">67 / 74</div>
+                <div class="numbertext">22 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-61.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">68 / 74</div>
+                <div class="numbertext">23 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-66.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">69 / 74</div>
+                <div class="numbertext">24 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-68.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">70 / 74</div>
+                <div class="numbertext">25 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-76.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">71 / 74</div>
+                <div class="numbertext">26 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-86.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">72 / 74</div>
+                <div class="numbertext">27 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-118.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">73 / 74</div>
+                <div class="numbertext">28 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-123.jpg" style="width:100%">
             </div>
             <div class="staffSlides">
-                <div class="numbertext">74 / 74</div>
+                <div class="numbertext">29 / 29</div>
                 <img id="staffImg" src="img/Staff/ENR-Tasting-139.jpg" style="width:100%">
             </div>
 
@@ -1508,7 +1194,7 @@
         </div>
     </div>
 
-    <div id="menuModal" class="modal">
+    <!--div id="menuModal" class="modal">
         <span class="close cursor" onclick="closeMenuModal()">&times;</span>
         <div class="modal-content">
 
@@ -1576,12 +1262,11 @@
             <a class="prev" onclick="plusMenuSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusMenuSlides(1)">&#10095;</a>
 
-            <!-- Caption text -->
             <div class="caption-container" style="height: 25px;">
                 <p id="captionmenu" style="color:white;"></p>
             </div>
         </div>
-    </div>
+    </div-->
 
     <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
     <?php include("views/Gallery/Modals/Tasting_Modal.html") ?>

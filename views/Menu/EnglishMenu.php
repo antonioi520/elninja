@@ -2,6 +2,7 @@
     <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
         <a class="nav-item nav-link active menunavitem" id="nav-all-tab" data-toggle="tab" href="#nav-all" role="tab" aria-controls="nav-all" aria-selected="true">All</a>
         <a class="nav-item nav-link menunavitem" id="nav-app-tab" data-toggle="tab" href="#nav-app" role="tab" aria-controls="nav-app" aria-selected="false">Appetizers</a>
+        <a class="nav-item nav-link menunavitem" id="nav-brunch-tab" data-toggle="tab" href="#nav-brunch" role="tab" aria-controls="nav-brunch" aria-selected="false">Brunch</a>
         <a class="nav-item nav-link menunavitem" id="nav-rolls-tab" data-toggle="tab" href="#nav-rolls" role="tab" aria-controls="nav-rolls" aria-selected="false">Rolls</a>
         <a class="nav-item nav-link menunavitem" id="nav-entrees-tab" data-toggle="tab" href="#nav-entrees" role="tab" aria-controls="nav-entrees" aria-selected="false">Entrees</a>
         <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false">Etc.</a>
@@ -12,6 +13,7 @@
     <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
         <a class="nav-item nav-link active menunavitem" id="nav-all-tab" data-toggle="tab" href="#nav-all" role="tab" aria-controls="nav-all" aria-selected="true" style="margin-left: 0px;">All</a>
         <a class="nav-item nav-link menunavitem" id="nav-app-tab" data-toggle="tab" href="#nav-app" role="tab" aria-controls="nav-app" aria-selected="false" style="margin-left: 0px;">Appetizers</a>
+        <a class="nav-item nav-link menunavitem" id="nav-brunch-tab" data-toggle="tab" href="#nav-brunch" role="tab" aria-controls="nav-brunch" aria-selected="false" style="margin-left: 0px;">Brunch</a>
         <a class="nav-item nav-link menunavitem" id="nav-rolls-tab" data-toggle="tab" href="#nav-rolls" role="tab" aria-controls="nav-rolls" aria-selected="false" style="margin-left: 0px;">Rolls</a>
         <a class="nav-item nav-link menunavitem" id="nav-entrees-tab" data-toggle="tab" href="#nav-entrees" role="tab" aria-controls="nav-entrees" aria-selected="false" style="margin-left: 0px;">Entrees</a>
         <a class="nav-item nav-link menunavitem" id="nav-etc-tab" data-toggle="tab" href="#nav-etc" role="tab" aria-controls="nav-etc" aria-selected="false" style="margin-left: 0px;">Etc.</a>
@@ -22,7 +24,6 @@
 
 <div class="tab-content" id="nav-tabContent">
     <div class="tab-content" id="nav-tabContent">
-
         <div class="tab-pane fade show active" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
             <center>
                 <br><br>
@@ -250,6 +251,64 @@
                                 <span class="menu-item-price" style="float:right;color:black"> $8</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Asparagus tempura, Japanese sweet potato, maduro, guacamole, pico de gallo.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">BRUNCH</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">DOMINICAN OMELET
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2">With Dominican sausage.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHICKEN AND WAFFLES
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA BURGER
+                            <span class="menu-item-price2"> $16</span>
+                            </span>
+                        <p class="menu-item-description2">Bacon, eggs, avocado, lettuce, tomatoes and cheese. With fries.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">STEAK AND EGGS
+                            <span class="menu-item-price2"> $18</span>
+                            </span>
+                        <p class="menu-item-description2">With fries.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">3 GOLPES
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Mangu, eggs, cheese, salami.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHICKEN ALFREDO
+                            <span class="menu-item-price2"> $16</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA SANCOCHO
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">With white rice.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">GRILLED SALMON
+                            <span class="menu-item-price2"> $18</span>
+                            </span>
+                        <p class="menu-item-description2">Baked potatoes, smoked salmon and spicy mayo.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA EGGS BENEDICT
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
                     </div>
                 </div>
                 <div class="appetizers">
@@ -713,6 +772,84 @@
                 </div>
             </div>
         </div>
+        <div class="tab-pane fade" id="nav-brunch" role="tabpanel" aria-labelledby="nav-brunch-tab">
+            <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="margin-top: 40px;" >
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">Brunch</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">DOMINICAN OMELET
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2">With Dominican sausage.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHICKEN AND WAFFLES
+                            <span class="menu-item-price2"> $12</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA BURGER
+                            <span class="menu-item-price2"> $16</span>
+                            </span>
+                        <p class="menu-item-description2">Bacon, eggs, avocado, lettuce, tomatoes and cheese. With fries.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">STEAK AND EGGS
+                            <span class="menu-item-price2"> $18</span>
+                            </span>
+                        <p class="menu-item-description2">With fries.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">3 GOLPES
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Mangu, eggs, cheese, salami.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">CHICKEN ALFREDO
+                            <span class="menu-item-price2"> $16</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA SANCOCHO
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">With white rice.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">GRILLED SALMON
+                            <span class="menu-item-price2"> $18</span>
+                            </span>
+                        <p class="menu-item-description2">Baked potatoes, smoked salmon and spicy mayo.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">NINJA EGGS BENEDICT
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">Drinks/Bebidas</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">MIMOSA
+                            <span class="menu-item-price2"> $5/$15</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">SANGRIA
+                            <span class="menu-item-price2"> $6/$25</span>
+                            </span>
+                        <p class="menu-item-description2"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="tab-pane fade" id="nav-rolls" role="tabpanel" aria-labelledby="nav-rolls-tab">
             <div class="menu menu-row menu-wrap menu-center" id="rollsDiv" style="margin-top: 40px;" >
                 <div class="appetizers">
@@ -1154,9 +1291,9 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PITCHERS
-                            <span class="menu-item-price2"> $32/$20</span>
+                            <span class="menu-item-price2"> $40/$22</span>
                             </span>
-                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $20</p>
+                        <p class="menu-item-description2">Full Pitcher - $40 <br> 1/2 Pitcher - $22</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">REGULAR
@@ -1184,9 +1321,9 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PITCHERS
-                            <span class="menu-item-price2"> $32/$20</span>
+                            <span class="menu-item-price2"> $40/$22</span>
                             </span>
-                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $20</p>
+                        <p class="menu-item-description2">Full Pitcher - $40 <br> 1/2 Pitcher - $22</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">REGULAR
@@ -1293,7 +1430,7 @@
                             <span class="menu-item-price2"> $6</span>
                     </div>
                 </div>
-                <div class="entrees">
+                <!--div class="entrees">
                     <h2 style="font-weight: bolder;">WHITE WINE (BY THE BOTTLE)</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
@@ -1376,9 +1513,9 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">PITCHERS
-                            <span class="menu-item-price2"> $32/$20</span>
+                            <span class="menu-item-price2"> $40/$22</span>
                             </span>
-                        <p class="menu-item-description2">Full Pitcher - $32 <br> 1/2 Pitcher - $20</p>
+                        <p class="menu-item-description2">Full Pitcher - $40 <br> 1/2 Pitcher - $22</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">RED/WHITE
@@ -1408,7 +1545,7 @@
                             <span class="menu-item-price2"> $175</span>
                             </span>
                     </div>
-                </div>
+                </div-->
                 <div class="entrees">
                     <h2 style="font-weight: bolder;">BEERS</h2>
                     <div class="red-title-divider"></div>
