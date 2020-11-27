@@ -290,7 +290,40 @@ a.pointer {
     transition: 0.5s;
     color:white;
 }
+.orderButton{
+    width: 300px !important;
+    height: 75px !important; 
+    text-align: center !important;
+    margin-left:35% !important;
+}
+#menuBox4{
+    transition: 0.5s;
+    position:absolute;
+    z-index: 1;
+    height:3.750em;
+    width: 12.500em;
+    border: 0.188em solid #ee2929;
+    opacity: .9;
+    border-radius: 0.313em;
+    background-color: #ee2929;
+}
 
+#menuBox4:hover{
+    text-decoration: none;
+}
+#menuBox4:active{
+    text-decoration: none;
+}
+#menuBoxText4{
+    color:white;
+    margin-top: 15px;
+}
+
+#menuBoxText4:hover{
+    color:white;
+    margin-top: 15px;
+    text-decoration: none;
+}
 #menuBox{
     transition: 0.5s;
     position:absolute;
@@ -594,8 +627,20 @@ a.pointer {
     .imglogohead{
         margin-top: -5em;
     }
+    .orderButton{
+        margin-left:0% !important;
+    }
 
 
+}
+/* Ipad */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  
+    { 
+        .orderButton{
+            margin-left:25% !important;
+    }
 }
 @media (max-width: 896px) {
     #hero h1 {
