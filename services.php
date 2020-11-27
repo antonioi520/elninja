@@ -84,7 +84,7 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px;height:330px;" id="aboutImg">
+                <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px;height:350px;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -104,13 +104,13 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 467-2581 and we'll prepare your order ahead of time for you! When it's ready,
+                    Give us a call at (401) 467-2581 and we'll prepare your order ahead of time for you! Alternatively, order your food now via our new online ordering system When it's ready,
                     pick it up on location at 1007 Broad Street Providence, RI 02905.
                 </p>
 
                 <br>
 
-                <a href="takeout" id="menuBox" style="width: 350px; height: 75px;"><h2 id="menuBoxText">View Takeout Page</h2></a>
+                <a href="https://orders.cake.net/11338569" id="menuBox" style="width: 300px; height: 75px;"><h2 id="menuBoxText">Order Online</h2></a>
 
             </div>
         </div>
