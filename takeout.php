@@ -43,9 +43,9 @@
 </head>
 <body>
 <!-- Header -->
-
-
 <?php include("views/nav_pages.html")?>
+
+
 <BR>
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
     <div class="carousel-inner">
@@ -55,7 +55,7 @@
 
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Services</h1>
+                        <h1 class="big-heading bigHeaderText animated fadeInDown" style="top:-10px;">Takeout</h1>
                     </div>
                 </center>
             </div>
@@ -75,119 +75,65 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Our Services</h1>
+                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Takeout Menu</h1>
                 <center>
                 <div class="red-title-divider"></div>
+                <br>
             </div>
         </div>
     </div>
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="width:520px;height:350px;" id="aboutImg">
+                <img src="img/FoodDrink/ENR-Tasting-98.jpg" alt="" style="width:520px;height:330px;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/FoodDrink/ElNinjaFood-16.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/FoodDrink/ENR-Tasting-98.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Catering</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Order via Phone</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Call us at (401) 467-2581 to learn more about our catering services!
+                    Give us a call at (401) 467-2581 and we'll prepare your order ahead of time for you! When it's ready,
+                    pick it up on location at 1007 Broad Street Providence, RI 02905. You can view our takeout menu <a href="menu">here</a>
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Order Online</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 467-2581 and we'll prepare your order ahead of time for you! Alternatively, order your food now via our new online ordering system When it's ready,
-                    pick it up on location at 1007 Broad Street Providence, RI 02905.
+                    Order your food now via our new online ordering system! When it's ready,
+                    pick it up on location at 1007 Broad Street Providence, RI 02905. Click the button below to start your order!
                 </p>
 
                 <br>
 
-                <a href="https://orders.cake.net/11338569" id="menuBox" style="width: 300px; height: 75px;"><h2 id="menuBoxText">Order Online</h2></a>
+            </div>
 
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+                <br>
+                <a href="https://orders.cake.net/11338569" target="_blank" class="orderButton" id="menuBox4" ><h2 id="menuBoxText4">Order Now</h2></a>
+                <br>
             </div>
         </div>
     </div>
+    
 </section>
 
 <br>
 
-</section>
-<!--==========================
-  Subscribe Section
-  ============================-->
-<section id="subscribe">
-    <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-                <img src="img/imgheadersushi.png" style="text-align: center;display: block;margin:auto;">
-            </div>
-        </div>
-    </div>
-</section>
 
-<section id="about">
-    <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-                <center>
-                    <h1 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;color:black;margin-bottom: 10px;">Partners</h1>
-                    <center>
-                <div class="red-title-divider"></div>
-            </div>
-        </div>
-    </div>
-    <div class="container about-container wow fadeInUp">
-        <div class="row">
-            <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/s1.JPG" alt="" style="width:520px; height: 510px; object-fit: cover;" id="aboutImg">
-            </div>
-
-            <div class="col-lg-6 about-img" id="content-mobile896">
-                <center>
-                    <img src="img/Staff/s1.JPG" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
-                </center>
-            </div>
-
-            <div class="col-md-6 about-content">
-
-                <h2 class="about-title" style="margin-bottom: 10px;">The Bomes Theatre</h2>
-                <p class="about-text">
-                    The Bomes Theatre, on the south side of Providence is about to get new life, bringing you monthly performance events with all types of genres. Catering at the Bomes Theatre is provided by Mi Alma.
-                </p>
-
-                <br>
-
-                <a href="https://www.TheBomesTheatre.com" id="menuBox" target="_blank" style="width: 250px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
-
-                <br> <br><br><br>
-
-                <h2 class="about-title" style="margin-bottom: 10px;">Mi Alma Restaurant</h2>
-                <p class="about-text">
-                    Mi Alma Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre, boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff! We also provide catering for your events hosted at the Bomes Theatre.
-                </p>
-
-                <br>
-
-                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 250px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
-
-                <br id="content-desktop">
-
-            </div>
-        </div>
-    </div>
-</section>
 
 <br>
+
 <?php include("views/footer.html")?>
-
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
