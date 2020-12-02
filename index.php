@@ -95,7 +95,7 @@
     </div>
 </section>
 
-<div class="container">
+<!--div class="container">
     <center>
         <div id="content-desktop896">
             <img class="d-inline-block" id="content-desktop896" style="max-width: 40%; max-height:40%;" src="img/posterupdated.jpg">
@@ -104,7 +104,7 @@
     </center>
 </div>
 
-<br><br><br>
+<br><br><br-->
 
 <!--==========================
   Bio Section
