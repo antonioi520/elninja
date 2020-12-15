@@ -117,7 +117,7 @@
 </section>
 
 <div class="container">
-    <div class="row">
+    <!--div class="row">
         <div class="col-md-6 about-content">
             <h1 class="about-title" style="font-family: 'Poppins';font-size: 3.125em;font-weight:700;color:black;margin-bottom: 10px;">Grubhub</h1>
 
@@ -144,7 +144,7 @@
         </div>
     </div>
 
-    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896">
+    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896"-->
 
     <div class="row">
         <div class="col-lg-6 about-img" id="content-desktop896">
@@ -165,7 +165,7 @@
             </p>
 
             <br>
-            <a href="https://www.ubereats.com/providence/food-delivery/el-ninja-restaurant/zUUOdDlkQfm2CVsvURRPTA" target="_blank" id="menuBox" style="width: 320px; height: 75px;"><h2 id="menuBoxText">View in Uber Eats</h2></a>
+            <a href="https://www.ubereats.com/providence/food-delivery/el-ninja-restaurant/zUUOdDlkQfm2CVsvURRPTA?pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjE2OSUyMFJvbWUlMjBDdCUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMjE0ZDllNTYzLWIwY2QtNjUyNi0yMjMwLThiNjJkMGZjMjk1OSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJ1YmVyX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNDEuNzczNDg3MyUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MS41MDA5Nzk1JTdE" target="_blank" id="menuBox" style="width: 320px; height: 75px;"><h2 id="menuBoxText">View in Uber Eats</h2></a>
 
             <br>
 
