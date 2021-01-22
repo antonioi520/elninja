@@ -1288,36 +1288,6 @@
         <div class="tab-pane fade" id="nav-drinks1" role="tabpanel" aria-labelledby="nav-drinks-tab1">
             <div class="menu menu-row menu-wrap menu-center" id="drinksDiv" style="margin-top: 40px;" >
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">NINJA'S MOJITOS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">PITCHERS
-                            <span class="menu-item-price2"> $40/$22</span>
-                            </span>
-                        <p class="menu-item-description2">Full Pitcher - $40 <br> 1/2 Pitcher - $22</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">REGULAR
-                            <span class="menu-item-price2"> $12</span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">COCONUT
-                            <span class="menu-item-price2"> $12</span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">GUAVA
-                            <span class="menu-item-price2"> $12</span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">STRAWBERRY
-                            <span class="menu-item-price2"> $12</span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">CHINOLA
-                            <span class="menu-item-price2"> $12</span>
-                    </div>
-                </div>
-                <div class="entrees">
                     <h2 style="font-weight: bolder;">NINJARITAS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
@@ -1327,27 +1297,65 @@
                         <p class="menu-item-description2">Full Pitcher - $40 <br> 1/2 Pitcher - $22</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">REGULAR
+                            <span class="menu-item-title2">REGULAR (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">LA ROJA (STRAWBERRY)
+                            <span class="menu-item-title2">BLUE CARACAO (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">AZUL (BLUE CARACAO)
+                            <span class="menu-item-title2">COCONUT (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">AMBER (GUAVA)
+                            <span class="menu-item-title2">GUAVA (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">VEIDE (MANGO)
+                            <span class="menu-item-title2">PASSIONFRUIT (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">AMARILLO (PASSION FRUIT)
+                            <span class="menu-item-title2">STRAWBERRY (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">TAMARIND (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">NINJA'S MOJITOS</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PITCHERS
+                            <span class="menu-item-price2"> $40/$22</span>
+                            </span>
+                        <p class="menu-item-description2">Full Pitcher - $40 <br> 1/2 Pitcher - $22</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">REGULAR (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">COCONUT (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">GUAVA (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">GUAVA (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">PASSIONFRUIT (16oz)
+                            <span class="menu-item-price2"> $12</span>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">STRAWBERRY (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
                 </div>
@@ -1355,16 +1363,28 @@
                     <h2 style="font-weight: bolder;">SPECIALTY COCKTAILS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">NINJA PUNCH
-                            <span class="menu-item-price2"> $14</span>
+                            <span class="menu-item-title2">BLUE BREEZE
+                            <span class="menu-item-price2"> $10</span>
                             </span>
-                        <p class="menu-item-description2">Jack Daniels, Peach Snapps, guava, passion fruit, blackberry & strawberry.</p>
+                        <p class="menu-item-description2">Vodka, Malibu Rum, Blue Curacao & Pineapple.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">FOKIN NINJA
                             <span class="menu-item-price2"> $16</span>
                             </span>
                         <p class="menu-item-description2">Hennesy, Grand Marnier, passion fruit.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">HAPPY ENDING
+                            <span class="menu-item-price2"> $14</span>
+                            </span>
+                        <p class="menu-item-description2">Vodka, Peach Ciroc, lime juice & rosemary infused syrup.</p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">HENNY COLADA
+                            <span class="menu-item-price2"> $15</span>
+                            </span>
+                        <p class="menu-item-description2">Hennesy, rum, coconut cream & pineapple juice.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">JAPANESE LOVER
@@ -1379,28 +1399,109 @@
                         <p class="menu-item-description2">Gin, lime juice & strawberry.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">BLUE BREEZE
-                            <span class="menu-item-price2"> $10</span>
+                            <span class="menu-item-title2">NINJA PUNCH
+                            <span class="menu-item-price2"> $14</span>
                             </span>
-                        <p class="menu-item-description2">Vodka, Malibu rum, blue curacao, pineapple.</p>
+                        <p class="menu-item-description2">Jack Daniels, Peach Schnapps, guava, passion fruit, blackberry & strawberry.</p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">VENENOSA
                             <span class="menu-item-price2"> $14</span>
                             </span>
-                        <p class="menu-item-description2">Jack Apple, Midori, lime juice & cinammon infused syrup.</p>
+                        <p class="menu-item-description2">Jack Apple, Midori, lime juice & cinnamon infused syrup.</p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">CHAMPAGNE/SPARKLING WINE <br> (BY THE GLASS/BOTTLE)</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moscato (Angelini, Italy)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">HAPPY ENDING
-                            <span class="menu-item-price2"> $14</span>
+                            <span class="menu-item-title2">Prosecco (Split)
+                            <span class="menu-item-price2">BOTTLE: $10</span>
+                                <br> [Carpene Malvotti, Italy]
                             </span>
-                        <p class="menu-item-description2">Vodka, Peach Ciroc, lime juice & rosemary infused syrup.</p>
+                        <p><br></p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">HENNY COLADA
-                            <span class="menu-item-price2"> $15</span>
+                            <span class="menu-item-title2">Moët and Chandon Imperial Brut
+                            <span class="menu-item-price2"> BOTTLE: $175</span>
+                                <br> (Épernay, France)
                             </span>
-                        <p class="menu-item-description2">Hennesy, rum, coconut cream & pineapple juice.</p>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moët and Chandon Ice Impérial
+                            <span class="menu-item-price2"> BOTTLE: $150</span>
+                                <br> (Épernay, France)
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Moët and Chandon Rose
+                            <span class="menu-item-price2"> BOTTLE: $125</span>
+                                <br> (Épernay, France)
+                            </span>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">WHITE WINE <br> (BY THE GLASS/BOTTLE)</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Chardonnay (AltoSur, Argentina)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Pinot Grigio (Angelini, Italy)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Rose (Mateus, Portugal)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Sauvignon Blanc (Satelite, New Zealand)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                </div>
+                <div class="entrees">
+                    <h2 style="font-weight: bolder;">RED WINE <br> (BY THE GLASS/BOTTLE)</h2>
+                    <div class="red-title-divider"></div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2"> Cabernet Sauvignon (Sophenia, Argentina)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2"> Garnacha (Lo Brujo, Spain)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Merlot (Barnard Griffin, Washington)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
+                    </div>
+                    <div class="menu-item2">
+                            <span class="menu-item-title2">Pinot Noir (Six Stones, Oregon)
+                            <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                            </span>
+                        <p><br></p>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1431,82 +1532,27 @@
                             <span class="menu-item-price2"> $6</span>
                     </div>
                 </div>
-                <!--div class="entrees">
-                    <h2 style="font-weight: bolder;">WHITE WINE (BY THE BOTTLE)</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Bogle Phantom Chardonnay (California)
-                            <span class="menu-item-price2"> $52</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Chateau Ste Michelle Chardonnay <br> (Colombia Valley, Washington)
-                            <span class="menu-item-price2"> $40</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Fizz 56 d'Asti Moscato (Italy)
-                            <span class="menu-item-price2"> $56</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Mezzacorona Moscato (Italy)
-                            <span class="menu-item-price2"> $52</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Santa Margherita Pinot Grigio (Italy)
-                            <span class="menu-item-price2"> $72</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Mezzacorona Pinot Grigio (Italy)
-                            <span class="menu-item-price2"> $42</span>
-                            </span>
-                    </div>
-                </div>
                 <div class="entrees">
-                    <h2 style="font-weight: bolder;">WHITE WINE (BY THE GLASS)</h2>
+                    <h2 style="font-weight: bolder;">BEERS</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">House White
-                            <span class="menu-item-price2"> $8</span>
+                            <span class="menu-item-title2">JAPANESE
+                            <span class="menu-item-price2"> $6/$10</span>
                             </span>
-                        <p class="menu-item-description2">Pinot Grigio <br>Chardonay <br>Moscato <br>Rose</p>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">RED WINE (BY THE BOTTLE)</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Chateau Ste Michelle Merlot (Columbia Valley)
-                            <span class="menu-item-price2"> $54</span>
-                            </span>
+                        <p class="menu-item-description2">Sapporo - 12oz bottle $6.00 <br> Sapporo - 22oz can $10.00
+                        </p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Emmolo Merlot by Caymus (Napa Valley)
-                            <span class="menu-item-price2"> $144</span>
+                            <span class="menu-item-title2">IMPORTED
+                            <span class="menu-item-price2"> $5</span>
                             </span>
+                        <p class="menu-item-description2">Corona, Corona Light, Heineken, Heineken Light, Presidente, Presidente Light, Modelo.</p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Chateau Ste Michelle Cabernet Sauvignon<br> (Columbia Valley)
-                            <span class="menu-item-price2"> $54</span>
+                            <span class="menu-item-title2">DOMESTIC
+                            <span class="menu-item-price2"> $4</span>
                             </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Caymus Cabernet Sauvignon (Napa Valley)
-                            <span class="menu-item-price2"> $144</span>
-                            </span>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">RED WINE (BY THE GLASS)</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">House Red
-                            <span class="menu-item-price2"> $8</span>
-                            </span>
-                        <p class="menu-item-description2">Garnacha <br>Merlot <br>Cabernet Sauvignon</p>
+                        <p class="menu-item-description2">Blue Moon, Bud Light, Budweiser, Coors Light, Ginger Beer.</p>
                     </div>
                 </div>
                 <div class="entrees">
@@ -1521,51 +1567,13 @@
                     <div class="menu-item2">
                             <span class="menu-item-title2">RED/WHITE
                             <span class="menu-item-price2"> $10</span>
+                            </span>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">GINGER PEACH SANGRIA
                             <span class="menu-item-price2"> $12</span>
+                            </span>
                             <p class="menu-item-description2">White Wine, grand marnier, ginger juice, peaches, lemon and mint.</p>
-                    </div>
-                </div>
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">SPARKLINGS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Moet and Chandon Nectar Imperial Rose
-                            <span class="menu-item-price2"> $175</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Moet and Chandon Ice Imperial
-                            <span class="menu-item-price2"> $200</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">Moet and Chandon Imperial Brut
-                            <span class="menu-item-price2"> $175</span>
-                            </span>
-                    </div>
-                </div-->
-                <div class="entrees">
-                    <h2 style="font-weight: bolder;">BEERS</h2>
-                    <div class="red-title-divider"></div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">JAPANESE
-                            <span class="menu-item-price2"> $6</span>
-                            </span>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">IMPORTED
-                            <span class="menu-item-price2"> $5</span>
-                            </span>
-                        <p class="menu-item-description2">Corona, Corona Light, Heineken, Heineken Light, Presidente, Presidente Light, Modelo, Guiness.</p>
-                    </div>
-                    <div class="menu-item2">
-                            <span class="menu-item-title2">DOMESTIC
-                            <span class="menu-item-price2"> $4</span>
-                            </span>
-                        <p class="menu-item-description2">Bud Light, Budweiser, Coors Light, Ginger Beers.</p>
                     </div>
                 </div>
             </div>
