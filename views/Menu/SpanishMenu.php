@@ -1428,21 +1428,21 @@
                         <p><br></p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Moët and Chandon Imperial Brut
+                            <span class="menu-item-title2">Moët & Chandon Brut
                             <span class="menu-item-price2"> BOTTLE: $100</span>
                                 <br> (Épernay, France)
                             </span>
                         <p><br></p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Moët and Chandon Ice Impérial
+                            <span class="menu-item-title2">Moët & Chandon Ice Impérial
                             <span class="menu-item-price2"> BOTTLE: $150</span>
                                 <br> (Épernay, France)
                             </span>
                         <p><br></p>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">Moët and Chandon Rose
+                            <span class="menu-item-title2">Moët & Chandon Rose
                             <span class="menu-item-price2"> BOTTLE: $125</span>
                                 <br> (Épernay, France)
                             </span>
