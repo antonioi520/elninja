@@ -1454,7 +1454,7 @@
                             <span class="menu-item-title2">Chardonnay (AltoSur, Argentina)
                             <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
                             </span>
-                        <p><br></p>
+                        <p><br><br></p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">Pinot Grigio (Angelini, Italy)
@@ -1472,15 +1472,16 @@
                             <span class="menu-item-title2">Sauvignon Blanc (Satelite, New Zealand)
                             <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
                             </span>
-                        <p><br></p>
+                        <p><br><br></p>
                     </div>
                 </div>
                 <div class="entrees">
                     <h2 style="font-weight: bolder;">RED WINE <br> (BY THE GLASS/BOTTLE)</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2"> Cabernet Sauvignon (Sophenia, Argentina)
+                            <span class="menu-item-title2"> Cabernet Sauvignon
                             <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
+                                <br> (Sophenia, Argentina)
                             </span>
                         <p><br></p>
                     </div>
@@ -1494,7 +1495,7 @@
                             <span class="menu-item-title2">Merlot (Barnard Griffin, Washington)
                             <span class="menu-item-price2"> GLASS: $9 <br> BOTTLE: $33</span>
                             </span>
-                        <p><br></p>
+                        <p><br><br></p>
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">Pinot Noir (Six Stones, Oregon)
