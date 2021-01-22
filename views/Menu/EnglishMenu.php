@@ -1346,10 +1346,6 @@
                             <span class="menu-item-price2"> $12</span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">GUAVA (16oz)
-                            <span class="menu-item-price2"> $12</span>
-                    </div>
-                    <div class="menu-item2">
                             <span class="menu-item-title2">PASSIONFRUIT (16oz)
                             <span class="menu-item-price2"> $12</span>
                     </div>
