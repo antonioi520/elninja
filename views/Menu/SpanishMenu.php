@@ -1429,7 +1429,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">Moët and Chandon Imperial Brut
-                            <span class="menu-item-price2"> BOTTLE: $175</span>
+                            <span class="menu-item-price2"> BOTTLE: $100</span>
                                 <br> (Épernay, France)
                             </span>
                         <p><br></p>
