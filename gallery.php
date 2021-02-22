@@ -1212,11 +1212,22 @@
 
             <div class="videoSlides">
                 <div class="numbertext">1 / 1</div>
-                <center>
-                    <video width="480" height="480" controls>
-                        <source src="vid/valentines.MP4" type="video/mp4">
-                    </video>
-                </center>
+                <div id="content-desktop">
+                    <center>
+                        <video width="480" height="480" controls>
+                            <source src="vid/valentines.MP4" type="video/mp4">
+                        </video>
+                    </center>
+                </div>
+
+                <div id="content-mobile">
+                    <center>
+                        <video width="90%" height="90%" controls>
+                            <source src="vid/valentines.MP4" type="video/mp4">
+                        </video>
+                    </center>
+                </div>
+
             </div>
 
             <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
