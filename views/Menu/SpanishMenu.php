@@ -2,7 +2,7 @@
     <div class="nav nav-tabs justify-content-center" id="nav-tab1" role="tablist">
         <a class="nav-item nav-link active menunavitem" id="nav-all-tab1" data-toggle="tab" href="#nav-all1" role="tab" aria-controls="nav-all1" aria-selected="true">Todas</a>
         <a class="nav-item nav-link menunavitem" id="nav-app-tab1" data-toggle="tab" href="#nav-app1" role="tab" aria-controls="nav-app1" aria-selected="false">Aperitivos</a>
-        <a class="nav-item nav-link menunavitem" id="nav-brunch-tab1" data-toggle="tab" href="#nav-brunch1" role="tab" aria-controls="nav-brunch1" aria-selected="false">Brunch</a>
+        <!--a class="nav-item nav-link menunavitem" id="nav-brunch-tab1" data-toggle="tab" href="#nav-brunch1" role="tab" aria-controls="nav-brunch1" aria-selected="false">Brunch</a-->
         <a class="nav-item nav-link menunavitem" id="nav-rolls-tab1" data-toggle="tab" href="#nav-rolls1" role="tab" aria-controls="nav-rolls1" aria-selected="false">Rollos</a>
         <a class="nav-item nav-link menunavitem" id="nav-entrees-tab1" data-toggle="tab" href="#nav-entrees1" role="tab" aria-controls="nav-entrees1" aria-selected="false">Platos Fuertes</a>
         <a class="nav-item nav-link menunavitem" id="nav-etc-tab1" data-toggle="tab" href="#nav-etc1" role="tab" aria-controls="nav-etc1" aria-selected="false">Etc.</a>
@@ -13,7 +13,7 @@
     <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
         <a class="nav-item nav-link active menunavitem" id="nav-all-tab1" data-toggle="tab" href="#nav-all1" role="tab" aria-controls="nav-all1" aria-selected="true" style="margin-left: 0px;">Todas</a>
         <a class="nav-item nav-link menunavitem" id="nav-app-tab1" data-toggle="tab" href="#nav-app1" role="tab" aria-controls="nav-app1" aria-selected="false" style="margin-left: 0px;">Aperitivos</a>
-        <a class="nav-item nav-link menunavitem" id="nav-brunch-tab1" data-toggle="tab" href="#nav-brunch1" role="tab" aria-controls="nav-brunch1" aria-selected="false" style="margin-left: 0px;">Brunch</a>
+        <!--a class="nav-item nav-link menunavitem" id="nav-brunch-tab1" data-toggle="tab" href="#nav-brunch1" role="tab" aria-controls="nav-brunch1" aria-selected="false" style="margin-left: 0px;">Brunch</a-->
         <a class="nav-item nav-link menunavitem" id="nav-rolls-tab1" data-toggle="tab" href="#nav-rolls1" role="tab" aria-controls="nav-rolls1" aria-selected="false" style="margin-left: 0px;">Rollos</a>
         <a class="nav-item nav-link menunavitem" id="nav-entrees-tab1" data-toggle="tab" href="#nav-entrees1" role="tab" aria-controls="nav-entrees1" aria-selected="false" style="margin-left: 0px;">Platos Fuertes</a>
         <a class="nav-item nav-link menunavitem" id="nav-etc-tab1" data-toggle="tab" href="#nav-etc1" role="tab" aria-controls="nav-etc1" aria-selected="false" style="margin-left: 0px;">Etc.</a>
@@ -254,7 +254,7 @@
                         <p class="menu-item-description" style="color:black">Espárragos tempura, batata japonesa, maduro, guacamole y pico de gallo.</p>
                     </div>
                 </div>
-                <div class="entrees">
+                <!-- class="entrees">
                     <h2 style="font-weight: bolder;">BRUNCH</h2>
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
@@ -311,7 +311,7 @@
                             </span>
                         <p class="menu-item-description2"></p>
                     </div>
-                </div>
+                </div-->
                 <div class="appetizers">
                     <h2 style="font-weight: bolder;">ROLLOS TRADICIONALES</h2>
                     <div class="red-title-divider"></div>
@@ -773,7 +773,7 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="nav-brunch1" role="tabpanel" aria-labelledby="nav-brunch-tab1">
+        <!--div class="tab-pane fade" id="nav-brunch1" role="tabpanel" aria-labelledby="nav-brunch-tab1">
             <div class="menu menu-row menu-wrap menu-center" id="miscDiv" style="margin-top: 40px;" >
                 <div class="entrees">
                     <h2 style="font-weight: bolder;">Food</h2>
@@ -850,7 +850,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div-->
         <div class="tab-pane fade" id="nav-rolls1" role="tabpanel" aria-labelledby="nav-rolls-tab1">
             <div class="menu menu-row menu-wrap menu-center" id="rollsDiv" style="margin-top: 40px;" >
                 <div class="appetizers">
