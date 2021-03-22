@@ -117,34 +117,35 @@
 </section>
 
 <div class="container">
-    <!--div class="row">
+    <div class="row">
         <div class="col-md-6 about-content">
-            <h1 class="about-title" style="font-family: 'Poppins';font-size: 3.125em;font-weight:700;color:black;margin-bottom: 10px;">Grubhub</h1>
+            <h1 class="about-title" style="font-family: 'Poppins';font-size: 3.125em;font-weight:700;color:black;margin-bottom: 10px;">DoorDash</h1>
 
             <div class="red-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
 
             <p class="about-text">
-                Download the Grubhub app on your phone using <a href="https://www.grubhub.com/mobile_home">this link!</a>
-                Alternatively, you can use the <a href="https://www.grubhub.com/">Grubhub website</a> to place an order for delivery from El Ninja.
-                Click on the button below to view El Ninja Restaurant in Grubhub and place an order!
+                Download the DoorDash app for <a href="https://apps.apple.com/app/id719972451?mt=8">iPhone</a>
+                or <a href="https://play.google.com/store/apps/details?id=com.dd.doordash&hl=en_US&gl=US">Android</a> here!
+                Alternatively, you can use the <a href="https://www.doordash.com/">DoorDash website</a> to place an order for delivery from El Ninja.
+                Click on the button below to view El Ninja Restaurant in DoorDash and place an order!
             </p>
 
             <br>
-            <a href="https://www.grubhub.com/restaurant/el-ninja-restaurant-1007-broad-st-providence/2286392" target="_blank" id="menuBox" style="width: 315px; height: 75px;"><h2 id="menuBoxText">View in Grubhub</h2></a>
+            <a href="https://www.doordash.com/store/el-ninja-restaurant-providence--providence-1550400" target="_blank" id="menuBox" style="width: 325px; height: 75px;"><h2 id="menuBoxText">View in DoorDash</h2></a>
         </div>
 
         <div class="col-lg-6 about-img" id="content-desktop896">
-            <img src="img/grubhub.jpg" style="width:600px;height:330px;margin-top: 10px;">
+            <img src="img/doordash.png" style="width:600px;height:330px;margin-top: 10px;">
         </div>
 
         <div class="col-lg-6 about-img" id="content-mobile896">
             <center>
-                <img src="img/grubhub.jpg" style="width:100%;object-fit: scale-down;" id="aboutImg">
+                <img src="img/doordash.png" style="width:100%;object-fit: scale-down;" id="aboutImg">
             </center>
         </div>
     </div>
 
-    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896"-->
+    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896">
 
     <div class="row">
         <div class="col-lg-6 about-img" id="content-desktop896">
@@ -175,6 +176,36 @@
                 </center>
             </div>
         </div>
+
+        <!--div class="row">
+       <div class="col-md-6 about-content">
+           <h1 class="about-title" style="font-family: 'Poppins';font-size: 3.125em;font-weight:700;color:black;margin-bottom: 10px;">Grubhub</h1>
+
+           <div class="red-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+
+           <p class="about-text">
+               Download the Grubhub app on your phone using <a href="https://www.grubhub.com/mobile_home">this link!</a>
+               Alternatively, you can use the <a href="https://www.grubhub.com/">Grubhub website</a> to place an order for delivery from El Ninja.
+               Click on the button below to view El Ninja Restaurant in Grubhub and place an order!
+           </p>
+
+           <br>
+           <a href="https://www.grubhub.com/restaurant/el-ninja-restaurant-1007-broad-st-providence/2286392" target="_blank" id="menuBox" style="width: 315px; height: 75px;"><h2 id="menuBoxText">View in Grubhub</h2></a>
+       </div>
+
+       <div class="col-lg-6 about-img" id="content-desktop896">
+           <img src="img/grubhub.jpg" style="width:600px;height:330px;margin-top: 10px;">
+       </div>
+
+       <div class="col-lg-6 about-img" id="content-mobile896">
+           <center>
+               <img src="img/grubhub.jpg" style="width:100%;object-fit: scale-down;" id="aboutImg">
+           </center>
+       </div>
+   </div>
+
+   <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896"-->
+
     </div>
 </div>
 
