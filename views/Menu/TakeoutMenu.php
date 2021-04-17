@@ -470,7 +470,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
-                                <span class="menu-item-price" style="float:right;color:black"> $26</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Crispy red snapper filled with maduro mash, topped by bacalao and our famous Ninja's Special Sauce.</p>
                     </div>
@@ -1094,7 +1094,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
-                                <span class="menu-item-price" style="float:right;color:black"> $26</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Crispy red snapper filled with maduro mash, topped by bacalao and our famous Ninja's Special Sauce.</p>
                     </div>

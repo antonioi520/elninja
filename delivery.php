@@ -678,7 +678,7 @@
             </div>
             <div class="delivery-item">
                 <div class="delivery-item-name">Pescado Relleno</div>
-                <div class="delivery-item-price">$34</div>
+                <div class="delivery-item-price">Market Price</div>
                 <div class="delivery-item-description">
                     Crispy red snapper filled with maduro mash topped by bacalao and our famous Ninja’s Special Sauce.
                 </div>

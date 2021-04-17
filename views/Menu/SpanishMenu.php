@@ -471,7 +471,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
-                                <span class="menu-item-price" style="float:right;color:black"> $26</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Una cubera roja crujiente relleno de puré de maduro con bacalao y nuestra famosa Salsa Especial Ninja por encima.</p>
                     </div>
@@ -1111,7 +1111,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
-                                <span class="menu-item-price" style="float:right;color:black"> $26</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Una cubera roja crujiente relleno de puré de maduro con bacalao y nuestra famosa Salsa Especial Ninja por encima.</p>
                     </div>
