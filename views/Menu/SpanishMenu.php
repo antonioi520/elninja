@@ -431,7 +431,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">CHURRASCO
-                                <span class="menu-item-price" style="float:right;color:black"> $24</span>
+                                <span class="menu-item-price" style="float:right;color:black"> $30</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Nuestro jugoso churrasco a la parrilla acompañado por chimichurri asiático y puré de yuca.</p>
                     </div>
@@ -628,7 +628,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">SOPA DE MARISCO
-                            <span class="menu-item-price2"> $10</span>
+                            <span class="menu-item-price2"> $18</span>
                             </span>
                         <p class="menu-item-description2">Nuestro sabrosa sopa de mariscos y vegetales frescos.</p>
                     </div>
@@ -1071,7 +1071,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">CHURRASCO
-                                <span class="menu-item-price" style="float:right;color:black"> $24</span>
+                                <span class="menu-item-price" style="float:right;color:black"> $30</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Nuestro jugoso churrasco a la parrilla acompañado por chimichurri asiático y puré de yuca.</p>
                     </div>
@@ -1272,7 +1272,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">SOPA DE MARISCO
-                            <span class="menu-item-price2"> $10</span>
+                            <span class="menu-item-price2"> $18</span>
                             </span>
                         <p class="menu-item-description2">Nuestro sabrosa sopa de mariscos y vegetales frescos.</p>
                     </div>
