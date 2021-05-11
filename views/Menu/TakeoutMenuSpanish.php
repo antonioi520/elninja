@@ -1255,7 +1255,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">SOPA DE MARISCO
-                            <span class="menu-item-price2"> $18/span>
+                            <span class="menu-item-price2"> $18</span>
                             </span>
                         <p class="menu-item-description2">Nuestro sabrosa sopa de mariscos y vegetales frescos.</p>
                     </div>
