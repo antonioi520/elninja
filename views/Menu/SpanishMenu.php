@@ -1262,7 +1262,7 @@
                             </span>
                     </div>
                     <div class="menu-item2">
-                            <span class="menu-item-title2">YUCA FRTA
+                            <span class="menu-item-title2">YUCA FRITA
                             <span class="menu-item-price2"> $6</span>
                             </span>
                     </div>
