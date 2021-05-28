@@ -1,5 +1,5 @@
 
-<?php include 'menu.php' ?>
+<!--?php include 'menu.php' ?>
 
 <script>
     //$(document).ready(function(){
@@ -20,4 +20,4 @@
         //$('.tab-content .tab-pane').addClass('active');
         $('.nav-tabs a[href="#' + brunchTab + '"]').tab('show');
     };
-</script>
+</script-->

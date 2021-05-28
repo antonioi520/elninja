@@ -430,7 +430,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">CHURRASCO
-                                <span class="menu-item-price" style="float:right;color:black"> $24</span>
+                                <span class="menu-item-price" style="float:right;color:black"> $30</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Our juicy, grilled skirt steak accompanied by Asian chimichurri and yucca mash.</p>
                     </div>
@@ -470,7 +470,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
-                                <span class="menu-item-price" style="float:right;color:black"> $26</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Crispy red snapper filled with maduro mash, topped by bacalao and our famous Ninja's Special Sauce.</p>
                     </div>
@@ -627,7 +627,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">SOPA DE MARISCO
-                            <span class="menu-item-price2"> $10</span>
+                            <span class="menu-item-price2"> $18</span>
                             </span>
                         <p class="menu-item-description2">Our savory broth of fresh seafood and veggies.</p>
                     </div>
@@ -1054,7 +1054,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">CHURRASCO
-                                <span class="menu-item-price" style="float:right;color:black"> $24</span>
+                                <span class="menu-item-price" style="float:right;color:black"> $30</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Our juicy, grilled skirt steak accompanied by Asian chimichurri and yucca mash.</p>
                     </div>
@@ -1094,7 +1094,7 @@
                     </div>
                     <div class="menu-item2">
                             <span class="menu-item-title" style="color:black;font-weight: bolder">PESCADO RELLENO
-                                <span class="menu-item-price" style="float:right;color:black"> $26</span>
+                                <span class="menu-item-price" style="float:right;color:black"> Market Price</span>
                                 </span>
                         <p class="menu-item-description" style="color:black">Crispy red snapper filled with maduro mash, topped by bacalao and our famous Ninja's Special Sauce.</p>
                     </div>
@@ -1255,7 +1255,7 @@
                     <div class="red-title-divider"></div>
                     <div class="menu-item2">
                             <span class="menu-item-title2">SOPA DE MARISCO
-                            <span class="menu-item-price2"> $10</span>
+                            <span class="menu-item-price2"> $18</span>
                             </span>
                         <p class="menu-item-description2">Our savory broth of fresh seafood and veggies.</p>
                     </div>

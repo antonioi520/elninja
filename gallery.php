@@ -509,8 +509,20 @@
                 <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-123.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(28)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-139.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(29
-                )" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/StaffThumbs/ENR-Tasting-139.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(29)" class="hover-shadow cursor">
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
+    <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Videos</h2>
+    <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
+    <br>
+    <div class="gallery-border">
+        <div class="row">
+            <div class="column">
+                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -1194,6 +1206,36 @@
         </div>
     </div>
 
+    <div id="videoModal" class="modal">
+        <span class="close cursor" onclick="closeVideoModal()">&times;</span>
+        <div class="modal-content">
+
+            <div class="videoSlides">
+                <div class="numbertext">1 / 1</div>
+                <div id="content-desktop">
+                    <center>
+                        <video width="480" height="480" controls>
+                            <source src="vid/valentines.MP4" type="video/mp4">
+                        </video>
+                    </center>
+                </div>
+
+                <div id="content-mobile">
+                    <center>
+                        <video width="90%" height="90%" controls>
+                            <source src="vid/valentines.MP4" type="video/mp4">
+                        </video>
+                    </center>
+                </div>
+
+            </div>
+
+            <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusVideoSlides(1)">&#10095;</a>
+
+        </div>
+    </div>
+
     <!--div id="menuModal" class="modal">
         <span class="close cursor" onclick="closeMenuModal()">&times;</span>
         <div class="modal-content">
@@ -1363,6 +1405,14 @@
             document.getElementById("menuModal").style.display = "none";
         }
 
+        function openVideoModal() {
+            document.getElementById("videoModal").style.display = "block";
+        }
+
+        function closeVideoModal() {
+            document.getElementById("videoModal").style.display = "none";
+        }
+
         var eventSlideIndex = 1;
         showEventSlides(eventSlideIndex);
 
@@ -1390,12 +1440,23 @@
         var menuSlideIndex = 1;
         showMenuSlides(menuSlideIndex);
 
+        var videoSlideIndex = 1;
+        showVideoSlides(videoSlideIndex);
+
         function plusEventSlides(n) {
             showEventSlides(eventSlideIndex += n);
         }
 
         function currentEventSlide(n) {
             showEventSlides(eventSlideIndex = n);
+        }
+
+        function plusVideoSlides(n) {
+            showVideoSlides(videoSlideIndex += n);
+        }
+
+        function currentVideoSlide(n) {
+            showVideoSlides(videoSlideIndex = n);
         }
 
         function plusTastingSlides(n) {
@@ -1478,6 +1539,24 @@
             slides[eventSlideIndex-1].style.display = "block";
             dots[eventSlideIndex-1].className += " active";
             captionText.innerHTML = dots[eventSlideIndex-1].alt;
+        }
+
+        function showVideoSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("videoSlides");
+            var dots = document.getElementsByClassName("demo6");
+            var captionText = document.getElementById("caption6");
+            if (n > slides.length) {videoSlideIndex = 1}
+            if (n < 1) {videoSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[videoSlideIndex-1].style.display = "block";
+            dots[videoSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[videoSlideIndex-1].alt;
         }
 
         function showTastingSlides(n) {
