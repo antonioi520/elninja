@@ -88,7 +88,7 @@
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
         <div class="row">
             
-            <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
+            <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                 <div class="row no-gutters">
                   <div class="col-md-4" style="border: 1px outset #fbca67">
                     <img src="img/Specials/drinks special.jpeg" class="card-img" alt="...">
@@ -104,7 +104,7 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>-->
         </div>
 
 
@@ -156,7 +156,7 @@
         <h3 style="text-align: center;margin-bottom: 10px;">Thursdays</h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
         <div class="row">
-            <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
+            <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                 <div class="row no-gutters">
                   <div class="col-md-4" style="border: 1px outset #fbca67">
                     <img src="img/Specials/drinks special.jpeg" class="card-img" alt="...">
@@ -172,7 +172,7 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>-->
         </div>
         
         <div class="row">
@@ -218,8 +218,9 @@
 
         <h3 style="text-align: center;margin-bottom: 10px;">Fridays</h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
+        <h5 style="text-align: center;">None</h5>
         <div class="row">
-              <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
+              <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                   <div class="row no-gutters">
                     <div class="col-md-4" style="border: 1px outset #fbca67">
                       <img src="img/Specials/special5_2.jpg" class="card-img" alt="..." style="object-fit:cover; height:263px;">
@@ -236,15 +237,16 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div>-->
           </div>
 
 
 
         <h3 style="text-align: center;margin-bottom: 10px;">Saturdays</h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
+        <h5 style="text-align: center;">None</h5>
         <div class="row">
-              <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
+              <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                   <div class="row no-gutters">
                     <div class="col-md-4" style="border: 1px outset #fbca67">
                       <img src="img/Specials/special5_2.jpg" class="card-img" alt="..." style="object-fit:cover; height:263px;">
@@ -261,15 +263,16 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div>-->
           </div>
 
 
 
         <h3 style="text-align: center;margin-bottom: 10px;">Sundays</h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
+        <h5 style="text-align: center;">None</h5>
           <div class="row">
-              <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
+              <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                   <div class="row no-gutters">
                     <div class="col-md-4" style="border: 1px outset #fbca67">
                       <img src="img/Specials/special4.jpg" class="card-img" alt="..." style="object-fit:cover; height:261px;">
@@ -287,7 +290,7 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div>-->
           </div>
     </div>
     
