@@ -35,7 +35,7 @@ if(isset($_POST['email'])) {
     if (!preg_match($email_exp, $email_from)) {
         $error_message .= 'Please enter a valid email.<br />';
     }
-
+    
     $string_exp = "/^[A-Za-z .'-]+$/";
 
     if (!preg_match($string_exp, $name)) {
