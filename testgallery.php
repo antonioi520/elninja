@@ -70,31 +70,6 @@
     <br>
     <hr>
 
-
-    <h2 class="section-title-lowercase gallery-header collapsible" style="text-align:center; color:black;font-weight: 700">El Ninja Grand Opening (7/16/20)</h2>
-    <div class="content">
-        <br>
-        <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
-        <br>
-        <div class="gallery-border">
-            <div class="row">
-
-                <?php
-                $dirname = "img/ElNinjaGrandOpening71620Thumbs/";
-                $images = glob($dirname."*.jpg");
-                $i = 1;
-
-                foreach($images as $image) {
-                    echo '<div class="column"><img id="galleryImg" style="width:100%" src="'.$image.'" onclick="openOpeningModal();currentOpeningSlide('.$i.')" class="hover-shadow cursor"/></div>';
-                    $i++;
-                }
-
-                ?>
-
-            </div>
-
-        </div>
-    </div>
     <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Food & Drinks</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
