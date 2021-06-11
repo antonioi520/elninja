@@ -69,6 +69,7 @@
     </center>
     <br>
     <hr>
+
     <h2 class="gallery-header" style="text-align:center; color:black;padding-bottom:0px;">Food & Drinks</h2>
     <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
     <br>
@@ -150,121 +151,77 @@
     </div>
 
     <br>
+    <!---
+    COLLAPSIBLE GALLERY SECTION - ADD TITLE AND ONCLICK FUNCTION TO CORRESPONDING ARRAY
+    KEEP DIRECTORY IN ORDER UNDER IMG/GALLERY/THUMBS  NEW FOLDER HAVE # BEFORE NAME
+     -->
+    <?php
+    $dirs = array_filter(glob('img/Gallery/Thumbs/*'), 'is_dir');
+    $title_array = array("El Ninja Tasting (7/1/20)", "El Ninja Grand Opening (7/16/20)");
+    $onclick_array = array("openTastingModal();currentTastingSlide", "openOpeningModal();currentOpeningSlide");
+    $x = 0;
+    foreach($dirs as $dir){
+        $dirname = $dir;
+        $images = glob($dirname."/*.jpg");
+        echo'
+             <h2 class="section-title-lowercase gallery-header collapsible" style="text-align:center; color:black;font-weight: 700">'.$title_array[$x].'</h2>
+             <div class="content">
+             <br>
+                <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
+             <br>
+                <div class="gallery-border">
+                <div class="row">';
+        $i = 1;
+        foreach($images as $image) {
+            echo '<div class="column"><img id="galleryImg" style="width:100%" src="'.$image.'" onclick="'.$onclick_array[$x].'('.$i.')" class="hover-shadow cursor"/></div>';
+            $i++;
+        }
+        echo '
+                </div>
+           </div>
+           </div>
+           <br>';
+        $x++;
+    }
+    ?>
 
-    <h2 class="section-title-lowercase gallery-header collapsible" style="text-align:center; color:black;font-weight: 700">El Ninja Tasting (7/1/20)</h2>
-    <div class="content">
-        <br>
-        <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
-        <br>
-        <div class="gallery-border">
-        <div class="row">
 
-            <?php
-            $dirname = "img/ElNinjaTasting70120Thumbs/";
-            $images = glob($dirname."*.jpg");
-            $i = 1;
-
-            foreach($images as $image) {
-                echo '<div class="column"><img id="galleryImg" style="width:100%" src="'.$image.'" onclick="openTastingModal();currentTastingSlide('.$i.')" class="hover-shadow cursor"/></div>';
-                $i++;
-            }
-
-            ?>
-
-        </div>
-    </div>
-    </div>
-    <br>
-
-    <h2 class="section-title-lowercase gallery-header collapsible" style="text-align:center; color:black;font-weight: 700">El Ninja Grand Opening (7/16/20)</h2>
-    <div class="content">
-        <br>
-        <div class="section-title-divider" style="margin-bottom:-10px; background-color:red;"></div>
-        <br>
-        <div class="gallery-border">
-            <div class="row">
-
-                <?php
-                $dirname = "img/ElNinjaGrandOpening71620Thumbs/";
-                $images = glob($dirname."*.jpg");
-                $i = 1;
-
-                foreach($images as $image) {
-                    echo '<div class="column"><img id="galleryImg" style="width:100%" src="'.$image.'" onclick="openOpeningModal();currentOpeningSlide('.$i.')" class="hover-shadow cursor"/></div>';
-                    $i++;
-                }
-
-                ?>
-
-            </div>
-
-        </div>
-    </div>
 
     <br>
+    <!---
+        MODALS - ADD CORRESPONDING MODAL INFORMATION TO ARRAY
+        KEEP DIRECTORY IN ORDER UNDER IMG/GALLERY/SOURCE  NEW FOLDER HAVE # BEFORE NAME
+       -->
+<?php
+            $dirs = array_filter(glob('img/Gallery/Source/*'), 'is_dir');
+            $modal_array = array("foodModal", "interiorModal", "staffModal", "tastingModal", "openingModal");
+            $onclick_array = array("closeFoodModal", "closeInteriorModal", "closeStaffModal", "closeTastingModal", "closeOpeningModal");
+            $classname_array = array("foodSlides","interiorSlides","staffSlides","tastingSlides","openingSlides");
+            $navigate_array = array("plusFoodSlides","plusInteriorSlides","plusStaffSlides","plusTastingSlides","plusOpeningSlides");
+            $x = 0;
+            foreach($dirs as $dir){
+                $dirname = $dir;
+                $images = glob($dirname."/*.jpg");
+                echo'
+                    <div id="'.$modal_array[$x].'" class="modal">
+                        <span class="close cursor" onclick="'.$onclick_array[$x].'()">&times;</span>
+                        <div class="modal-content">';
+                            $i = 1;
+                            foreach($images as $image) {
+                                echo
+                                    '<div class="'.$classname_array[$x].'"> <div class="numbertext">'.$i.' / '.count($images).'</div><img class="demo cursor" id="galleryImg" style="width:100%" src="'.$image.'" /></div>';
+                                $i++;
+                            }
+                    echo '
+                    <a class="prev" onclick="'.$navigate_array[$x].'(-1)">&#10094;</a>
+                    <a class="next" onclick="'.$navigate_array[$x].'(1)">&#10095;</a>
 
-<!--- Modals -->
-    <div id="foodModal" class="modal">
-        <span class="close cursor" onclick="closeFoodModal()">&times;</span>
-        <div class="modal-content">
-            <?php
-            $dirname = "img/FoodAndDrink/";
-            $images = glob($dirname."*.jpg");
-            $i = 1;
-            foreach($images as $image) {
-                echo
-                    '<div class="foodSlides"> <div class="numbertext">'.$i.' / 47</div><img class="demo cursor" id="galleryImg" style="width:100%" src="'.$image.'" /></div>';
-                    $i++;
+                        </div>
+                    </div>';
+                    $x++;
             }
-            ?>
-            <a class="prev" onclick="plusFoodSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusFoodSlides(1)">&#10095;</a>
-
-            <!-- Caption text -->
-            <div class="caption-container" style="height: 25px;">
-                <p id="caption" style="color:white;"></p>
-            </div>
-
-        </div>
-    </div>
-    <div id="interiorModal" class="modal">
-        <span class="close cursor" onclick="closeInteriorModal()">&times;</span>
-        <div class="modal-content">
-            <?php
-            $dirname = "img/InteriorNew/";
-            $images = glob($dirname."*.jpg");
-            $i = 1;
-            foreach($images as $image) {
-                echo
-                    '<div class="interiorSlides"> <div class="numbertext">'.$i.' / 46</div><img class="demo cursor" id="galleryImg" style="width:100%" src="'.$image.'" /></div>';
-                $i++;
-            }
-            ?>
-
-            <a class="prev" onclick="plusInteriorSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusInteriorSlides(1)">&#10095;</a>
-
-        </div>
-    </div>
-    <div id="staffModal" class="modal">
-        <span class="close cursor" onclick="closeStaffModal()">&times;</span>
-        <div class="modal-content">
-            <?php
-            $dirname = "img/StaffNew/";
-            $images = glob($dirname."*.jpg");
-            $i = 1;
-            foreach($images as $image) {
-                echo
-                    '<div class="staffSlides"> <div class="numbertext">'.$i.' / 29</div><img class="demo cursor" id="galleryImg" style="width:100%" src="'.$image.'" /></div>';
-                $i++;
-            }
-            ?>
-
-            <a class="prev" onclick="plusStaffSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusStaffSlides(1)">&#10095;</a>
-
-        </div>
-    </div>
+ ?>
+<!--- Video Modal -->
     <div id="videoModal" class="modal">
         <span class="close cursor" onclick="closeVideoModal()">&times;</span>
         <div class="modal-content">
@@ -294,45 +251,6 @@
 
         </div>
     </div>
-    <div id="tastingModal" class="modal">
-        <span class="close cursor" onclick="closeTastingModal()">&times;</span>
-        <div class="modal-content">
-            <?php
-            $dirname = "img/ElNinjaTasting70120/";
-            $images = glob($dirname."*.jpg");
-            $i = 1;
-            foreach($images as $image) {
-                echo
-                    '<div class="tastingSlides"> <div class="numbertext">'.$i.' / 27</div><img class="demo cursor" id="galleryImg" style="width:100%" src="'.$image.'" /></div>';
-                $i++;
-            }
-            ?>
-
-            <a class="prev" onclick="plusTastingSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusTastingSlides(1)">&#10095;</a>
-
-        </div>
-    </div>
-    <div id="openingModal" class="modal">
-        <span class="close cursor" onclick="closeOpeningModal()">&times;</span>
-        <div class="modal-content">
-            <?php
-            $dirname = "img/ElNinjaGrandOpening71620/";
-            $images = glob($dirname."*.jpg");
-            $i = 1;
-            foreach($images as $image) {
-                echo
-                    '<div class="openingSlides"> <div class="numbertext">'.$i.' / 125</div><img class="demo cursor" id="galleryImg" style="width:100%" src="'.$image.'" /></div>';
-                $i++;
-            }
-            ?>
-
-            <a class="prev" onclick="plusOpeningSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusOpeningSlides(1)">&#10095;</a>
-
-        </div>
-    </div>
-
 
 <script>
     var coll = document.getElementsByClassName("collapsible");
