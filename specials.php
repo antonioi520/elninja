@@ -72,9 +72,9 @@
 
     <br>
 
-     <h2 style="text-align: center;color:black;margin-bottom: 5px;font-weight: 600">Check out our current special offers!</h2> 
-    <br> 
-    
+     <h2 style="text-align: center;color:black;margin-bottom: 5px;font-weight: 600">Check out our current special offers!</h2>
+    <br>
+
     <div style="padding:20px;border:3px double #ee2929 ">
         <h3 style="text-align: center;margin-bottom: 10px;">Mondays</h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
@@ -87,7 +87,7 @@
         <h3 style="text-align: center;margin-bottom: 10px;">Wednesdays</h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
         <div class="row">
-            
+
             <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                 <div class="row no-gutters">
                   <div class="col-md-4" style="border: 1px outset #fbca67">
@@ -109,7 +109,7 @@
 
 
         <div class="row">
-            
+
             <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                 <div class="row no-gutters">
                   <div class="col-md-4" style="border: 1px outset #fbca67">
@@ -119,7 +119,7 @@
                     <div class="card-body" style="background-image: url(img/ninja_space.png);">
                         <br>
                       <h5 class="card-title" style="font-size: 30px;">$10 All Sushi Rolls / <br> $10 Todo Sushi</h5>
-  
+
                       <p class="card-text" style="font-size: 20px;">Wednesdays</p>
                       <br>
                       <p class="card-text"><small class="text-muted">1007 Broad Street Providence, RI 02905</small></p>
@@ -132,7 +132,7 @@
 
 
         <div class="row">
-            
+
             <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                 <div class="row no-gutters">
                   <div class="col-md-4" style="border: 1px outset #fbca67">
@@ -142,7 +142,7 @@
                     <div class="card-body" style="background-image: url(img/ninja_space.png);">
                         <br>
                       <h5 class="card-title" style="font-size: 30px;">$10 All Sushi Rolls / <br> $10 Todo Sushi</h5>
-  
+
                       <p class="card-text" style="font-size: 20px;">Wednesdays</p>
                       <br>
                       <p class="card-text"><small class="text-muted">1007 Broad Street Providence, RI 02905</small></p>
@@ -174,7 +174,7 @@
                 </div>
               </div>-->
         </div>
-        
+
         <div class="row">
             <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                 <div class="row no-gutters">
@@ -231,7 +231,7 @@
                         <h5 class="card-title" style="font-size: 30px;">Boca Chica a la Diabla</h5>
                         <p class="card-text" style="font-size: 20px;">$35</p>
                         <br>
-                        <p class="card-text" style="font-size: 15px;">Friday & Satuday</p>                                           
+                        <p class="card-text" style="font-size: 15px;">Friday & Satuday</p>
                         <p class="card-text"><small class="text-muted">1007 Broad Street Providence, RI 02905</small></p>
                         <p class="card-text"><small class="text-muted">(401) 467-2581</small></p>
                       </div>
@@ -242,11 +242,16 @@
 
 
 
-        <h3 style="text-align: center;margin-bottom: 10px;">Saturdays</h3>
+        <h3 style="text-align: center;margin-bottom: 10px;">Saturday (July 17th) </h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
-        <h5 style="text-align: center;">None</h5>
+        <h5 style="text-align: center;color:#ee2929;font-weight: bold;font-size: 25px;">1 Year Anniversary!</h5>
+        <video width="736" height="258" controls style="display: block;margin-left: auto;margin-right: auto; max-width:100%">
+            <source src="img/ninja1year.MP4" type="video/mp4">
+        </video>
         <div class="row">
-              <!--<div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
+            <div class="text-center">
+            </div>
+             <!-- <div class="card text-center mb-3" style="max-width: 740px;margin: 0 auto;border: 2px ridge">
                   <div class="row no-gutters">
                     <div class="col-md-4" style="border: 1px outset #fbca67">
                       <img src="img/Specials/special5_2.jpg" class="card-img" alt="..." style="object-fit:cover; height:263px;">
@@ -257,7 +262,7 @@
                         <h5 class="card-title" style="font-size: 30px;">Boca Chica a la Diabla</h5>
                         <p class="card-text" style="font-size: 20px;">$35</p>
                         <br>
-                        <p class="card-text" style="font-size: 15px;">Friday & Satuday</p>                                           
+                        <p class="card-text" style="font-size: 15px;">Friday & Satuday</p>
                         <p class="card-text"><small class="text-muted">1007 Broad Street Providence, RI 02905</small></p>
                         <p class="card-text"><small class="text-muted">(401) 467-2581</small></p>
                       </div>
@@ -265,7 +270,7 @@
                   </div>
                 </div>-->
           </div>
-
+        <br/>
 
 
         <h3 style="text-align: center;margin-bottom: 10px;">Sundays</h3>
@@ -284,7 +289,7 @@
                         <p class="card-text" style="font-size: 15px;">Mimosa $5/$15</p>
                         <p class="card-text" style="font-size: 15px;">Sangria $6/$25</p> <br>
                         <p class="card-text" style="font-size: 15px;">Sundays 12pm - 4pm</p>
-                        
+
                         <p class="card-text"><small class="text-muted">1007 Broad Street Providence, RI 02905</small></p>
                         <p class="card-text"><small class="text-muted">(401) 467-2581</small></p>
                       </div>
@@ -293,9 +298,9 @@
                 </div>-->
           </div>
     </div>
-    
-    
-   
+
+
+
 <div class="col-md-6"></div>
 </div>
 

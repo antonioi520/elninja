@@ -56,10 +56,15 @@
 <!--==========================
   About Section
   ============================-->
+<div class="alert alert-warning" role="alert" style="text-align: center">
+    El Ninja celebrating 1 year anniversary! Check out our <a href="specials">specials</a> more info!
+</div>
+<img src="img/Home/ninja_1_year.jpg" alt="" style="height:612px;object-fit: cover;display: block;margin-left: auto;margin-right: auto;" id="aboutImg">
 <section id="about">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
+
                 <h3 class="section-title" style="font-family: 'Poppins';font-size: 3.125em;">About us</h3>
                 <div class="red-title-divider" style="margin-top: -30px;"></div>
                 <br>
