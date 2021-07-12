@@ -59,6 +59,7 @@
 <div class="alert alert-warning" role="alert" style="text-align: center">
     El Ninja celebrating 1 year anniversary! Check out our <a href="specials">specials</a> more info!
 </div>
+<br>
 <img src="img/Home/ninja_1_year.jpg" alt="" style="height:612px;object-fit: cover;display: block;margin-left: auto;margin-right: auto;" id="aboutImg">
 <section id="about">
     <div class="container wow fadeInUp">
@@ -352,8 +353,8 @@
                         <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Wed-Fri:</strong><p style="padding-left:0;"> 5pm-11pm</p><br>
                         <!--strong>Fri:</strong><p style="padding-left:0;"> 4pm-10:30pm</p><br-->
-                        <strong>Sat-Sun:</strong><p style="padding-left:0;"> 1pm-11pm</p><br>
-                        <!--strong>Sun:</strong><p style="padding-left:0;"> 1pm-11pm</p-->
+                        <strong>Sat:</strong><p style="padding-left:0;"> 3pm-11pm</p><br>
+                        <strong>Sun:</strong><p style="padding-left:0;"> 1pm-11pm</p>
                         <br>
                         <!--strong style="color: red;">*Monday open for sushi take out only!</strong-->
                     </div>
