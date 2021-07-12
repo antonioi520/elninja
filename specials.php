@@ -245,7 +245,7 @@
         <h3 style="text-align: center;margin-bottom: 10px;">Saturday (July 17th) </h3>
         <div class="red-title-divider" style="height:.0100em;width:200px;padding:0px;margin-bottom:10px;"></div>
         <h5 style="text-align: center;color:#ee2929;font-weight: bold;font-size: 25px;">1 Year Anniversary!</h5>
-        <img src="img/Home/1yearposter.JPG" alt="" style="height:612px;object-fit: cover;display: block;margin-left: auto;margin-right: auto;" id="aboutImg">
+        <img src="img/Home/1yearposter.JPG" alt="" style="width:95%;object-fit: contain;display: block;margin-left: auto;margin-right: auto;">
         <br>
         <video width="736" height="258" controls style="display: block;margin-left: auto;margin-right: auto; max-width:100%">
             <source src="img/ninja1year.MP4" type="video/mp4">
