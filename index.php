@@ -352,8 +352,8 @@
                         <strong>Tues:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Wed-Fri:</strong><p style="padding-left:0;"> 5pm-11pm</p><br>
                         <!--strong>Fri:</strong><p style="padding-left:0;"> 4pm-10:30pm</p><br-->
-                        <strong>Sat-Sun:</strong><p style="padding-left:0;"> 1pm-11pm</p><br>
-                        <!--strong>Sun:</strong><p style="padding-left:0;"> 1pm-11pm</p-->
+                        <strong>Sat:</strong><p style="padding-left:0;"> 3pm-11pm</p><br>
+                        <strong>Sun:</strong><p style="padding-left:0;"> 1pm-11pm</p>
                         <br>
                         <!--strong style="color: red;">*Monday open for sushi take out only!</strong-->
                     </div>
