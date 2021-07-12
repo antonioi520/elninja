@@ -59,6 +59,7 @@
 <div class="alert alert-warning" role="alert" style="text-align: center">
     El Ninja celebrating 1 year anniversary! Check out our <a href="specials">specials</a> more info!
 </div>
+<br>
 <img src="img/Home/ninja_1_year.jpg" alt="" style="height:612px;object-fit: cover;display: block;margin-left: auto;margin-right: auto;" id="aboutImg">
 <section id="about">
     <div class="container wow fadeInUp">
